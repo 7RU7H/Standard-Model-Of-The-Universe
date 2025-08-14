@@ -1,6 +1,6 @@
 # Standard Model
 
-![](Crab_Nebula.jpg)
+![](Operation-Spring-New-Ember/Inner-Neutron/Images/Crab_Nebula.jpg)
 
 ... 13:00~ 07/07/2025
 >*Everyone else had fallen in love with light and I loved time*
@@ -13,7 +13,15 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 
 
-Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe
+Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
+> Hoodie experiment, similar to the slit experiment
+> 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
+> 2. Sunny Day
+> Outcome:
+> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achive optimal passage through at light speed.
+>-  The optical illusion of seeing multiple eye lashes
+>- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain)
+
 
 Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony 
 
