@@ -285,6 +285,14 @@ Standard model of particle physics table with spin, examples of sub types that h
 
 https://en.wikipedia.org/wiki/Electron_capture
 
+
+PHIND:
+Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
+- Electromagnetic Spectrum
+- Heat transfer occurs through electromagnetic radiation
+
+Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language
+
 #### Notes 
 
 
