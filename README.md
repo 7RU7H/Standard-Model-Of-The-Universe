@@ -17,6 +17,18 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 decision: force -> interaction, Force interacts ?!? 
 
 
+Equations:
+- Time is one dimensional and detirministic
+	- Predetirmination
+	- Postdetirmination
+	- 
+- Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
+- Dark Matter and Energy are obserable by products
+- Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
+	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
+	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+
+
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
 > 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
