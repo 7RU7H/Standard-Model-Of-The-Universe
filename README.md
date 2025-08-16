@@ -12,26 +12,34 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 **NOTES AND WONDER TO DO**
 
 
+? Naming conventions
+
+decision: force -> interaction, Force interacts ?!? 
+
 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
 > 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
 > 2. Sunny Day
 > Outcome:
-> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achive optimal passage through at light speed.
+> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
 >- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain)
 
 
 Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony 
 
-Schizophrenia is informational communication through time in one body just a all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time.
+Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
 
-Quantum mechanics is just information affecting everything relative to it across a scope of time through space.
+Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
 
+The brain is kind of Quantum computer
+
+Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. 
 #### Todo
 
 Questions Section done
+Naming Conventions - yikes
 Notes section Modularisation and discern Maybe Useful Section
 Read over 
 - Double check peer reviews for these paper
@@ -267,7 +275,7 @@ https://en.wikipedia.org/wiki/Electron_capture
 
 #### Notes 
 
-Naming convention decision: force -> interaction
+
 
 Add proton and electron row ids
 Maybe break each set up into six
