@@ -1,6 +1,6 @@
-# Standard Model
+# Operation Star
 
-![](Operation-Spring-New-Ember/Inner-Neutron/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
+![](Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/Crab_Nebula.jpg)
 
 ... 13:00~ 07/07/2025
 >*Everyone else had fallen in love with light and I loved time*
@@ -12,46 +12,26 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 **NOTES AND WONDER TO DO**
 
 
-? Naming conventions
-
-decision: force -> interaction, Force interacts ?!? 
-
-
-Equations:
-- Time is one dimensional and detirministic
-	- Predetirmination
-	- Postdetirmination
-	- 
-- Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
-- Dark Matter and Energy are obserable by products
-- Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
-	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
-	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
-
 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
 > 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
 > 2. Sunny Day
 > Outcome:
-> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
+> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achive optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
 >- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain)
 
 
-Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony 
+Black holes are holes in our Universe and Neutron stars are the inverse maintaining a harmony 
 
-Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+Schizophrenia is informational communication through time in one body just a all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time.
 
-Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
+Quantum mechanics is just information affecting everything relative to it across a scope of time through space.
 
-The brain is kind of Quantum computer
-
-Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. 
 #### Todo
 
 Questions Section done
-Naming Conventions - yikes
 Notes section Modularisation and discern Maybe Useful Section
 Read over 
 - Double check peer reviews for these paper
@@ -285,17 +265,9 @@ Standard model of particle physics table with spin, examples of sub types that h
 
 https://en.wikipedia.org/wiki/Electron_capture
 
-
-PHIND:
-Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
-- Electromagnetic Spectrum
-- Heat transfer occurs through electromagnetic radiation
-
-Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language
-
 #### Notes 
 
-
+Naming convention decision: force -> interaction
 
 Add proton and electron row ids
 Maybe break each set up into six
