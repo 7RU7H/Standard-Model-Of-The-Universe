@@ -36,16 +36,37 @@ Light is the resulting affect of Quantum and non-Quantum processes across all Ti
 > Outcome:
 > - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
->- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain)
+>- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain
+
+Saw NAMDIE' of the tunnel in near by location
+Microodial structures 
+
+Second time saw none of the above phenomena
+
+[Cosmic distance ladder YouTube: 3Blue1Bown](https://www.youtube.com/watch?v=YdOXS_9_P4U) - maybe the light is weird oblate spheriod in between two fibrious (but it would interact with the light from the other hole and reflected uot of my eyes)
+- https://en.wikipedia.org/wiki/Cosmic_distance_ladder
+- Mapping Schizo-Time-Line is simply a Cosmic Distance ladder dependent of Brain Chemistry before and after inital Psychosis - DMT as ingested substance differs in activation in Brain
+	- I.E which version of yourself is at what date and time alignment
+
+Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony? Or are they a cluster of Dark matter?
+-  do they actually spin or is just like a sinkhole spinning the water because of gravity?
+
+Neutron Stars 
+- Weird mass of one Neutron Stars 
+	- What happens if that collapses?
+	- 
 
 
-Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony 
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
 
-The brain is kind of Quantum computer
+The brain is kind of organic Classical and Quantum computer
+- Fractal 
+- Mold growth search algorithms
+
+Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
 
 Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. 
 #### Todo
@@ -72,6 +93,7 @@ gapless Goldstone Modes were used
 	- Where do and do these even exist
 	- https://en.wikipedia.org/wiki/Goldstone_boson
 
+Goldstone Boson - **appear necessarily** in models what are the true Bosons and Fermions
 
 https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/
 - https://www.nature.com/articles/s41586-025-08616-9
@@ -151,7 +173,7 @@ Phase in-variance [phase lecture](Pre-1-7-2025-Operations/Operation-KarlachBackS
 
 - Neutron Stars do spin much fast the in Starsector https://en.wikipedia.org/wiki/Stellar_rotation
 
-> A [neutron star](https://en.wikipedia.org/wiki/Neutron_star "Neutron star") is a highly dense remnant of a star that is primarily composed of [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron")—a particle that is found in most atomic nuclei and has no net electrical charge. The mass of a neutron star is in the range of 1.2 to 2.1 times the [mass of the Sun](https://en.wikipedia.org/wiki/Solar_mass "Solar mass"). As a result of the collapse, a newly formed neutron star can have a very rapid rate of rotation; on the order of a hundred rotations per second. [Pulsars](https://en.wikipedia.org/wiki/Pulsar "Pulsar") are rotating neutron stars that have a magnetic field. A narrow beam of [electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation "Electromagnetic radiation") is emitted from the poles of rotating pulsars. If the beam sweeps past the direction of the Solar System then the pulsar will produce a periodic pulse that can be detected from the Earth. The energy radiated by the magnetic field gradually slows down the rotation rate, so that older pulsars can require as long as several seconds between each pulse.
+
 
 
 Black Holes do they actually spin or is just like a sinkhole spinning the water because of gravity
@@ -177,7 +199,7 @@ https://www.nature.com/articles/s41550-024-02465-8
 
 
 [[No-Simulation-Proof]]
-Deprove Simulation with Biological imperative and Life algorithm with time travel
+Disprove Simulation with Biological imperative and Life algorithm with time travel
 https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
 - Size of the Universe
 - Fundamental model of Universe would require a computer infinitely big and Black hole are just wholes in the Dark matter of the Universe 
@@ -188,7 +210,12 @@ https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 [[Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
 https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
 
-
+Superconductivity at the microscope level exists [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
+- BCS theory starts from the assumption that there is some attraction between electrons, which can overcome the [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion")
+	- **Evidence of a [band gap](https://en.wikipedia.org/wiki/Band_gap "Band gap") at the Fermi level**
+	- **Isotope effect on the critical temperature, suggesting lattice interactions**
+	- **An [exponential rise](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") in [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity "Heat capacity") near the critical temperature for some superconductors**
+	- **The lessening of the measured energy gap towards the critical temperature**
 
 How could you prove or disapprove blackholes, neutron stars as manifolds
 https://en.wikipedia.org/wiki/Hypersurface Find video, TL issues
@@ -316,27 +343,9 @@ Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/
 | `w boson` |         |
 `gravitons` are theoretical
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gluon) *"A **gluon** ([/ˈɡluːɒn/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_GLOO-on_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pronunciation respelling key")) is a type of [massless](https://en.wikipedia.org/wiki/Massless_particle "Massless particle") [elementary particle](https://en.wikipedia.org/wiki/Elementary_particle "Elementary particle") that mediates the [strong interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark"), acting as the [exchange particle](https://en.wikipedia.org/wiki/Exchange_particle "Exchange particle") for the interaction. Gluons are massless [vector bosons](https://en.wikipedia.org/wiki/Vector_boson "Vector boson"), thereby having a [spin](https://en.wikipedia.org/wiki/Spin_\(physics\) "Spin (physics)") of 1.[[7]](https://en.wikipedia.org/wiki/Gluon#cite_note-7) Through the strong interaction, gluons bind quarks into groups according to [quantum chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics"), forming [hadrons](https://en.wikipedia.org/wiki/Hadron "Hadron") such as [protons](https://en.wikipedia.org/wiki/Proton "Proton") and [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron"). Gluons carry the [color charge](https://en.wikipedia.org/wiki/Color_charge "Color charge") of the strong interaction, thereby participating in the strong interaction as well as mediating it. Because gluons carry the color charge, QCD is more difficult to analyze compared to [quantum electrodynamics (QED)](https://en.wikipedia.org/wiki/Quantum_electrodynamics "Quantum electrodynamics") where the [photon](https://en.wikipedia.org/wiki/Photon "Photon") carries no electric charge. The term was coined by [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann "Murray Gell-Mann") in 1962[[a]](https://en.wikipedia.org/wiki/Gluon#cite_note-9) for being similar to an [adhesive](https://en.wikipedia.org/wiki/Adhesive "Adhesive") or glue that keeps the nucleus together.[[9]](https://en.wikipedia.org/wiki/Gluon#cite_note-10) Together with the quarks, these particles were referred to as [partons](https://en.wikipedia.org/wiki/Parton_\(particle_physics\) "Parton (particle physics)") by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman "Richard Feynman").[[10]](https://en.wikipedia.org/wiki/Gluon#cite_note-11)*
-
-Gluon are a [Wikipedia Vector boson](https://en.wikipedia.org/wiki/Vector_boson) states vector boson as a [boson](https://en.wikipedia.org/wiki/Boson "Boson") whose [spin](https://en.wikipedia.org/wiki/Spin_\(physics\) "Spin (physics)") equals one. In relation to the Higgs Boson - the [W and Z](https://en.wikipedia.org/wiki/W_and_Z_bosons "W and Z bosons") particles interact with the Higgs boson as shown in the [Feynman diagram](https://en.wikipedia.org/wiki/Feynman_diagram).
-
-Neutron Stars
-- [Wikipedia Nuclear Pasta](https://en.wikipedia.org/wiki/Nuclear_pasta) *"Unlike their progenitor star, neutron stars do not consist of a gaseous plasma. Rather, the intense gravitational attraction of the compact mass overcomes the [electron degeneracy pressure](https://en.wikipedia.org/wiki/Electron_degeneracy_pressure "Electron degeneracy pressure") and causes [electron capture](https://en.wikipedia.org/wiki/Electron_capture "Electron capture") to occur within the star.*"
-	- [Wikipedia electron degeneracy pressure](https://en.wikipedia.org/wiki/Electron_degeneracy_pressure) is a [quantum mechanical](https://en.wikipedia.org/wiki/Quantum_mechanical "Quantum mechanical") effect critical to understanding the stability of [white dwarf stars](https://en.wikipedia.org/wiki/White_dwarf_stars "White dwarf stars") and [metal](https://en.wikipedia.org/wiki/Metal "Metal") solids.
-	- degenerate [Fermi–Dirac statistics](https://en.wikipedia.org/wiki/Fermi%E2%80%93Dirac_statistics "Fermi–Dirac statistics") close to the zero-temperature limit
-	- electron degeneracy pressure halts gravitational collapse of a star if its mass is below the [Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit "Chandrasekhar limit") (1.44 [solar masses](https://en.wikipedia.org/wiki/Solar_masses "Solar masses"), exceeding this limit and without significant thermally generated pressure as it will collapse into a black hole or a neutron star the as degeneracy pressure provided by the electrons is weaker than the inward pull of [gravity](https://en.wikipedia.org/wiki/Gravity "Gravity").
-- The presence of hyperions = `( strange, strange, strange)` should make the interior more squishy not less
-- Gravity or re-ignition of nuclear fusion
-- YouTube video https://www.youtube.com/watch?v=YoYjkNQ27T8 
-	- Palli-exclusion principle = no two neutrons can share the exact same quantum properties -> Schizophrenia disentanglement is possible, but why does it actually happen
-	- neutron star are not actually only neutrons 
-	- nuclear pasta 
-	- J0740+6620 
-		- https://en.wikipedia.org/wiki/PSR_J0740%2B6620
-	- TOV limit + planet spin is limit of the size, which is why J0740+6620 is weird 
-- "Quark soup or hyperion -> I thought watching the video they both less likely
-	- [Wikipedia quark-gluon plasma](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#Neutron_stars): *"The strength of the [color interaction](https://en.wikipedia.org/wiki/Color_force "Color interaction") means that unlike the gas-like plasma, quark–gluon plasma behaves as a near-ideal [Fermi liquid](https://en.wikipedia.org/wiki/Fermi_liquid "Fermi liquid"), although research on flow characteristics is ongoing.[[76]](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#cite_note-76) Liquid or even near-perfect liquid flow with almost no frictional resistance or viscosity was claimed by research teams at RHIC[[77]](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#cite_note-77) and LHC's [Compact Muon Solenoid](https://en.wikipedia.org/wiki/Compact_Muon_Solenoid "Compact Muon Solenoid") detector.[](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#cite_note-78)"*
-- [Wikipedia Nuclear Pasta](https://en.wikipedia.org/wiki/Nuclear_pasta) *"is a theoretical type of [degenerate matter](https://en.wikipedia.org/wiki/Degenerate_matter "Degenerate matter") that is postulated to exist within the crusts of [neutron stars](https://en.wikipedia.org/wiki/Neutron_star "Neutron star")... [nuclear attraction](https://en.wikipedia.org/wiki/Nuclear_force "Nuclear interaction") and [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion") interactions are of comparable magnitude. The competition between the interactions leads to the formation of a variety of complex structures assembled from [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron") and [protons](https://en.wikipedia.org/wiki/Proton "Proton")."* 
+https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/:
+-  Physicists succeed in converting light into a supersolid that flows like a liquid. they changed beams of light into a supersolid that flows without normal resistance
+- https://www.nature.com/articles/d41586-025-00637-8
 
 
 [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) is theoretical study of the [strong interaction/force/nuclear interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark") mediated by [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon").
@@ -392,6 +401,10 @@ Why is an [proton](https://en.wikipedia.org/wiki/Proton) approximately 1836 time
 
 How are stars formed and lifecycle, etc is their comparisons with brains
 - Gas collects together in space and eventual ignites to fusion from increase gravity and electro-magnetic
+
+
+https://www.youtube.com/watch?v=YdOXS_9_P4U
+- Reference object are required mathematically
 
 
 Elderly neutron stars and elderly schizophrenics
