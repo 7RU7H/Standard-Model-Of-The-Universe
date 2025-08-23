@@ -210,7 +210,7 @@ https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 [[Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
 https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
 
-Superconductivity at the microscope level exists [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
+Superconductivity at the microscope level exists according to BCS Theory [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
 - BCS theory starts from the assumption that there is some attraction between electrons, which can overcome the [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion")
 	- **Evidence of a [band gap](https://en.wikipedia.org/wiki/Band_gap "Band gap") at the Fermi level**
 	- **Isotope effect on the critical temperature, suggesting lattice interactions**
@@ -457,7 +457,7 @@ QICK
 https://qick-docs.readthedocs.io/latest/index.html
 
 
-Quarks preserve CP Symmetry due to the contents of the papers proofs that the author terms as Quantum-coherence or Qucoherancium. This being a partial observable state of a scope of measurablity and observability of a region of space and span of time and all that is Quantum Entangle both within and outside that scope. 
+Quarks preserve CP Symmetry due to the contents of the papers proofs that the author terms as Quantum-coherence or Qucoherancium. This being a partial observable state of a scope of measurability and observability of a region of space and span of time and all that is Quantum Entangle both within and outside that scope. 
 
 Dissipation in thermodynamics has a coherent relationship with quantum decoherence, which previous Standard Model of Universe entails a contradiction.
 
@@ -465,9 +465,9 @@ A presumption then is that everything is measurable, such that both Interference
 
 Similarly to Bernolilli's equation the limits of an event where bodies of not just liquids can have measurable and observable inputs, outputs and physical processes inside the observed event scope. Quantum and regular physical processes are one and the same.
 
-The existence and proof of Dipolar gases and the permanent electric dipolar to measure phase locking provide proof that observation such that phsycial events to monitor or control quark interrelationships inside an event scope.
+The existence and proof of Dipolar gases and the permanent electric dipolar to measure phase locking provide proof that observation such that psychical events to monitor or control quark interrelationships inside an event scope.
 
-The Hydrodynamics of Quantum soups at any point have obserable and predictable *"fingerprint"* of the pathing of all quarks with and outside a Quark soup.
+The Hydrodynamics of Quantum soups at any point have observable and predictable *"fingerprint"* of the pathing of all quarks with and outside a Quark soup.
 
 Therefore this paper postulates a Quantum principle of exchange reducible to a Reynolds number for and energy losses and gains, due to Quantum Entanglement.
 
