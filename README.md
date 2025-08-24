@@ -43,6 +43,15 @@ Microodial structures
 
 Second time saw none of the above phenomena
 
+
+as [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)
+
+32+ Thousand years gene in evolutional history
+
+Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
+- Consider this is just wrist and nerves not brain - but muscle memory
+	- 3Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
+
 [Cosmic distance ladder YouTube: 3Blue1Bown](https://www.youtube.com/watch?v=YdOXS_9_P4U) - maybe the light is weird oblate spheriod in between two fibrious (but it would interact with the light from the other hole and reflected uot of my eyes)
 - https://en.wikipedia.org/wiki/Cosmic_distance_ladder
 - Mapping Schizo-Time-Line is simply a Cosmic Distance ladder dependent of Brain Chemistry before and after inital Psychosis - DMT as ingested substance differs in activation in Brain
@@ -178,8 +187,8 @@ Phase in-variance [phase lecture](Pre-1-7-2025-Operations/Operation-KarlachBackS
 
 Black Holes do they actually spin or is just like a sinkhole spinning the water because of gravity
 
-
-
+[Nature - Emerging supersolidity in photonic-crystal polariton condensates](https://www.nature.com/articles/s41586-025-08616-9): A supersolid is a counter-intuitive phase of matter in which its constituent particles are arranged into a crystalline structure, yet they are free to flow without friction. This requires the particles to share a global macroscopic phase while being able to reduce their total energy by spontaneous, spatial self-organization. The existence of the supersolid phase of matter was speculated more than 50 years ago[1](https://www.nature.com/articles/s41586-025-08616-9#ref-CR1 "Gross, E. P. Unified theory of interacting bosons. Phys. Rev. 106, 161–162 (1957)."),[2](https://www.nature.com/articles/s41586-025-08616-9#ref-CR2 "Andreev, A. F. & Lifshitz, I. M. Quantum theory of defects in crystals. Zhur. Eksper. Teoret. Fiziki 29, 1107–1113 (1969)."),[3](https://www.nature.com/articles/s41586-025-08616-9#ref-CR3 "Leggett, A. J. Can a solid be ‘superfluid’? Phys. Rev. Lett. 25, 1543–1546 (1970)."),[4](https://www.nature.com/articles/s41586-025-08616-9#ref-CR4 "Kirzhnits, D. A. & Nepomnyashchii, Y. A. Coherent crystallization of quantum liquid. Zhur. Eksper. Teoret. Fiziki 32, 1191–1197 (1971).")
+- only *"convincing experimental evidence, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields"*
 
 https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
 One of the most famous findings in physics could be wrong – the double-slit experiment was long thought to confirm that light can be a wave, but its results can be fully explained using only quantum particles 
