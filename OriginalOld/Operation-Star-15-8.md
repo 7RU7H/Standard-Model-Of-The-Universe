@@ -1,6 +1,6 @@
 # Operation Star
 
-![](Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/Crab_Nebula.jpg)
+![](Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/Crab_Nebula.jpg)
 
 ... 13:00~ 07/07/2025
 >*Everyone else had fallen in love with light and I loved time*
@@ -127,7 +127,7 @@ https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
 
 https://pubmed.ncbi.nlm.nih.gov/36506337/
 
-Phase in-variance [phase lecture](Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
+Phase in-variance [phase lecture](Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
 
 - Neutron Stars do spin much fast the in Starsector https://en.wikipedia.org/wiki/Stellar_rotation
 
@@ -165,7 +165,7 @@ https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-fur
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
-[[Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
+[[Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
 https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
 
 

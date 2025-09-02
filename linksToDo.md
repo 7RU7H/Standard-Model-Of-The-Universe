@@ -1,8 +1,12 @@
 https://en.wikipedia.org/wiki/Regular_icosahedron
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
-https://www.newscientist.com/article/2479093-nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
 https://www.ime.unicamp.br/~mfq/
-https://scienceglobal.academy/news/nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
+
+
+https://www.ime.unicamp.br/~mfq/research/contextuality/
+https://www.ime.unicamp.br/~mfq/publications/
+https://www.ime.unicamp.br/~mfq/research/gpts/
+
 https://www.fastcompany.com/91329302/cisco-quantum-computing-new-entanglement-chip-timeline
 https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
 https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
@@ -12,7 +16,7 @@ https://www.livescience.com/technology/computing/quantum-miracle-material-can-st
 https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
 https://www.nature.com/articles/s41586-024-08149-7
 https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
-https://en.wikipedia.org/wiki/Goldstone_boson
+
 https://pubmed.ncbi.nlm.nih.gov/36506337/
 https://en.wikipedia.org/wiki/Gauge_theory
 https://en.wikipedia.org/wiki/Stellar_rotation

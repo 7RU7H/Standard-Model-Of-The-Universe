@@ -30,7 +30,7 @@ The diagram above illustrates the validation workflow, where:
 - Orange diamonds indicate decision points
 - Green boxes show outcomes
 - Arrows demonstrate the iterative nature of validation, allowing for revisions and re-evaluation
-![](Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/physics-white-paper-review.png)
+![](Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/physics-white-paper-review.png)
 The diagram above illustrates the validation workflow, where:
 - Blue boxes represent validation processes
 - Orange diamonds indicate decision points

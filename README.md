@@ -69,6 +69,13 @@ Neutron Stars
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
 
+[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+Stolen necklace problem is the TL organisation of information
+
+
+[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+Stolen necklace problem as a quark in space through time
+
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
 
 The brain is kind of organic Classical and Quantum computer
@@ -178,7 +185,7 @@ https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
 
 https://pubmed.ncbi.nlm.nih.gov/36506337/
 
-Phase in-variance [phase lecture](Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
+Phase in-variance [phase lecture](Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
 
 - Neutron Stars do spin much fast the in Starsector https://en.wikipedia.org/wiki/Stellar_rotation
 
@@ -216,7 +223,7 @@ https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-fur
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
-[[Pre-1-7-2025-Operations/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
+[[Awesome-Great-Life/Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
 https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
 
 Superconductivity at the microscope level exists according to BCS Theory [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
@@ -355,6 +362,19 @@ Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/
 https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/:
 -  Physicists succeed in converting light into a supersolid that flows like a liquid. they changed beams of light into a supersolid that flows without normal resistance
 - https://www.nature.com/articles/d41586-025-00637-8
+
+
+
+https://en.wikipedia.org/wiki/Goldstone_boson or **Nambu–Goldstone bosons** (**NGBs**) are [bosons](https://en.wikipedia.org/wiki/Bosons "Bosons") that appear necessarily in models exhibiting [spontaneous breakdown](https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking "Spontaneous symmetry breaking") of [continuous symmetries](https://en.wikipedia.org/wiki/Continuous_symmetry "Continuous symmetry"). Generalise in QFT in condense matter physics such bosons are quasiparticles Goldstone modes or Anderson–Bogoliubov modes.
+- Could this be a state of bosons under a set of conditions between -40 +40 degree celcius 
+- There are natural https://en.wikipedia.org/wiki/Goldstone_boson#Examples examples
+
+Symmetry and Symmetry breaking
+[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem "Noether's theorem") states that every continuous symmetry of the action of a physical system with conservation forces has a corresponding conservatino law 
+
+https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
+Chiral symmetry
+Higgs mechanism - strong, weak and electromagnetic forces guage symmetry of strong interacdtions in particle physics 
 
 
 [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) is theoretical study of the [strong interaction/force/nuclear interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark") mediated by [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon").
