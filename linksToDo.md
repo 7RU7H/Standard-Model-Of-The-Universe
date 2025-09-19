@@ -3,6 +3,8 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 https://www.ime.unicamp.br/~mfq/
 
 
+https://en.wikipedia.org/wiki/Gauge_theory
+
 https://www.ime.unicamp.br/~mfq/research/contextuality/
 https://www.ime.unicamp.br/~mfq/publications/
 https://www.ime.unicamp.br/~mfq/research/gpts/
@@ -17,25 +19,27 @@ https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-s
 https://www.nature.com/articles/s41586-024-08149-7
 https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
 
-https://pubmed.ncbi.nlm.nih.gov/36506337/
-https://en.wikipedia.org/wiki/Gauge_theory
-https://en.wikipedia.org/wiki/Stellar_rotation
+
+
+
+
 https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
 https://www.scientificamerican.com/article/why-evolving-dark-energy-worries-some-physicists/
-https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
+
 https://phys.org/news/2025-04-duality-unitary-linear-depth-quantum.html
 https://scitechdaily.com/from-sci-fi-to-reality-single-photon-teleportation-breakthrough/
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-dark-energys-secrets/
+
+
+https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
 https://www.nature.com/articles/s41550-024-02465-8
-https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
-https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology
-https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
-https://en.wikipedia.org/wiki/Hypersurface 
-https://en.wikipedia.org/wiki/Hyperplane
-https://en.wikipedia.org/wiki/Plane_curve
-https://en.wikipedia.org/wiki/Manifold
+
+
+
+
+
 https://thedebrief.org/defying-physics-new-study-reveals-the-secrets-of-quantum-phase-transitions/ 
 https://en.wikipedia.org/wiki/Quantum_critical_point
 https://arxiv.org/abs/2504.10027
@@ -55,9 +59,13 @@ https://en.wikipedia.org/wiki/Strong_interaction
 https://en.wikipedia.org/wiki/Electroweak_interaction 
 https://en.wikipedia.org/wiki/Metabolism
 https://en.wikipedia.org/wiki/Mitochondrion
+
+
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ0Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM 
+
+
+
 https://en.wikipedia.org/wiki/Higgs_boson
-https://en.wikipedia.org/wiki/Plasma_(physics) 
+https://en.wikipedia.org/wiki/W_and_Z_bosons
 https://en.wikipedia.org/wiki/Quantum_dot
-https://en.wikipedia.org/wiki/Electron_capture

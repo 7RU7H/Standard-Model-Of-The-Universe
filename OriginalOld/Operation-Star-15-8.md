@@ -156,7 +156,7 @@ https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-da
 https://www.nature.com/articles/s41550-024-02465-8
 
 
-[[No-Simulation-Proof]]
+[[Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
 Deprove Simulation with Biological imperative and Life algorithm with time travel
 https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
 - Size of the Universe

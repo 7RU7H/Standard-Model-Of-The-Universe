@@ -1,6 +1,38 @@
 # Standard Model
 
-![](Operation-Spring-New-Ember/Inner-Neutron/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
+![](Awesome-Great-Life/Old-OPs/Operation-Spring-New-Ember/Inner-Neutron-SNE/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
+
+
+#### Todo
+
+
+Split neural and universal sections
+
+Equations plus simpletons explanations, potential sry in excalidraw
+
+Oscilator bell peppers to get quantum interaction that proves temporal memory 
+
+Graph out connections of concepts by dependency
+
+Move everything speculatory to a community speculation section
+
+
+
+
+Questions Section done
+Naming Conventions - yikes
+Notes section Modularisation and discern Maybe Useful Section
+Read over 
+- Double check peer reviews for these paper
+- Get ALL THE REFERENCES
+- Add to Big Picture section summarised data
+Find contradictions in the Big Picture section 
+Check the Funky Questions Section
+List what I am missing
+...
+Hypothesis and Theory Fleshed out
+
+## Standard
 
 ... 13:00~ 07/07/2025
 >*Everyone else had fallen in love with light and I loved time*
@@ -10,6 +42,8 @@ Only clue from my future self was:
 
 False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 **NOTES AND WONDER TO DO**
+
+
 
 
 ? Naming conventions
@@ -27,6 +61,9 @@ Equations:
 - Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
 	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
 	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+
+Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements.
+- https://www.nature.com/articles/s41550-024-02465-8 dark energy
 
 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
@@ -72,8 +109,6 @@ Schizophrenia is informational communication through time in one body just as al
 [1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
 Stolen necklace problem is the TL organisation of information
 
-
-[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
 Stolen necklace problem as a quark in space through time
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
@@ -85,20 +120,7 @@ The brain is kind of organic Classical and Quantum computer
 Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
 
 Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. 
-#### Todo
 
-Questions Section done
-Naming Conventions - yikes
-Notes section Modularisation and discern Maybe Useful Section
-Read over 
-- Double check peer reviews for these paper
-- Get ALL THE REFERENCES
-- Add to Big Picture section summarised data
-Find contradictions in the Big Picture section 
-Check the Funky Questions Section
-List what I am missing
-...
-Hypothesis and Theory Fleshed out
 
 #### Questions
 
@@ -134,6 +156,31 @@ https://scitechdaily.com/scientists-create-ultra-rare-hydrogen-6-isotope-defying
 Quantum Advantage/Annealing
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 
+
+2020 Moon gel Chang mission
+
+https://en.wikipedia.org/wiki/Avoided_crossing
+https://en.wikipedia.org/wiki/Plasmon
+https://en.wikipedia.org/wiki/Phonon
+https://en.wikipedia.org/wiki/Quasiparticle
+https://en.wikipedia.org/wiki/Polariton
+
+Entanglement and Complexity: Gravity and Quantum Mechanics
+https://www.youtube.com/watch?v=9crggox5rbc
+
+
+Schodingers Equation
+
+Quantum Hacking
+https://www.youtube.com/watch?v=Sc_cJiLFQZ0
+https://www.youtube.com/watch?v=ToOLbdrWst4
+
+
+https://www.youtube.com/watch?v=fzlflyw7X2I
+
+Simulation stuff
+https://www.youtube.com/watch?v=8-B6ryuBkCM
+https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 
 https://www.newscientist.com/article/2479093-nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
@@ -214,7 +261,7 @@ https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-da
 https://www.nature.com/articles/s41550-024-02465-8
 
 
-[[No-Simulation-Proof]]
+[[Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
 Disprove Simulation with Biological imperative and Life algorithm with time travel
 https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
 - Size of the Universe
@@ -338,7 +385,7 @@ Is it just that light is transferred this way but dependent of device observing 
 
 #### Notes 
 
-
+Fields are quantities
 
 Add proton and electron row ids
 Maybe break each set up into six
