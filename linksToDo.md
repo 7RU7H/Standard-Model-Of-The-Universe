@@ -26,11 +26,6 @@ https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
 https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
 https://www.scientificamerican.com/article/why-evolving-dark-energy-worries-some-physicists/
 
-https://phys.org/news/2025-04-duality-unitary-linear-depth-quantum.html
-https://scitechdaily.com/from-sci-fi-to-reality-single-photon-teleportation-breakthrough/
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
-https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-dark-energys-secrets/
 
 
 https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
@@ -48,12 +43,14 @@ https://www.science.org/doi/10.1126/science.1091806
 https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html 
 https://en.wikipedia.org/wiki/Action_potential
 https://en.wikipedia.org/wiki/Local_field_potential
-https://en.wikipedia.org/wiki/Oscillation
-https://en.wikipedia.org/wiki/Neural_binding
-https://en.wikipedia.org/wiki/Neural_coding
+
+
+
 https://en.wikipedia.org/wiki/Central_pattern_generator
 https://en.wikipedia.org/wiki/Weak_interaction
 https://en.wikipedia.org/wiki/Fundamental_interaction
+
+
 https://en.wikipedia.org/wiki/Electromagnetism
 https://en.wikipedia.org/wiki/Strong_interaction
 https://en.wikipedia.org/wiki/Electroweak_interaction 
@@ -69,3 +66,9 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZ
 https://en.wikipedia.org/wiki/Higgs_boson
 https://en.wikipedia.org/wiki/W_and_Z_bosons
 https://en.wikipedia.org/wiki/Quantum_dot
+
+
+https://www.youtube.com/watch?v=aCq04N9it8U
+www.youtube.com/watch?v=4445Mbw8pYg
+https://www.youtube.com/watch?v=FGC5TdIiT9U
+https://www.youtube.com/watch?v=kbKtFN71Lfs

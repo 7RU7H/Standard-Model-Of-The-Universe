@@ -57,10 +57,12 @@ Equations:
 	- Postdetirmination
 	- 
 - Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
-- Dark Matter and Energy are obserable by products
+- Dark Matter and Energy are observable by products
 - Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
 	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
 	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+
+A cosmological constant of all past and future energy and matter in a extreme state..
 
 Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements.
 - https://www.nature.com/articles/s41550-024-02465-8 dark energy
@@ -80,10 +82,19 @@ Microodial structures
 
 Second time saw none of the above phenomena
 
+Dualities non-trivialy intertwine closed boundary conditions and charge sectors ... can be as duality operators turned into unitary linear depth quantum circuits via the introduction of ancillary degrees of freedom that keep track of the various sectors. .. these dualities change the phase of the states on which they act
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403
+- dualities can be used to build circuits entailing order 
+- dualities can affect states
+- prepare short- and long-range entangled states 
+- map between different gapped boundaries of (2+1)⁢d topological models.
 
 as [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)
 
 32+ Thousand years gene in evolutional history
+
+Why does the brain not leak photon in photon emission in quantum teleportation
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 
 Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
 - Consider this is just wrist and nerves not brain - but muscle memory
@@ -105,6 +116,13 @@ Neutron Stars
 
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+
+[Neural Binding](https://en.wikipedia.org/wiki/Neural_binding) is oversimplification simplification of electromagnetic interaction as synchronised autonomous system that is too linear  
+- Waves fields affecting https://en.wikipedia.org/wiki/Action_potential mid transmission
+- 
+- Non-schizophrenic intrusive thoughts, general hand wavey armchair neurology surrounding consciousness
+
+
 
 [1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
 Stolen necklace problem is the TL organisation of information
