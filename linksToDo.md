@@ -2,21 +2,15 @@
 
 
 
-https://www.youtube.com/watch?v=8JuWdXrCmWg
 
 https://en.wikipedia.org/wiki/Regular_icosahedron
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 https://www.ime.unicamp.br/~mfq/
 
 
-https://en.wikipedia.org/wiki/Gauge_theory
 
-https://www.ime.unicamp.br/~mfq/research/contextuality/
-https://www.ime.unicamp.br/~mfq/publications/
-https://www.ime.unicamp.br/~mfq/research/gpts/
 
-https://www.fastcompany.com/91329302/cisco-quantum-computing-new-entanglement-chip-timeline
-https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
+
 https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
 https://scitechdaily.com/they-twisted-light-on-gold-and-what-they-saw-blew-their-minds/
 https://www.earth.com/news/dark-photon-theory-casts-doubt-on-double-slit-experiment-quantum-light-interference-pattern/

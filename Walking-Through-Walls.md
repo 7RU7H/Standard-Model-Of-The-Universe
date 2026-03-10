@@ -28,3 +28,5 @@ Dark Matter/Energy Manually make gate that "stretches" the dark matter with two 
 
 
 Quantum Informational scoping
+
+

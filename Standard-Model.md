@@ -5,6 +5,8 @@
 
 #### Todo
 
+Sodium Nanoclusters linked proof that non-2030 life could time travel
+https://www.nature.com/articles/s41586-025-09917-9
 
 
 
@@ -132,6 +134,8 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
 - Consider this is just wrist and nerves not brain - but muscle memory
 	- 3Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
+Body tissues also proven to host superradiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
+
 
 [Cosmic distance ladder YouTube: 3Blue1Bown](https://www.youtube.com/watch?v=YdOXS_9_P4U) - maybe the light is weird oblate spheriod in between two fibrious (but it would interact with the light from the other hole and reflected uot of my eyes)
 - https://en.wikipedia.org/wiki/Cosmic_distance_ladder
@@ -613,6 +617,8 @@ Coherence and decoherence also occur and affect the past and the future and thre
 https://www.nature.com/articles/s41550-024-02465-8
 
 Squeezing space into time https://www.youtube.com/watch?v=8JuWdXrCmWg
+In a Lagrangian https://en.wikipedia.org/wiki/Gauge_theory mappings in a actual scale contextuality https://www.ime.unicamp.br/~mfq/research/contextuality/ in observed (not-entirely observable) frame based connectivity. Teleportation is both and not quantum occurring all the time in order and stable parts of the universe and not and not.
+
 
 https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state entanglement transformations can be made reversible under local operations and classical communication, when assisted by an entanglement battery—an auxiliary quantum system that stores and supplies entanglement in a way that ensures no net entanglement is lost... the rate of transformation in the asymptotic limit can be quantitatively expressed as a ratio of entanglement present within the quantum states involved
 
@@ -690,3 +696,4 @@ E what the fuck is Ea
 
 
 
+https://www.thebrighterside.news/post/quantum-computing-occurs-naturally-in-the-human-brain-study-finds/
