@@ -1,55 +1,5 @@
 
 
-https://www.archives.gov/research/topics/uaps#:~:text=The%20National%20Archives%20and%20Records,and%20UAPs%20in%20NARA's%20holdings.
-
-https://phys.org/news/2026-02-quantum-high-dimensional-state-photon.html
-
-https://www.livescience.com/health/genetics/some-of-them-have-accuracy-thats-close-to-zero-experts-unpack-the-promise-and-pitfalls-of-genetic-tests-aimed-at-consumers 
-
-https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-memory-loss/
-
-https://phys.org/news/2026-02-brain-photons-artificial-memory.html
-
-https://beaconwales.org/26-175088-physicists-rewrite-thermodynamics-for-the-quantum-age/
-
-https://www.bbc.co.uk/future/article/20260223-the-everlasting-memory-crystals-that-could-slash-data-centre-emissions
-
-https://www.thebrighterside.news/post/dark-matter-and-neutrinos-are-linked-and-interact-with-each-other/
-
-https://www.thebrighterside.news/post/scientists-develop-theory-for-an-entirely-new-quantum-system-based-on-giant-superatoms/
-
-https://interestingengineering.com/energy/ion-beam-nuclear-materials-testing-quick
-
-https://phys.org/news/2026-02-vibrations-superconductivity-nearby-crystal.html
-
-https://physicsworld.com/a/the-future-of-particle-physics-what-can-the-past-teach-us/
-
-https://phys.org/news/2026-03-material-previously-thought-quantum-state.html
-
-https://www.scientificamerican.com/article/newly-discovered-ripples-in-spacetime-put-einsteins-general-relativity-to/
-
-https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
-
-https://scitechdaily.com/scientists-may-have-found-the-holy-grail-of-quantum-computing/
-
-https://phys.org/news/2026-03-gravitational-reveal-hidden-galactic-centers.html
-
-https://interestingengineering.com/science/cern-particle-decay-10-billion-events
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 https://www.youtube.com/watch?v=8JuWdXrCmWg
@@ -77,14 +27,6 @@ https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
 
 
 
-
-
-https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
-https://www.scientificamerican.com/article/why-evolving-dark-energy-worries-some-physicists/
-
-
-
-https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
 https://www.nature.com/articles/s41550-024-02465-8
 
 

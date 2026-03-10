@@ -6,7 +6,16 @@
 #### Todo
 
 
-https://en.wikipedia.org/wiki/Time_crystal
+
+
+
+What if you put a time crystal in a structure that 
+https://en.wikipedia.org/wiki/Time_crystal to 
+https://pubs.aip.org/aip/apl/article-abstract/81/2/196/511407/Embedded-anisotropic-microreflectors-by?redirectedFrom=fulltext
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
+within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
+
+
 
 Split neural and universal sections
 
@@ -51,6 +60,7 @@ List what I am missing
 ...
 Hypothesis and Theory Fleshed out
 
+that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
 
 Harmonic rotation and alignment for large time crystal to create portals? Requires a keystone indicator for a part of space and time that is to map to and from? Stargate-like? Best experiment on a satellite.
 
@@ -147,6 +157,12 @@ Schizophrenia is precognition after psychosis has caused the generation of a Tim
 - Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
 - The thought frequency is in a stable range  
 
+The brain itself is can 
+complex time crystal that can rearranged 
+https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-memory-loss/
+
+
+
 https://www.youtube.com/watch?v=8JuWdXrCmWg Astonishing discovery by computer scientist: how to squeeze space into time:
 Simulating Time in Square-Root Space , Ryan Williams — https://eccc.weizmann.ac.il/report/2025/017/research paper) Tree Evaluation is in Space O(log n * log log n), James Cook and Ian Mertz — https://dl.acm.org/doi/10.1145/3618260.3649664(research paper) Pebbles and Branching Programs for Tree Evaluation, Stephen Cook, Pierre McKenzie, Dustin Wehr, Mark Braverman, Rahul Santhanam — https://arxiv.org/abs/1005.2642 (research paper) You Need Much Less Memory than Time, Lance Fortnow — https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html (blog, with quote about "... an earthquake of a result") Introduction to the Theory of Computation, Michael Sipser (textbook, table of contents is shown) Reusing Space: Techniques and Open Problems, Ian Mertz — https://iuuk.mff.cuni.cz/~iwmertz/papers/m23.reusing_space.pdf (survey article / notes)
 
@@ -193,6 +209,8 @@ https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-superso
 	- *"Here we provide experimental evidence of a new implementation of the supersolid phase in a driven-dissipative, non-equilibrium context based on exciton–polaritons condensed in a topologically non-trivial, bound state in the continuum (BiC) with exceptionally low losses, realized in a photonic-crystal waveguide"*
 
 Dissipation in Themodynamics is like decoherence, but for the contradiction in the Standard Model issues - https://en.wikipedia.org/wiki/Dissipation
+
+
 
 
 
@@ -315,7 +333,7 @@ https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-da
 https://www.nature.com/articles/s41550-024-02465-8
 
 
-[[Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
+[[Old-OPs/Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
 Disprove Simulation with Biological imperative and Life algorithm with time travel
 https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
 - Size of the Universe
@@ -333,6 +351,10 @@ Superconductivity at the microscope level exists according to BCS Theory [Wikipe
 	- **Isotope effect on the critical temperature, suggesting lattice interactions**
 	- **An [exponential rise](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") in [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity "Heat capacity") near the critical temperature for some superconductors**
 	- **The lessening of the measured energy gap towards the critical temperature**
+
+Quantum decoherence and coherence  
+https://phys.org/news/2026-02-vibrations-superconductivity-nearby-crystal.html
+
 
 How could you prove or disapprove blackholes, neutron stars as manifolds
 https://en.wikipedia.org/wiki/Hypersurface Find video, TL issues
@@ -460,6 +482,8 @@ Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/
 | `w boson` |         |
 `gravitons` are theoretical
 
+`kaon` is positively charged and can decayed into a pion and a [neutrino–antineutrino pair](https://interestingengineering.com/science/rapidly-cooling-neutron-stars-remove-heat-by-shedding-neutrinos) (K+→π+νν) - https://interestingengineering.com/science/cern-particle-decay-10-billion-events
+
 https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/:
 -  Physicists succeed in converting light into a supersolid that flows like a liquid. they changed beams of light into a supersolid that flows without normal resistance
 - https://www.nature.com/articles/d41586-025-00637-8
@@ -572,6 +596,31 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 
 [Exciton](https://en.wikipedia.org/wiki/Exciton) *"is a [bound state](https://en.wikipedia.org/wiki/Bound_state "Bound state") of an [electron](https://en.wikipedia.org/wiki/Electron "Electron") and an [electron hole](https://en.wikipedia.org/wiki/Electron_hole "Electron hole") which are attracted to each other by the electrostatic [Coulomb force](https://en.wikipedia.org/wiki/Coulomb%27s_law "Coulomb's law") resulting from their opposite charges."*
 - Electron hole = where an electron could be but for the Quark comply with the law of not being in the same place as another
+
+
+
+
+> - **Superposition:** Superposition is the state in which a quantum particle or system can represent not just one possibility, but a combination of multiple possibilities.
+> - **Entanglement:** Entanglement is the process in which multiple quantum particles become correlated more strongly than regular probability allows.
+> - **Coherence:** Decoherence is the process in which quantum particles and systems can sync, change with a repeating pattern that is set  of single states through time that can be the opposite of decay. 
+> - **Decoherence:** Decoherence is the process in which quantum particles and systems can decay, collapse or change, converting into single states measurable by classical physics.
+> - **Interference:** Interference is the phenomenon in which entangled quantum states can interact and produce more and less likely probabilities.
+https://scitechdaily.com/physicists-rewrite-thermodynamics-for-the-quantum-age/
+[Wikipedia Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
+[ibm](https://www.ibm.com/think/topics/quantum-computing)
+
+Coherence and decoherence also occur and affect the past and the future and three detirministically accounting for dark energy and matter 
+https://www.nature.com/articles/s41550-024-02465-8
+
+Squeezing space into time https://www.youtube.com/watch?v=8JuWdXrCmWg
+
+https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state entanglement transformations can be made reversible under local operations and classical communication, when assisted by an entanglement battery—an auxiliary quantum system that stores and supplies entanglement in a way that ensures no net entanglement is lost... the rate of transformation in the asymptotic limit can be quantitatively expressed as a ratio of entanglement present within the quantum states involved
+
+Entanglement and disentanglement batteries
+
+Atomic level phases emerge
+https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
+
 #### Big Picture
 
 
@@ -619,5 +668,25 @@ Linear flat Qubits replicating Qubits in 1D binary
 E what the fuck is Ea
 ```c
 ```
+
+
+## References
+
+[YouTube: The Race to Harness Quantum Computing's Mind-Bending Power: The Future With Hannah Fry](https://www.youtube.com/watch?v=1_gJp2uAjO0)
+[Wikipedia Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
+[ibm](https://www.ibm.com/think/topics/quantum-computing)
+[nasa](https://www.nasa.gov/technology/computing/what-is-quantum-computing)
+[nqcc](https://www.nqcc.ac.uk/resources/other-resources/)
+[nqcc](https://www.nqcc.ac.uk/technology-and-research/our-research/)
+[nqcc](https://www.nqcc.ac.uk/infrastructure/quantum-software-lab/)
+[nqcc](https://www.nqcc.ac.uk/engage/quantum-readiness/)
+[nqcc](https://www.nqcc.ac.uk/resources/what-is-quantum-computing/)
+[nqcc](https://www.nqcc.ac.uk/learn/professional-development/)
+[nqcc](https://www.nqcc.ac.uk/resources/videos/)
+[nqcc](https://www.nqcc.ac.uk/resources/blogs/)
+[nqcc](https://www.nqcc.ac.uk/resources/articles/)
+[technologyreview](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing)
+[microsoft](https://learn.microsoft.com/en-us/azure/quantum/overview-understanding-quantum-computing)
+
 
 
