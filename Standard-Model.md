@@ -5,18 +5,6 @@
 
 #### Todo
 
-Sodium Nanoclusters linked proof that non-2030 life could time travel
-https://www.nature.com/articles/s41586-025-09917-9
-
-
-
-
-What if you put a time crystal in a structure that 
-https://en.wikipedia.org/wiki/Time_crystal to 
-https://pubs.aip.org/aip/apl/article-abstract/81/2/196/511407/Embedded-anisotropic-microreflectors-by?redirectedFrom=fulltext
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
-within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
-
 
 
 Split neural and universal sections
@@ -103,6 +91,8 @@ Dark Energy and Matter is phase of energy and matter possible in the extremes of
 - https://www.nature.com/articles/s41550-024-02465-8 dark energy
 
 
+
+
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
 > 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
@@ -111,6 +101,12 @@ Light is the resulting affect of Quantum and non-Quantum processes across all Ti
 > - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
 >- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain
+
+Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
+
+Just as it was thought that light could not bend
+*"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"*
+https://www.nature.com/articles/s41567-025-02873-1
 
 Saw NAMDIE' of the tunnel in near by location
 Microodial structures 
@@ -150,9 +146,38 @@ Neutron Stars
 	- What happens if that collapses?
 	- 
 
+Sodium Nanoclusters linked proof that non-2030 life could time travel
+https://www.nature.com/articles/s41586-025-09917-9
+
+With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."*
+
+In two dimensions 
+https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
+
+At close to instant phase transition [DQCPs (Deconfined Quantum Critical Points)](https://www.science.org/doi/10.1126/science.1091806)
+https://www.science.org/doi/10.1126/sciadv.adr0634
+
+Arrangement of Time Travel materials into a structure to at some point control with greater 
+
+To create a time travel directed quantum vortex
+https://www.nature.com/articles/s41586-024-08149-7
+
+
+All the matter out of super voids is just in the surrounding universe, time is infinite. Move to another pocket of the universe if that is a problem.
+https://www.youtube.com/watch?v=VMm-U2pHrXE
+
+
+What if you put a time crystal in a structure that 
+https://en.wikipedia.org/wiki/Time_crystal to 
+https://pubs.aip.org/aip/apl/article-abstract/81/2/196/511407/Embedded-anisotropic-microreflectors-by?redirectedFrom=fulltext
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
+within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
+
+
+
 
 Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
-- TC found operatable at room temperature
+- TC found operable at room temperature
 - Brain is repeating retention of energy
 - Brain around the crystal is self organising
 - Brain is a genetic structure that is constant through time
@@ -160,6 +185,11 @@ Schizophrenia is precognition after psychosis has caused the generation of a Tim
 - broken time symmetry is a constantly rotating ring of charged ions in an otherwise lowest-energy state
 - Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
 - The thought frequency is in a stable range  
+
+If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
+https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
+To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to detirmine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
+
 
 The brain itself is can 
 complex time crystal that can rearranged 

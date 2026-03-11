@@ -8,32 +8,6 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 https://www.ime.unicamp.br/~mfq/
 
 
-
-
-
-https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
-https://scitechdaily.com/they-twisted-light-on-gold-and-what-they-saw-blew-their-minds/
-https://www.earth.com/news/dark-photon-theory-casts-doubt-on-double-slit-experiment-quantum-light-interference-pattern/
-https://www.livescience.com/technology/computing/quantum-miracle-material-can-store-information-in-a-single-dimension-thanks-to-newly-discovered-magnetic-switching
-https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
-https://www.nature.com/articles/s41586-024-08149-7
-https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
-
-
-
-https://www.nature.com/articles/s41550-024-02465-8
-
-
-
-
-
-https://thedebrief.org/defying-physics-new-study-reveals-the-secrets-of-quantum-phase-transitions/ 
-https://en.wikipedia.org/wiki/Quantum_critical_point
-https://arxiv.org/abs/2504.10027
-https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
-https://www.science.org/doi/10.1126/science.1091806
-https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html 
-https://en.wikipedia.org/wiki/Action_potential
 https://en.wikipedia.org/wiki/Local_field_potential
 
 
