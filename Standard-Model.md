@@ -2,27 +2,41 @@
 
 ![](Old-OPs/Operation-Spring-New-Ember/Inner-Neutron-SNE/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
 
+>Unfinished Rulec of Time Travel - Srynex incoming
+	ABCZs of Time Travel are 0101 1111 0000 1010
+		- quantum is everything and everywhen
+	Rule of two present and correct as a past and future with identifiers
+	Happy wives is a happy life, but as remediation it is prioritised
+	The Quantum truth of all things are a syntax to the universe
+	The Quantum falsity is measure twice measure again problem or mistake
+	Time travel is dangerous; the signs in everything are everywhere
+>    1 Dimension is time, 2 dimensions is cartoons, 3 dimensions ...
+	Perfect just reshaped 
+>    Tabs and spaces are very important - button masher
+>    Extrapolation affects the extrapolated 
+>    (baby) Yoda is old as balls and as wrinkly for good reason lazy eye that one
+>    Logs are ... two is one and none is none
+> 	   - logs are nerves
+>    K-Theory is K-Theory, knowledge before your time comes at a price
+>    Stopping all time is potentially a serious crime 
+> 	   - messing? .. the ??? -> action inaction
+>    Some people are words, every person is a verb; the truth is realised, but was actualised before, syntax is everything  
 
 #### Todo
 
+https://www.nature.com/articles/s41550-024-02465-8
 
 
 Split neural and universal sections
 
 Equations plus simpletons explanations, potential sry in excalidraw
 
+
 Oscillator bell peppers to get quantum interaction that proves temporal memory 
 
 
-Oscillation quantum 3 states where interaction forces the state change
-- https://en.wikipedia.org/wiki/Time_crystal
-- To force oscillation through interaction
-Separation of linear reaction and non-linear reactions
-https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction
-Not, but similar to the Briggs rauscher reaction https://youtube.com/shorts/F0kSJv1KBVg?si=IrUWq4vPvOlRieFt:
-- as it is non-quantum reaction
-	- malonic acid consume iodine to produce iodide ions (Non-radical Process), the  auto-catalytic process involving manganese converts hydrogen peroxide and iodate to free iodine.
-- Probably a linear quantum variate exists
+
+
 
 Triangles importance of triangles; quantum statistical zoning?
 https://www.youtube.com/watch?v=kbKtFN71Lfs
@@ -70,13 +84,15 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 ? Naming conventions
 
+Quantum Crystals -> Syrstal
+
 decision: force -> interaction, Force interacts ?!? 
 
 
 Equations:
 - Time is one dimensional and deterministic
 	- Predetermination
-	- Postdetermination
+	- Post-determination
 	- 
 - Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 	- E=CM^2
@@ -148,6 +164,17 @@ Neutron Stars
 
 Sodium Nanoclusters linked proof that non-2030 life could time travel
 https://www.nature.com/articles/s41586-025-09917-9
+
+Oscillation quantum 3 states where interaction forces the state change
+- https://en.wikipedia.org/wiki/Time_crystal
+- To force oscillation through interaction
+Separation of linear reaction and non-linear reactions
+https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction
+Not, but similar to the Briggs rauscher reaction https://youtube.com/shorts/F0kSJv1KBVg?si=IrUWq4vPvOlRieFt:
+- as it is non-quantum reaction
+	- malonic acid consume iodine to produce iodide ions (Non-radical Process), the  auto-catalytic process involving manganese converts hydrogen peroxide and iodate to free iodine.
+- Probably a linear quantum variate exists
+
 
 With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."*
 
