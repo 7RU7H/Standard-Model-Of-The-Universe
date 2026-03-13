@@ -21,6 +21,7 @@
 >    Stopping all time is potentially a serious crime 
 > 	   - messing? .. the ??? -> action inaction
 >    Some people are words, every person is a verb; the truth is realised, but was actualised before, syntax is everything  
+>    Is life a black quadrant or in it?
 
 #### Todo
 
