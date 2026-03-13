@@ -156,7 +156,7 @@ Schizophrenia is precognition after psychosis has caused the generation of a Tim
 - Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
 - The thought frequency is in a stable range  
 
-Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. PreCogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
 
 [1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
 Stolen necklace problem is the TL organisation of information
@@ -169,9 +169,17 @@ Stolen necklace problem is the TL organisation of information
 
 If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
-To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to detirmine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
+To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
 
-32+ Thousand years gene in evolutionary history
+Elderly neutron stars and elderly schizophrenics
+- Dissertation 
+- Symptoms reduce, but
+	- At age 66: 27.9% of elderly schizophrenics have dementia (compared to 1.3% in general population [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7948106/)
+- By age 80: 70.2% of elderly schizophrenics develop dementia (compared to 11.3% in general population) [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7948106/)
+
+Palli-exclusion principle = no two neutrons can share the exact same quantum properties -> Schizophrenia disentanglement is possible, but why does it actually happen decoherence. This can be done manually with springs and gears technology.
+
+32+ Thousand years gene in evolutionary history and there no Schizophrenic black holes gravity at smaller scale is fine by me. 
 
 Why is schizophrenia not telepathy or psionics? Why does the brain does or does not leak photon in photon emission in quantum teleportation? The brain is an organic quantum meshed lattice 
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
@@ -182,9 +190,47 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 #### Of relevant mass
 
+Fields are some contexts are just quantities.
+
+Add proton and electron row ids
+Maybe break each set up into six
+
+| Fermions            |                 |                |
+| ------------------- | --------------- | -------------- |
+| `up`                | `charm`         | `top`          |
+| `down`              | `strange`       | `bottom`       |
+| `electron`          | `muon`          | `tau`          |
+| `electron neutrino` | `muon neutrino` | `tau neutrino` |
+Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/Hadron "Hadron")
+
+| Bosons    |         |
+| --------- | ------- |
+| `gluon`   | `higgs` |
+| `photon`  |         |
+| `z boson` |         |
+| `w boson` |         |
+`gravitons` are theoretical
+
+`kaon` is positively charged and can decayed into a pion and a [neutrino–antineutrino pair](https://interestingengineering.com/science/rapidly-cooling-neutron-stars-remove-heat-by-shedding-neutrinos) (K+→π+νν) - https://interestingengineering.com/science/cern-particle-decay-10-billion-events
+
+https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/:
+-  Physicists succeed in converting light into a supersolid that flows like a liquid. they changed beams of light into a supersolid that flows without normal resistance
+- https://www.nature.com/articles/d41586-025-00637-8
+
 Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony? Or are they a cluster of Dark matter?
 - Do they actually spin or is just like a sinkhole spinning the water because of gravity?
 - To pass through then would require a structure made from the metal of a neutron star 
+- Black Holes do they actually spin or is just like a sinkhole spinning the water because of gravity? They spin, but is it actually dark matter reservoirs in gravitational quadrant mapping?
+	- Am I really asking at this point?
+
+Gravity and the Strong Force
+- [Stroke](https://en.wikipedia.org/wiki/Stroke)- black holes bleeding dark matter and energy into the universe, whatever separates universes; pressure is not gravity
+A [Seizure](https://en.wikipedia.org/wiki/Seizure) is a sudden, brief disruption of [brain](https://en.wikipedia.org/wiki/Brain "Brain") activity caused by abnormal, excessive, or synchronous [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (wikipedia uses two different terms)
+- the [ictal](https://en.wikipedia.org/wiki/Ictal "Ictal") period is the seizure itself, there is pre-, post- and interictal (between seizures)
+- [Absence seizures](https://en.wikipedia.org/wiki/Absence_seizure) are characterised by a brief loss and return of consciousness, generally not followed by a period of lethargy (i.e. without a notable [postictal state](https://en.wikipedia.org/wiki/Postictal_state "Postictal state") (*"It usually lasts between 5 and 30 minutes, but sometimes longer in the case of larger or more severe seizures, and is characterized by [drowsiness](https://en.wikipedia.org/wiki/Drowsiness "Drowsiness"), [confusion](https://en.wikipedia.org/wiki/Confusion "Confusion"), [nausea](https://en.wikipedia.org/wiki/Nausea "Nausea"), [hypertension](https://en.wikipedia.org/wiki/Hypertension "Hypertension"), [headache](https://en.wikipedia.org/wiki/Headache "Headache") or [migraine](https://en.wikipedia.org/wiki/Migraine "Migraine"), and other disorienting symptoms.)"*)
+- [Generalised tonic-clonic seizure](https://en.wikipedia.org/wiki/Generalized_tonic%E2%80%93clonic_seizure), commonly known as a **grand mal seizure** or **GTCS**,[[1]](https://en.wikipedia.org/wiki/Generalized_tonic%E2%80%93clonic_seizure#cite_note-1) is a type of [generalized seizure](https://en.wikipedia.org/wiki/Generalized_seizure) that produces bilateral, convulsive [tonic](https://en.wikipedia.org/wiki/Tonic_\(physiology\) "Tonic (physiology)") and [clonic](https://en.wikipedia.org/wiki/Clonic "Clonic") muscle contractions.)
+- Prolonged seizes is a medical condition with abnormally prolonged seizures and are bad called [Status Epilepticus](https://en.wikipedia.org/wiki/Status_epilepticus) - hardcore [Epilepsy](https://en.wikipedia.org/wiki/Epilepsy), which is sub grouping of the disorders group
+- *"Some individuals experience an [aura](https://en.wikipedia.org/wiki/Aura_\(symptom\) "Aura (symptom)") before the seizure progresses, characterized by subjective sensations such as unusual smells, a sudden emotional shift, or feelings of [déjà vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu "Déjà vu")."*
 
 All the matter out of super voids is just in the surrounding universe, time is infinite. Move to another pocket of the universe if that is a problem.
 https://www.youtube.com/watch?v=VMm-U2pHrXE
@@ -213,6 +259,29 @@ Looking at shelf in sub par lightening - is the inner rings a vandal with a pen 
 #### Time Travel and the Quantum
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
+
+
+> - **Superposition:** Superposition is the state in which a quantum particle or system can represent not just one possibility, but a combination of multiple possibilities.
+> - **Entanglement:** Entanglement is the process in which multiple quantum particles become correlated more strongly than regular probability allows.
+> - **Coherence:** Decoherence is the process in which quantum particles and systems can sync, change with a repeating pattern that is set  of single states through time that can be the opposite of decay. 
+> - **Decoherence:** Decoherence is the process in which quantum particles and systems can decay, collapse or change, converting into single states measurable by classical physics.
+> - **Interference:** Interference is the phenomenon in which entangled quantum states can interact and produce more and less likely probabilities.
+https://scitechdaily.com/physicists-rewrite-thermodynamics-for-the-quantum-age/
+[Wikipedia Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
+[ibm](https://www.ibm.com/think/topics/quantum-computing)
+
+Coherence and decoherence also occur and affect the past and the future and three detirministically accounting for dark energy and matter 
+https://www.nature.com/articles/s41550-024-02465-8
+
+Squeezing space into time https://www.youtube.com/watch?v=8JuWdXrCmWg
+In a Lagrangian https://en.wikipedia.org/wiki/Gauge_theory mappings in a actual scale contextuality https://www.ime.unicamp.br/~mfq/research/contextuality/ in observed (not-entirely observable) frame based connectivity. Teleportation is both and not quantum occurring all the time in order and stable parts of the universe and not and not. Similar to squeeze space into time, Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. Encryption for a human brain to solve isolation of tools is really not a P vs. NP problem at all its just monkey's with type writers. 
+
+
+
+https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state entanglement transformations can be made reversible under local operations and classical communication, when assisted by an entanglement battery—an auxiliary quantum system that stores and supplies entanglement in a way that ensures no net entanglement is lost... the rate of transformation in the asymptotic limit can be quantitatively expressed as a ratio of entanglement present within the quantum states involved
+
+Entanglement and disentanglement batteries
+
 
 What if you put a time crystal in a structure that 
 https://en.wikipedia.org/wiki/Time_crystal to 
@@ -271,10 +340,8 @@ The brain is kind of organic Classical and Quantum computer
 
 Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
 
-Quantum computation can be done on Electromagnetic computers if hardware has an instruction set that replicates space in 2 dimensions and allows for third position in the sinusoidal electromagnetic wave that articulates binary 1s and 0s. 
 
 
-#### Questions
 
 Is this important:
 https://en.wikipedia.org/wiki/Regular_icosahedron
@@ -393,7 +460,6 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 
-Black Holes do they actually spin or is just like a sinkhole spinning the water because of gravity
 
 [Nature - Emerging supersolidity in photonic-crystal polariton condensates](https://www.nature.com/articles/s41586-025-08616-9): A supersolid is a counter-intuitive phase of matter in which its constituent particles are arranged into a crystalline structure, yet they are free to flow without friction. This requires the particles to share a global macroscopic phase while being able to reduce their total energy by spontaneous, spatial self-organization. The existence of the supersolid phase of matter was speculated more than 50 years ago[1](https://www.nature.com/articles/s41586-025-08616-9#ref-CR1 "Gross, E. P. Unified theory of interacting bosons. Phys. Rev. 106, 161–162 (1957)."),[2](https://www.nature.com/articles/s41586-025-08616-9#ref-CR2 "Andreev, A. F. & Lifshitz, I. M. Quantum theory of defects in crystals. Zhur. Eksper. Teoret. Fiziki 29, 1107–1113 (1969)."),[3](https://www.nature.com/articles/s41586-025-08616-9#ref-CR3 "Leggett, A. J. Can a solid be ‘superfluid’? Phys. Rev. Lett. 25, 1543–1546 (1970)."),[4](https://www.nature.com/articles/s41586-025-08616-9#ref-CR4 "Kirzhnits, D. A. & Nepomnyashchii, Y. A. Coherent crystallization of quantum liquid. Zhur. Eksper. Teoret. Fiziki 32, 1191–1197 (1971).")
 - only *"convincing experimental evidence, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields"*
@@ -514,7 +580,7 @@ https://en.wikipedia.org/wiki/Higgs_boson ; is there (Did not ?|!)
 
 In physics [parity](https://en.wikipedia.org/wiki/Parity_\(physics\) "Parity (physics)") symmetry was that the equations of particle physics are invariant under mirror inversion.
 
-Strong CP Problem (why does [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD) seem to preserve [CP-symmetry](https://en.wikipedia.org/wiki/CP_violation#CP-symmetry "CP violation")?): strong interaction observably neutrinos respect the time reverse symmetry
+Strong Central Problem (CP) Problem (why does [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD) seem to preserve [CP-symmetry](https://en.wikipedia.org/wiki/CP_violation#CP-symmetry "CP violation")?): strong interaction observably neutrinos respect the time reverse symmetry
 - Quantum Mechanics and time being deterministic, because that is what Quantum mechanics is - at its base information communicated through time
 - *Overall, the symmetry of a [quantum mechanical](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics") system can be restored if another approximate symmetry S can be found such that the combined symmetry PS remains unbroken. This rather subtle point about the structure of [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space "Hilbert space") was realized shortly after the discovery of P violation, and it was proposed that charge conjugation, C, which transforms a particle into its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle "Antiparticle"), was the suitable symmetry to restore order.* 
 Gravity is just interactions on dark matter, no graviton?
@@ -543,32 +609,7 @@ Is it just that light is transferred this way but dependent of device observing 
 
 #### Notes 
 
-Fields are quantities
 
-Add proton and electron row ids
-Maybe break each set up into six
-
-| Fermions            |                 |                |
-| ------------------- | --------------- | -------------- |
-| `up`                | `charm`         | `top`          |
-| `down`              | `strange`       | `bottom`       |
-| `electron`          | `muon`          | `tau`          |
-| `electron neutrino` | `muon neutrino` | `tau neutrino` |
-Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/Hadron "Hadron")
-
-| Bosons    |         |
-| --------- | ------- |
-| `gluon`   | `higgs` |
-| `photon`  |         |
-| `z boson` |         |
-| `w boson` |         |
-`gravitons` are theoretical
-
-`kaon` is positively charged and can decayed into a pion and a [neutrino–antineutrino pair](https://interestingengineering.com/science/rapidly-cooling-neutron-stars-remove-heat-by-shedding-neutrinos) (K+→π+νν) - https://interestingengineering.com/science/cern-particle-decay-10-billion-events
-
-https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/:
--  Physicists succeed in converting light into a supersolid that flows like a liquid. they changed beams of light into a supersolid that flows without normal resistance
-- https://www.nature.com/articles/d41586-025-00637-8
 
 
 
@@ -643,23 +684,12 @@ https://www.youtube.com/watch?v=YdOXS_9_P4U
 - Reference object are required mathematically
 
 
-Elderly neutron stars and elderly schizophrenics
-- Dissertation 
-- Symptoms reduce, but
-	- At age 66: 27.9% of elderly schizophrenics have dementia (compared to 1.3% in general population [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7948106/)
-- By age 80: 70.2% of elderly schizophrenics develop dementia (compared to 11.3% in general population) [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7948106/)
-
-No Schizophrenic black holes gravity at smaller scale is fine.. Gravity and the Strong Force
-- [Stroke](https://en.wikipedia.org/wiki/Stroke)- black holes bleeding dark matter and energy into the universe, whatever separates universes; pressure is not gravity
-A [Seizure](https://en.wikipedia.org/wiki/Seizure) is a sudden, brief disruption of [brain](https://en.wikipedia.org/wiki/Brain "Brain") activity caused by abnormal, excessive, or synchronous [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (wikipedia uses two different terms)
-- the [ictal](https://en.wikipedia.org/wiki/Ictal "Ictal") period is the seizure itself, there is pre-, post- and interictal (between seizures)
-- [Absence seizures](https://en.wikipedia.org/wiki/Absence_seizure) are characterized by a brief loss and return of consciousness, generally not followed by a period of lethargy (i.e. without a notable [postictal state](https://en.wikipedia.org/wiki/Postictal_state "Postictal state") (*"It usually lasts between 5 and 30 minutes, but sometimes longer in the case of larger or more severe seizures, and is characterized by [drowsiness](https://en.wikipedia.org/wiki/Drowsiness "Drowsiness"), [confusion](https://en.wikipedia.org/wiki/Confusion "Confusion"), [nausea](https://en.wikipedia.org/wiki/Nausea "Nausea"), [hypertension](https://en.wikipedia.org/wiki/Hypertension "Hypertension"), [headache](https://en.wikipedia.org/wiki/Headache "Headache") or [migraine](https://en.wikipedia.org/wiki/Migraine "Migraine"), and other disorienting symptoms.)"*)
-- [Generalised tonic-clonic seizure](https://en.wikipedia.org/wiki/Generalized_tonic%E2%80%93clonic_seizure), commonly known as a **grand mal seizure** or **GTCS**,[[1]](https://en.wikipedia.org/wiki/Generalized_tonic%E2%80%93clonic_seizure#cite_note-1) is a type of [generalized seizure](https://en.wikipedia.org/wiki/Generalized_seizure) that produces bilateral, convulsive [tonic](https://en.wikipedia.org/wiki/Tonic_\(physiology\) "Tonic (physiology)") and [clonic](https://en.wikipedia.org/wiki/Clonic "Clonic") muscle contractions.)
-- Prolonged seizes is a medical condition with abnormally prolonged seizures and are bad called [Status Epilepticus](https://en.wikipedia.org/wiki/Status_epilepticus) - hardcore [Epilepsy](https://en.wikipedia.org/wiki/Epilepsy), which is sub grouping of the disorders group
-- *"Some individuals experience an [aura](https://en.wikipedia.org/wiki/Aura_\(symptom\) "Aura (symptom)") before the seizure progresses, characterized by subjective sensations such as unusual smells, a sudden emotional shift, or feelings of [déjà vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu "Déjà vu")."*
 
 
-Palli-exclusion principle = no two neutrons can share the exact same quantum properties -> Schizophrenia disentanglement is possible, but why does it actually happen decoherence
+
+
+
+
 
 
 Gravitons and Gravitational waves muddling up everything - interaction up grav down, but quarks
@@ -682,30 +712,10 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 
 
 
-> - **Superposition:** Superposition is the state in which a quantum particle or system can represent not just one possibility, but a combination of multiple possibilities.
-> - **Entanglement:** Entanglement is the process in which multiple quantum particles become correlated more strongly than regular probability allows.
-> - **Coherence:** Decoherence is the process in which quantum particles and systems can sync, change with a repeating pattern that is set  of single states through time that can be the opposite of decay. 
-> - **Decoherence:** Decoherence is the process in which quantum particles and systems can decay, collapse or change, converting into single states measurable by classical physics.
-> - **Interference:** Interference is the phenomenon in which entangled quantum states can interact and produce more and less likely probabilities.
-https://scitechdaily.com/physicists-rewrite-thermodynamics-for-the-quantum-age/
-[Wikipedia Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
-[ibm](https://www.ibm.com/think/topics/quantum-computing)
-
-Coherence and decoherence also occur and affect the past and the future and three detirministically accounting for dark energy and matter 
-https://www.nature.com/articles/s41550-024-02465-8
-
-Squeezing space into time https://www.youtube.com/watch?v=8JuWdXrCmWg
-In a Lagrangian https://en.wikipedia.org/wiki/Gauge_theory mappings in a actual scale contextuality https://www.ime.unicamp.br/~mfq/research/contextuality/ in observed (not-entirely observable) frame based connectivity. Teleportation is both and not quantum occurring all the time in order and stable parts of the universe and not and not.
-
-
-https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state entanglement transformations can be made reversible under local operations and classical communication, when assisted by an entanglement battery—an auxiliary quantum system that stores and supplies entanglement in a way that ensures no net entanglement is lost... the rate of transformation in the asymptotic limit can be quantitatively expressed as a ratio of entanglement present within the quantum states involved
-
-Entanglement and disentanglement batteries
-
 Atomic level phases emerge
 https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
 
-#### Big Picture
+#### The Big Picture Problem
 
 
 Temperature = absolute zero, 1-41 degrees, absolute very hot
