@@ -14,7 +14,7 @@
 	Perfect just reshaped 
 >    Tabs and spaces are very important - button masher
 >    Extrapolation affects the extrapolated 
->    (baby) Yoda is old as balls and as wrinkly for good reason lazy eye that one
+>    (baby) Yod(a||ette) is old as balls and as wrinkly for good reason lazy eye that one
 >    Logs are ... Untitledtwo is one and none is none
 > 	   - logs are nerves
 >    K-Theory is K-Theory, knowledge before your time comes at a price
@@ -97,6 +97,13 @@ decision: force -> interaction, Force interacts ?!?
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 > E=CM^2
 
+
+What is the Delta of infinitely regressive delta of the Universe precisely at this moment?
+- rate of time? measure twice
+	- rate of gravitational waves?
+	- connection through certain Quantum order
+	- Dark matter stretching 
+	- Total strength of total Black hole - Total strength of total Neutron Stars
 #### Light
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
@@ -169,7 +176,7 @@ Stolen necklace problem is the TL organisation of information
 
 If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
-To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
+To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivalent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
 
 Elderly neutron stars and elderly schizophrenics
 - Dissertation 
@@ -232,6 +239,14 @@ A [Seizure](https://en.wikipedia.org/wiki/Seizure) is a sudden, brief disruption
 - Prolonged seizes is a medical condition with abnormally prolonged seizures and are bad called [Status Epilepticus](https://en.wikipedia.org/wiki/Status_epilepticus) - hardcore [Epilepsy](https://en.wikipedia.org/wiki/Epilepsy), which is sub grouping of the disorders group
 - *"Some individuals experience an [aura](https://en.wikipedia.org/wiki/Aura_\(symptom\) "Aura (symptom)") before the seizure progresses, characterized by subjective sensations such as unusual smells, a sudden emotional shift, or feelings of [déjà vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu "Déjà vu")."*
 
+Symmetry and Symmetry breaking
+[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem "Noether's theorem") states that every continuous symmetry of the action of a physical system with conservation forces has a corresponding conservatino law 
+
+https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
+Chiral symmetry
+Higgs mechanism - strong, weak and electromagnetic forces guage symmetry of strong interacdtions in particle physics 
+
+
 All the matter out of super voids is just in the surrounding universe, time is infinite. Move to another pocket of the universe if that is a problem.
 https://www.youtube.com/watch?v=VMm-U2pHrXE
 
@@ -256,9 +271,46 @@ Looking at shelf in sub par lightening - is the inner rings a vandal with a pen 
 - Mapping a Schizo-Time-Line is simply a Cosmic Distance ladder dependent of Brain Chemistry before and after initial and or secondary bout of Psychosis. Unlike DMT as ingested substance differs in activation in Brain
 	- I.E One can communicate with ones temporal relative (future or past self within the same universe) so commonality to establish communications between version of yourself is at what date and time version of selves are communicating on the alignment. Alignment may switch during day or night
 
+
+[Weak interaction](https://en.wikipedia.org/wiki/Weak_interaction) *"is one of the four known [fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction "Fundamental interaction"), with the others being [electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism "Electromagnetism"), the [strong interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction"), and [gravitation](https://en.wikipedia.org/wiki/Gravitation). The effective range of the weak force is limited to subatomic distances and is less than the diameter of a proton."*
+- quantum flavordynamics OR [electroweak interaction](https://en.wikipedia.org/wiki/Electroweak_interaction)
+
+
+
+
+Strong Central Problem (CP) Problem (why does [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD) seem to preserve [CP-symmetry](https://en.wikipedia.org/wiki/CP_violation#CP-symmetry "CP violation")?): strong interaction observably neutrinos respect the time reverse symmetry
+- Quantum Mechanics and time being deterministic, because that is what Quantum mechanics is - at its base information communicated through time
+- *Overall, the symmetry of a [quantum mechanical](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics") system can be restored if another approximate symmetry S can be found such that the combined symmetry PS remains unbroken. This rather subtle point about the structure of [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space "Hilbert space") was realized shortly after the discovery of P violation, and it was proposed that charge conjugation, C, which transforms a particle into its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle "Antiparticle"), was the suitable symmetry to restore order.* 
+Gravity is just interactions on dark matter, no graviton?
+Opals and gravity and liquids
+Dark matter
+- being that null actualisation of the truth 2d array
+Axion is `{ !=, ==, ?, ~, =-, =+, etc}` dark matter
+
+
+Quarks in the brain at room temperature
+[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
+
+Quarks preserve CP Symmetry due to the contents of the papers proofs that the author terms as Quantum-coherence or Qucoherancium. This being a partial observable state of a scope of measurability and observability of a region of space and span of time and all that is Quantum Entangle both within and outside that scope. 
+
+Dissipation in thermodynamics has a coherent relationship with quantum decoherence, which previous Standard Model of Universe entails a contradiction.
+
+A presumption then is that everything is measurable, such that both Interference or Decoherence events on any set of physical bodies is component in some hyper event like Archimedes displacement where limit of measurement is observable. 
+
+Similarly to Bernolilli's equation the limits of an event where bodies of not just liquids can have measurable and observable inputs, outputs and physical processes inside the observed event scope. Quantum and regular physical processes are one and the same.
+
+The existence and proof of Dipolar gases and the permanent electric dipolar to measure phase locking provide proof that observation such that psychical events to monitor or control quark interrelationships inside an event scope.
+
+The Hydrodynamics of Quantum soups at any point have observable and predictable *"fingerprint"* of the pathing of all quarks with and outside a Quark soup.
+
+Therefore this paper postulates a Quantum principle of exchange reducible to a Reynolds number for and energy losses and gains, due to Quantum Entanglement.
+
 #### Time Travel and the Quantum
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
+
+Quantum decoherence and coherence  
+https://phys.org/news/2026-02-vibrations-superconductivity-nearby-crystal.html
 
 
 > - **Superposition:** Superposition is the state in which a quantum particle or system can represent not just one possibility, but a combination of multiple possibilities.
@@ -308,6 +360,16 @@ To create a time travel directed quantum vortex
 https://www.nature.com/articles/s41586-024-08149-7
 
 
+[Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) is theoretical study of the [strong interaction/force/nuclear interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark") mediated by [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon").
+- Asymptotic freedom = redution in strength of interactions between quarks and gluons as the enery scale of those interactions increases
+- Chiral symetry breaking 
+
+https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/
+Quantum Geometry A decade after discovering the "amplituhedron," physicists have excavated more of the timeless geometry underlying the standard picture of how particles move. A new shape called the "associahedron" gives an alternative to calculating scattering amplitudes with [Feynman Diagrams](https://en.wikipedia.org/wiki/Feynman_diagram)
+- There is a actual a specific equation of Feynman diagrams for each interaction in the universe; the issues is that observations can lead to interaction such inverting the Scattering Amplitude to the left side of the equation can entangle the outcome. Therefore without know the unknown preceding input the observation of the input could determine the outcome before the transformation has concluded with an outcome
+amplituhedron Volume 
+Associathedron are affected by coloured scalars that forbid
+- Coloured scalars, Pions and Gluons forbid that exact same particle collisions
 
 
 
@@ -500,8 +562,6 @@ Superconductivity at the microscope level exists according to BCS Theory [Wikipe
 	- **An [exponential rise](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") in [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity "Heat capacity") near the critical temperature for some superconductors**
 	- **The lessening of the measured energy gap towards the critical temperature**
 
-Quantum decoherence and coherence  
-https://phys.org/news/2026-02-vibrations-superconductivity-nearby-crystal.html
 
 
 How could you prove or disapprove blackholes, neutron stars as manifolds
@@ -524,18 +584,12 @@ https://www.science.org/doi/10.1126/science.1091806
 https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html
 
 
-What is the Delta of Universe
-- rate of time? measure twice
-	- rate of gravitational waves?
-	- connection through certain Quantum order
-	- Dark matter stretching 
-	- Total strength of total Black hole - Total strength of total Neutron Stars
 
-Quarks in the brain at room temperature
-[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
+
+
 
 What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation")s that are generated and what their roles are:
-[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
+[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
 - Configure matter with energy, commute with energy - store on matter, just like the configuration 
 - https://en.wikipedia.org/wiki/Action_potential
 - https://en.wikipedia.org/wiki/Local_field_potential
@@ -546,8 +600,7 @@ What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neura
 
 
 
-[Weak interaction](https://en.wikipedia.org/wiki/Weak_interaction) *"is one of the four known [fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction "Fundamental interaction"), with the others being [electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism "Electromagnetism"), the [strong interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction"), and [gravitation](https://en.wikipedia.org/wiki/Gravitation). The effective range of the weak force is limited to subatomic distances and is less than the diameter of a proton."*
-- quantum flavordynamics OR [electroweak interaction](https://en.wikipedia.org/wiki/Electroweak_interaction)
+
 
 
 
@@ -580,14 +633,7 @@ https://en.wikipedia.org/wiki/Higgs_boson ; is there (Did not ?|!)
 
 In physics [parity](https://en.wikipedia.org/wiki/Parity_\(physics\) "Parity (physics)") symmetry was that the equations of particle physics are invariant under mirror inversion.
 
-Strong Central Problem (CP) Problem (why does [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD) seem to preserve [CP-symmetry](https://en.wikipedia.org/wiki/CP_violation#CP-symmetry "CP violation")?): strong interaction observably neutrinos respect the time reverse symmetry
-- Quantum Mechanics and time being deterministic, because that is what Quantum mechanics is - at its base information communicated through time
-- *Overall, the symmetry of a [quantum mechanical](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics") system can be restored if another approximate symmetry S can be found such that the combined symmetry PS remains unbroken. This rather subtle point about the structure of [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space "Hilbert space") was realized shortly after the discovery of P violation, and it was proposed that charge conjugation, C, which transforms a particle into its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle "Antiparticle"), was the suitable symmetry to restore order.* 
-Gravity is just interactions on dark matter, no graviton?
-Opals and gravity and liquids
-Dark matter
-- being that null actualisation of the truth 2d array
-Axion is `{ !=, ==, ?, ~, =-, =+, etc}` dark matter
+
 
 TT - https://en.wikipedia.org/wiki/Plasma_(physics) testing
 More Quantum
@@ -617,24 +663,8 @@ https://en.wikipedia.org/wiki/Goldstone_boson or **Nambu–Goldstone bosons** (*
 - Could this be a state of bosons under a set of conditions between -40 +40 degree celcius 
 - There are natural https://en.wikipedia.org/wiki/Goldstone_boson#Examples examples
 
-Symmetry and Symmetry breaking
-[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem "Noether's theorem") states that every continuous symmetry of the action of a physical system with conservation forces has a corresponding conservatino law 
-
-https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
-Chiral symmetry
-Higgs mechanism - strong, weak and electromagnetic forces guage symmetry of strong interacdtions in particle physics 
 
 
-[Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) is theoretical study of the [strong interaction/force/nuclear interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark") mediated by [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon").
-- Asymptotic freedom = redution in strength of interactions between quarks and gluons as the enery scale of those interactions increases
-- Chiral symetry breaking 
-
-https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/
-Quantum Geometry A decade after discovering the "amplituhedron," physicists have excavated more of the timeless geometry underlying the standard picture of how particles move. A new shape called the "associahedron" gives an alternative to calculating scattering amplitudes with [Feynman Diagrams](https://en.wikipedia.org/wiki/Feynman_diagram)
-- There is a actual a specific equation of Feynman diagrams for each interaction in the universe; the issues is that observations can lead to interaction such inverting the Scattering Amplitude to the left side of the equation can entangle the outcome. Therefore without know the unknown preceding input the observation of the input could determine the outcome before the transformation has concluded with an outcome
-amplituhedron Volume 
-Associathedron are affected by coloured scalars that forbid
-- Coloured scalars, Pions and Gluons forbid that exact same particle collisions
 
 Charms stars and Strange stars or only neutron stars
 - None observed or it is too difficult too, which seems like a academic loop-de-loop
@@ -730,19 +760,7 @@ QICK
 https://qick-docs.readthedocs.io/latest/index.html
 
 
-Quarks preserve CP Symmetry due to the contents of the papers proofs that the author terms as Quantum-coherence or Qucoherancium. This being a partial observable state of a scope of measurability and observability of a region of space and span of time and all that is Quantum Entangle both within and outside that scope. 
 
-Dissipation in thermodynamics has a coherent relationship with quantum decoherence, which previous Standard Model of Universe entails a contradiction.
-
-A presumption then is that everything is measurable, such that both Interference or Decoherence events on any set of physical bodies is component in some hyper event like Archimedes displacement where limit of measurement is observable. 
-
-Similarly to Bernolilli's equation the limits of an event where bodies of not just liquids can have measurable and observable inputs, outputs and physical processes inside the observed event scope. Quantum and regular physical processes are one and the same.
-
-The existence and proof of Dipolar gases and the permanent electric dipolar to measure phase locking provide proof that observation such that psychical events to monitor or control quark interrelationships inside an event scope.
-
-The Hydrodynamics of Quantum soups at any point have observable and predictable *"fingerprint"* of the pathing of all quarks with and outside a Quark soup.
-
-Therefore this paper postulates a Quantum principle of exchange reducible to a Reynolds number for and energy losses and gains, due to Quantum Entanglement.
 
 #### Maybe Useful
 
