@@ -1,4 +1,4 @@
-# Standard Model
+1# Standard Model
 
 ![](Old-OPs/Operation-Spring-New-Ember/Inner-Neutron-SNE/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
 
@@ -15,7 +15,7 @@
 >    Tabs and spaces are very important - button masher
 >    Extrapolation affects the extrapolated 
 >    (baby) Yoda is old as balls and as wrinkly for good reason lazy eye that one
->    Logs are ... two is one and none is none
+>    Logs are ... Untitledtwo is one and none is none
 > 	   - logs are nerves
 >    K-Theory is K-Theory, knowledge before your time comes at a price
 >    Stopping all time is potentially a serious crime 
@@ -65,9 +65,9 @@ List what I am missing
 ...
 Hypothesis and Theory Fleshed out
 
-that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
 
-Harmonic rotation and alignment for large time crystal to create portals? Requires a keystone indicator for a part of space and time that is to map to and from? Stargate-like? Best experiment on a satellite.
+
+
 
 ## Standard Model of the Universe
 
@@ -89,27 +89,15 @@ Quantum Crystals -> Syrstal
 
 decision: force -> interaction, Force interacts ?!? 
 
-
-Equations:
+#### Time 
 - Time is one dimensional and deterministic
 	- Predetermination
 	- Post-determination
 	- 
-- Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
-	- E=CM^2
-- Dark Matter and Energy are observable by products
-- Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
-	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
-	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
+> E=CM^2
 
-A cosmological constant of all past and future energy and matter in a extreme state..
-
-Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements.
-- https://www.nature.com/articles/s41550-024-02465-8 dark energy
-
-
-
-
+#### Light
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
 > 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
@@ -118,63 +106,123 @@ Light is the resulting affect of Quantum and non-Quantum processes across all Ti
 > - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
 >- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain
-
-Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
-
-Just as it was thought that light could not bend
-*"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"*
-https://www.nature.com/articles/s41567-025-02873-1
-
-Saw NAMDIE' of the tunnel in near by location
-Microodial structures 
-
-Second time saw none of the above phenomena
-
-Dualities non-trivialy intertwine closed boundary conditions and charge sectors ... can be as duality operators turned into unitary linear depth quantum circuits via the introduction of ancillary degrees of freedom that keep track of the various sectors. .. these dualities change the phase of the states on which they act
+>- Microodial structures 
+> Second time saw none of the above phenomena
+> Dualities non-trivialy intertwined closed boundary conditions and charge sectors ... can be as duality operators turned into unitary linear depth quantum circuits via the introduction of ancillary degrees of freedom that keep track of the various sectors. .. these dualities change the phase of the states on which they act
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403
 - dualities can be used to build circuits entailing order 
 - dualities can affect states
 - prepare short- and long-range entangled states 
 - map between different gapped boundaries of (2+1)⁢d topological models.
 
-as [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)
+Is this contruct an experiential data that is just [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)?
 
-32+ Thousand years gene in evolutional history
 
-Why does the brain not leak photon in photon emission in quantum teleportation
+Just as it was thought that light could not bend
+*"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"* [ref](https://www.nature.com/articles/s41567-025-02873-1)
+
+that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
+
+#### DM
+- Dark Matter and Energy are observable by products
+	- EQUATION?
+	- Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements. - https://www.nature.com/articles/s41550-024-02465-8 dark energy
+- Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
+	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
+	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+
+A cosmological constant of all past and future energy and matter in a extreme state..
+
+
+Returning to subject of time
+
+Harmonic rotation and alignment for large time crystal to create portals? Requires a keystone indicator for a part of space and time that is to map to and from? Stargate-like? Best experiment on a satellite.
+
+Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
+
+?
+
+
+#### Experience
+
+
+Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
+- TC found operable at room temperature
+- Brain is repeating retention of energy
+- Brain around the crystal is self organising
+- Brain is a genetic structure that is constant through time
+- Ionisation occurs naturally in the brain and a ring or sphere in the brain could correlate to holes in the brains of schizophrenics
+- broken time symmetry is a constantly rotating ring of charged ions in an otherwise lowest-energy state
+- Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
+- The thought frequency is in a stable range  
+
+Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+
+[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+Stolen necklace problem is the TL organisation of information
+
+[Neural Binding](https://en.wikipedia.org/wiki/Neural_binding) is oversimplification simplification of electromagnetic interaction as synchronised autonomous system that is too linear  
+- Waves fields affecting https://en.wikipedia.org/wiki/Action_potential mid transmission
+- 
+- Non-schizophrenic intrusive thoughts, general hand wavey armchair neurology surrounding consciousness
+
+
+If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
+https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
+To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to detirmine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
+
+32+ Thousand years gene in evolutionary history
+
+Why is schizophrenia not telepathy or psionics? Why does the brain does or does not leak photon in photon emission in quantum teleportation? The brain is an organic quantum meshed lattice 
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 
-Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
-- Consider this is just wrist and nerves not brain - but muscle memory
-	- 3Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
-Body tissues also proven to host superradiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
 
+It is therefore analogous to state that the brain itself is can complex time crystal that can rearranged 
+https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-memory-loss/
 
-[Cosmic distance ladder YouTube: 3Blue1Bown](https://www.youtube.com/watch?v=YdOXS_9_P4U) - maybe the light is weird oblate spheriod in between two fibrious (but it would interact with the light from the other hole and reflected uot of my eyes)
-- https://en.wikipedia.org/wiki/Cosmic_distance_ladder
-- Mapping Schizo-Time-Line is simply a Cosmic Distance ladder dependent of Brain Chemistry before and after initial and or secondary bout of Psychosis. Unlike DMT as ingested substance differs in activation in Brain
-	- I.E One can communicate with ones temporal relative (future or past self within the same universe) so commonality to establish communications between version of yourself is at what date and time version of selves are communicating on the alignment. Alignment may switch during day or night
+#### Of relevant mass
 
 Black hole are holes in our Universe and Neutron stars are the inverse maintaining a harmony? Or are they a cluster of Dark matter?
--  do they actually spin or is just like a sinkhole spinning the water because of gravity?
+- Do they actually spin or is just like a sinkhole spinning the water because of gravity?
+- To pass through then would require a structure made from the metal of a neutron star 
+
+All the matter out of super voids is just in the surrounding universe, time is infinite. Move to another pocket of the universe if that is a problem.
+https://www.youtube.com/watch?v=VMm-U2pHrXE
+
+So a big bang could be the collision of galaxy from one perspective or the spinning of multiple black holes. There are lots bangs in space and you expect me to know what bangs mean what!?
 
 Neutron Stars 
 - Weird mass of one Neutron Stars 
 	- What happens if that collapses?
 	- 
 
+
+Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
+- Consider this is just wrist and nerves not brain - but muscle memory
+	- 3Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
+Body tissues also proven to host superradiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
+
+Looking at shelf in sub par lightening - is the inner rings a vandal with a pen or just the wood? Did you get close enough? 
+
+
+[Cosmic distance ladder YouTube: 3Blue1Bown](https://www.youtube.com/watch?v=YdOXS_9_P4U) - maybe the light is weird oblate spheriod in between two fibrious (but it would interact with the light from the other hole and reflected uot of my eyes)
+- https://en.wikipedia.org/wiki/Cosmic_distance_ladder
+- Mapping a Schizo-Time-Line is simply a Cosmic Distance ladder dependent of Brain Chemistry before and after initial and or secondary bout of Psychosis. Unlike DMT as ingested substance differs in activation in Brain
+	- I.E One can communicate with ones temporal relative (future or past self within the same universe) so commonality to establish communications between version of yourself is at what date and time version of selves are communicating on the alignment. Alignment may switch during day or night
+
+#### Time Travel and the Quantum
+
+Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
+
+What if you put a time crystal in a structure that 
+https://en.wikipedia.org/wiki/Time_crystal to 
+https://pubs.aip.org/aip/apl/article-abstract/81/2/196/511407/Embedded-anisotropic-microreflectors-by?redirectedFrom=fulltext
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
+within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
+
+
 Sodium Nanoclusters linked proof that non-2030 life could time travel
 https://www.nature.com/articles/s41586-025-09917-9
-
-Oscillation quantum 3 states where interaction forces the state change
-- https://en.wikipedia.org/wiki/Time_crystal
-- To force oscillation through interaction
-Separation of linear reaction and non-linear reactions
-https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction
-Not, but similar to the Briggs rauscher reaction https://youtube.com/shorts/F0kSJv1KBVg?si=IrUWq4vPvOlRieFt:
-- as it is non-quantum reaction
-	- malonic acid consume iodine to produce iodide ions (Non-radical Process), the  auto-catalytic process involving manganese converts hydrogen peroxide and iodate to free iodine.
-- Probably a linear quantum variate exists
 
 
 With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."*
@@ -191,37 +239,19 @@ To create a time travel directed quantum vortex
 https://www.nature.com/articles/s41586-024-08149-7
 
 
-All the matter out of super voids is just in the surrounding universe, time is infinite. Move to another pocket of the universe if that is a problem.
-https://www.youtube.com/watch?v=VMm-U2pHrXE
-
-
-What if you put a time crystal in a structure that 
-https://en.wikipedia.org/wiki/Time_crystal to 
-https://pubs.aip.org/aip/apl/article-abstract/81/2/196/511407/Embedded-anisotropic-microreflectors-by?redirectedFrom=fulltext
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
-within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
 
 
 
 
-Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
-- TC found operable at room temperature
-- Brain is repeating retention of energy
-- Brain around the crystal is self organising
-- Brain is a genetic structure that is constant through time
-- Ionisation occurs naturally in the brain and a ring or sphere in the brain could correlate to holes in the brains of schizophrenics
-- broken time symmetry is a constantly rotating ring of charged ions in an otherwise lowest-energy state
-- Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
-- The thought frequency is in a stable range  
-
-If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
-https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
-To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivilent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to detirmine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
-
-
-The brain itself is can 
-complex time crystal that can rearranged 
-https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-memory-loss/
+Oscillation quantum 3 states where interaction forces the state change
+- https://en.wikipedia.org/wiki/Time_crystal
+- To force oscillation through interaction
+Separation of linear reaction and non-linear reactions
+https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction
+Not, but similar to the Briggs rauscher reaction https://youtube.com/shorts/F0kSJv1KBVg?si=IrUWq4vPvOlRieFt:
+- as it is non-quantum reaction
+	- malonic acid consume iodine to produce iodide ions (Non-radical Process), the  auto-catalytic process involving manganese converts hydrogen peroxide and iodate to free iodine.
+- Probably a linear quantum variate exists
 
 
 
@@ -229,21 +259,11 @@ https://www.youtube.com/watch?v=8JuWdXrCmWg Astonishing discovery by computer sc
 Simulating Time in Square-Root Space , Ryan Williams — https://eccc.weizmann.ac.il/report/2025/017/research paper) Tree Evaluation is in Space O(log n * log log n), James Cook and Ian Mertz — https://dl.acm.org/doi/10.1145/3618260.3649664(research paper) Pebbles and Branching Programs for Tree Evaluation, Stephen Cook, Pierre McKenzie, Dustin Wehr, Mark Braverman, Rahul Santhanam — https://arxiv.org/abs/1005.2642 (research paper) You Need Much Less Memory than Time, Lance Fortnow — https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html (blog, with quote about "... an earthquake of a result") Introduction to the Theory of Computation, Michael Sipser (textbook, table of contents is shown) Reusing Space: Techniques and Open Problems, Ian Mertz — https://iuuk.mff.cuni.cz/~iwmertz/papers/m23.reusing_space.pdf (survey article / notes)
 
 
-Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. Precogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
-
-[Neural Binding](https://en.wikipedia.org/wiki/Neural_binding) is oversimplification simplification of electromagnetic interaction as synchronised autonomous system that is too linear  
-- Waves fields affecting https://en.wikipedia.org/wiki/Action_potential mid transmission
-- 
-- Non-schizophrenic intrusive thoughts, general hand wavey armchair neurology surrounding consciousness
-
-
 
 [1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
-Stolen necklace problem is the TL organisation of information
-
 Stolen necklace problem as a quark in space through time
 
-Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
+
 
 The brain is kind of organic Classical and Quantum computer
 - Fractal 
