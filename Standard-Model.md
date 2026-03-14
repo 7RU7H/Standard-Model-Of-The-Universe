@@ -220,6 +220,11 @@ Heat, electromagnetism, and Coulomb's law are fundamentally interconnected throu
 - Heat transfer occurs through electromagnetic radiation
 
 Dark energy 
+Visible and dark Energy and from whether dark or otherwise Matter
+Polarisation of + and - 
+- https://scitechdaily.com/the-strange-secret-behind-these-semiconductors-that-seemingly-defy-physics/ - redo drunk
+	- Where these domains meet, and especially where two positive ends come together, researchers didn’t understand why the repulsion didn’t create a physical break in the material.
+
 Unlike ordinary matter and dark matter, dark energy doesn’t clump into galaxies or structures—it acts more like a uniform energy field spread throughout space. - makes up about 68% of the universe. 
 - theoretically perceived universe past and future
 
@@ -305,6 +310,28 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits.
 
+PHIND
+Why is an [proton](https://en.wikipedia.org/wiki/Proton) approximately 1836 times the mass of an [electron](https://en.wikipedia.org/wiki/Electron "Electron")
+> **Quark Rest Mass**: Only about 1% of the proton's mass comes directly from its constituent quarks[](https://en.wikipedia.org/wiki/Proton)- [en.wikipedia.org](https://en.wikipedia.org/wiki/Proton)
+>- **Binding Energy**: The remaining 99% comes from quantum chromodynamics binding energy, which includes:
+    - Kinetic energy of the quarks
+    - Energy of the gluon fields holding everything together
+> Unlike protons, electrons are elementary particles with no known internal structure. Their mass is fundamental rather than composite, meaning it's not built up from smaller parts. This fundamental difference in structure explains why electrons are much lighter than protons.
+> Why Exactly 1836? 
+> The exact ratio isn't arbitrary - it emerges from the interplay of three fundamental interactions of nature:
+> 1. **Strong Nuclear Force**: Holds quarks together within protons
+> 2. **Electromagnetic Force**: Determines electron behaviour
+> 3. **Quantum Mechanics**: Sets the scale of particle interactions
+> The precise ratio of 1836 emerges naturally from how these interactions interact at the quantum level, particularly through:
+>  - The strength of the strong nuclear interaction relative to electromagnetic interaction
+>  - The energy required to confine quarks within protons
+>  - The fundamental constants of nature (like Planck's constant and the speed of light)
+  While we can measure this ratio with great precision (it's actually 1836.15267245...), explaining exactly why nature chose this particular value remains one of physics' deeper mysteries.
+
+How are stars formed and lifecycle, etc is their comparisons with brains
+- Gas collects together in space and eventual ignites to fusion from increase gravity and electro-magnetic
+
+
 Add proton and electron row ids
 Maybe break each set up into six
 
@@ -337,9 +364,6 @@ Wave and particle till observed: continuum of universal interinteraction collaps
 https://en.wikipedia.org/wiki/Goldstone_boson or **Nambu–Goldstone bosons** (**NGBs**) are [bosons](https://en.wikipedia.org/wiki/Bosons "Bosons") that appear necessarily in models exhibiting [spontaneous breakdown](https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking "Spontaneous symmetry breaking") of [continuous symmetries](https://en.wikipedia.org/wiki/Continuous_symmetry "Continuous symmetry"). Generalise in QFT in condense matter physics such bosons are quasiparticles Goldstone modes or Anderson–Bogoliubov modes.
 - Could this be a state of bosons under a set of conditions between -40 +40 degree celcius 
 - There are natural https://en.wikipedia.org/wiki/Goldstone_boson#Examples examples
-
-
-[
 
 
 `gravitons` are theoretical abstraction of the motion of the universe itself. But potential observable as a particle
@@ -406,7 +430,7 @@ Neutron Stars do spin much faster the in Starsector and our sun where I discover
 
 Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
 - Consider this is just wrist and nerves not brain - but muscle memory
-	- 3Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
+	- Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
 Body tissues also proven to host superradiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
 
 Looking at shelf in sub par lightening - is the inner rings a vandal with a pen or just the wood? Did you get close enough? 
@@ -510,6 +534,37 @@ Arrangement of Time Travel materials into a structure to at some point control w
 To create a time travel directed quantum vortex
 https://www.nature.com/articles/s41586-024-08149-7
 
+https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
+New observations of microscopic vortices, known as quantum tornadoes, confirm the existence of a paradoxical phase of matter that may also arise inside neutron stars. 
+https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
+- [PHIND request , date:]() two-dimensional crystalline order is just a 2d geometric patterns and fractural structure at atomic level and at a 20 micrometers thick microscopic level as well
+	- https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals/
+		1. **Environmental Conditions**
+		    - Temperature (typically around 20°C)
+		    - Humidity levels (between 40% and 70%)
+		    - Surface characteristics
+		2. **Solution Properties**
+		    - Concentration of solute (varies between 0.5% and 50%)
+		    - Type of solvent used
+		    - Presence of additives or impurities
+		3. **Order vs. Chaos**
+		    - Perfect geometric patterns compete with random thermal motion
+		    - Only a fraction of molecules form ordered structures
+		    - Each crystal formation is unique due to environmental influences
+		4. **Butterfly Effect**
+		    - Tiny changes in conditions can cause dramatic differences in crystal formation
+		    - Even minute additions of foreign substances can alter patterns significantly
+		    - Environmental factors play crucial roles in final structure
+- PHIND Dipolar gases are collections of particles that possess permanent electric dipoles - meaning they have a separation of positive and negative charge within each molecule. Unlike simple atomic gases where electrons orbit symmetrically around nuclei, dipolar gases consist of molecules where this symmetry is broken, resulting in a permanent electric moment.
+- Phase locking in dipolar supersolids has been investigated 
+- a hydrodynamic fingerprint of superfluidity, have not yet been observed
+- gapless Goldstone Modes were used in this paper argument 
+	- Where do and do these even exist
+	- https://en.wikipedia.org/wiki/Goldstone_boson
+*"Our work reveals a fundamental difference in vortex seeding dynamics between unmodulated and modulated quantum fluids. This opens the door to study the hydrodynamic properties of exotic quantum systems with numerous spontaneously broken symmetries, in disparate domains such as quantum crystals and neutron stars"*
+
+[Observation of vortices and vortex stripes in a dipolar condensate](https://pubmed.ncbi.nlm.nih.gov/36506337) paper they exploited the anisotropic nature of the dipole-dipole interaction of a dysprosium Bose-Einstein condensate to induce angular symmetry breaking in an otherwise cylindrically symmetric pancake-shaped trap* to induce a quantum vortex.
+
 
 [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) is theoretical study of the [strong interaction/force/nuclear interaction](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") between [quarks](https://en.wikipedia.org/wiki/Quark "Quark") mediated by [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon").
 - Asymptotic freedom = redution in strength of interactions between quarks and gluons as the enery scale of those interactions increases
@@ -611,36 +666,10 @@ https://www.livescience.com/technology/computing/quantum-miracle-material-can-st
 
 Spinning Quantum soap or soup or souffle. 
 
-https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
-New observations of microscopic vortices, known as quantum tornadoes, confirm the existence of a paradoxical phase of matter that may also arise inside neutron stars. 
-https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
-- [PHIND request , date:]() two-dimensional crystalline order is just a 2d geometric patterns and fractural structure at atomic level and at a 20 micrometers thick microscopic level as well
-	- https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals/
-		1. **Environmental Conditions**
-		    - Temperature (typically around 20°C)
-		    - Humidity levels (between 40% and 70%)
-		    - Surface characteristics
-		2. **Solution Properties**
-		    - Concentration of solute (varies between 0.5% and 50%)
-		    - Type of solvent used
-		    - Presence of additives or impurities
-		3. **Order vs. Chaos**
-		    - Perfect geometric patterns compete with random thermal motion
-		    - Only a fraction of molecules form ordered structures
-		    - Each crystal formation is unique due to environmental influences
-		4. **Butterfly Effect**
-		    - Tiny changes in conditions can cause dramatic differences in crystal formation
-		    - Even minute additions of foreign substances can alter patterns significantly
-		    - Environmental factors play crucial roles in final structure
-- PHIND Dipolar gases are collections of particles that possess permanent electric dipoles - meaning they have a separation of positive and negative charge within each molecule. Unlike simple atomic gases where electrons orbit symmetrically around nuclei, dipolar gases consist of molecules where this symmetry is broken, resulting in a permanent electric moment.
-- Phase locking in dipolar supersolids has been investigated 
-- a hydrodynamic fingerprint of superfluidity, have not yet been observed
-- gapless Goldstone Modes were used in this paper argument 
-	- Where do and do these even exist
-	- https://en.wikipedia.org/wiki/Goldstone_boson
-*"Our work reveals a fundamental difference in vortex seeding dynamics between unmodulated and modulated quantum fluids. This opens the door to study the hydrodynamic properties of exotic quantum systems with numerous spontaneously broken symmetries, in disparate domains such as quantum crystals and neutron stars"*
 
-https://pubmed.ncbi.nlm.nih.gov/36506337/
+
+
+
 
 Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
 
@@ -727,48 +756,14 @@ https://en.wikipedia.org/wiki/Electron_capture
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 How does a actual... Quantum Computer not collapse the universe (not big enough with enough connections) - how the fuck do you stop that happening? Rulec expansion - told past create rules for computers in 2021,2,3? on 15/4/2025 and generally across the TC. 
 - Quantum Rulec
 
-PHIND
-Why is an [proton](https://en.wikipedia.org/wiki/Proton) approximately 1836 times the mass of an [electron](https://en.wikipedia.org/wiki/Electron "Electron")
-> **Quark Rest Mass**: Only about 1% of the proton's mass comes directly from its constituent quarks[](https://en.wikipedia.org/wiki/Proton)- [en.wikipedia.org](https://en.wikipedia.org/wiki/Proton)
->- **Binding Energy**: The remaining 99% comes from quantum chromodynamics binding energy, which includes:
-    - Kinetic energy of the quarks
-    - Energy of the gluon fields holding everything together
-> Unlike protons, electrons are elementary particles with no known internal structure. Their mass is fundamental rather than composite, meaning it's not built up from smaller parts. This fundamental difference in structure explains why electrons are much lighter than protons.
-> Why Exactly 1836? 
-> The exact ratio isn't arbitrary - it emerges from the interplay of three fundamental interactions of nature:
-> 1. **Strong Nuclear Force**: Holds quarks together within protons
-> 2. **Electromagnetic Force**: Determines electron behaviour
-> 3. **Quantum Mechanics**: Sets the scale of particle interactions
-> The precise ratio of 1836 emerges naturally from how these interactions interact at the quantum level, particularly through:
->  - The strength of the strong nuclear interaction relative to electromagnetic interaction
->  - The energy required to confine quarks within protons
->  - The fundamental constants of nature (like Planck's constant and the speed of light)
-  While we can measure this ratio with great precision (it's actually 1836.15267245...), explaining exactly why nature chose this particular value remains one of physics' deeper mysteries.
 
-How are stars formed and lifecycle, etc is their comparisons with brains
-- Gas collects together in space and eventual ignites to fusion from increase gravity and electro-magnetic
 
 
 https://www.youtube.com/watch?v=YdOXS_9_P4U
 - Reference object are required mathematically
-
-
-
-
 
 
 
@@ -782,10 +777,7 @@ https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
 
 
 
-Visible and dark Energy and Matter
-Polarisation of + and - 
-- https://scitechdaily.com/the-strange-secret-behind-these-semiconductors-that-seemingly-defy-physics/ - redo drunk
-	- Where these domains meet, and especially where two positive ends come together, researchers didn’t understand why the repulsion didn’t create a physical break in the material.
+
 
 Get a cheap as fuck board and **somehow** keep it at room temperature
 - ZCU111, ZCU216, and RFSoC4x2
