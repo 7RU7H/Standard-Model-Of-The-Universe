@@ -24,6 +24,16 @@
 >    Is life a black quadrant or in it?
 >    Everything you ever touch is transparent to the cognition of the universe being been measured my time travellers
 >    Remember the next set of species that inherit the earth upon transmission of the Universes Truths unfathomed yet
+>    TT equation, 3 lines: 
+> 	   - Washing machine, + Understanding = TT
+> 	   - Dishwasher, + Understanding = TT
+> 	   - TV (circa 2024) + Understanding = TT
+>   Is it a talking cat or dog in the box this time Professor Schodinger? 
+>   Quantum True `x`D array
+>   Standard model of particle physics, a table with spin, examples of sub types that have been verified found 
+>   Temperature `==` absolute zero, 1`<=>`41 degrees, absolute very hot is relative to the matter in contact with that heat
+
+
 
 #### Todo
 
@@ -97,7 +107,7 @@ decision: force -> interaction, Force interacts ?!?
 	- Post-determination
 	- 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
-> E=CM^2
+> `E=CM^2`
 
 
 What is the Delta of infinitely regressive delta of the Universe precisely at this moment?
@@ -110,6 +120,12 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 
 Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space
 
+WTF is colours in physics Colour confinement?... two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark
+- [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
+- Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language.
+
+
+- [Colour](https://en.wikipedia.org/wiki/Color): is the [visual perception](https://en.wikipedia.org/wiki/Visual_perception "Visual perception") based on the [electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum "Electromagnetic spectrum"). -> Visual perception as a neural control flow? As information what is the self image recognition
 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
@@ -168,7 +184,9 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
    *“Depending on the polarization of the light, the cavity modes either remain independent, or they mix together, forming completely new hybrid modes,” Tay said. “This suggests we can engineer materials where different cavity modes ‘talk’ to each other through the electrons in a magnetic field, creating new correlated states.”*
    *“This matter-mediated photon-photon coupling can lead to new protocols and algorithms in quantum computation and quantum communications,” Kono said.*
 
-#### DM
+#### Data Mining dark energy and matter 
+
+
 - Dark Matter and Energy are observable by products
 	- EQUATION?
 	- Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements. - https://www.nature.com/articles/s41550-024-02465-8 dark energy
@@ -178,6 +196,7 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 
 A cosmological constant of all past and future energy and matter in a extreme state..
 
+Supernovas don't speed up when expanding. it is just the observable data, not gravity or speed just observable speed of less and less, but just historiography of collapsing star.
 
 Returning to subject of time
 
@@ -186,7 +205,24 @@ Harmonic rotation and alignment for large time crystal to create portals? Requir
 Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
 
 ?
-#### Of energy
+#### Of Energy
+
+Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy 
+- https://en.wikipedia.org/wiki/Metabolism
+- Photosynthesis and others
+- https://en.wikipedia.org/wiki/Mitochondrion - powerhouse of cell
+	- https://www.youtube.com/watch?v=W4tXqcXeHHM
+		- Methylene Blue Research [https://www.academia.edu/101664825/Ne...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM) [https://www.mdpi.com/2075-4418/10/4/2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ0Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM) [https://pubmed.ncbi.nlm.nih.gov/8971139](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuUWdkWDdUVkhHR3hTeDlxLWRiRUN3ZzJfUXxBQ3Jtc0tscHFMR0pmRXRjc3NHSHJ4cDFTZ2I5RS1URU0xYTM0SGIyb1FJZnFKZFh5MEEzR0tvMHN6UG1IMG80dngxczc4UTk5Mm1xeHJFS0pmMzJQZ296MTRnTUhSdEpCRXhoZlBPUUhZTDNPdm1WN3pGWFNXZw&q=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F8971139&v=W4tXqcXeHHM) [https://dx.doi.org/10.1115/1.1498850](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVsSUxreWdfM0dDUFg2YWYyZ3A3WURwa0NMUXxBQ3Jtc0ttZEZaQUktVTlXWkE5bWJiamJ0T3R1ekJISlhUQWhHYVRoWi1wbExlQWNZVHEyQ3gteUtzT2VFWkNidXhwUWk4ODhHdE9BZnhmcUxPd2UzemxuTU5MU05SUW5tMWZWWUpHSkk3X21WeERYM1RFd3JRMA&q=https%3A%2F%2Fdx.doi.org%2F10.1115%2F1.1498850&v=W4tXqcXeHHM)
+
+PHIND:
+Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
+- Electromagnetic Spectrum
+- Heat transfer occurs through electromagnetic radiation
+
+Dark energy 
+Unlike ordinary matter and dark matter, dark energy doesn’t clump into galaxies or structures—it acts more like a uniform energy field spread throughout space. - makes up about 68% of the universe. 
+- theoretically perceived universe past and future
+
 
 Superconductivity at the microscope level exists according to BCS Theory [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
 - BCS theory starts from the assumption that there is some attraction between electrons, which can overcome the [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion")
@@ -200,8 +236,7 @@ My concern while studying electronics, because of the lecturer was what would su
 [Exciton (Wikipedia)](https://en.wikipedia.org/wiki/Exciton) *"is a [bound state](https://en.wikipedia.org/wiki/Bound_state "Bound state") of an [electron](https://en.wikipedia.org/wiki/Electron "Electron") and an [electron hole](https://en.wikipedia.org/wiki/Electron_hole "Electron hole") which are attracted to each other by the electrostatic [Coulomb force](https://en.wikipedia.org/wiki/Coulomb%27s_law "Coulomb's law") resulting from their opposite charges."*
 - Electron hole = where an electron could be but for the Quark comply with the law of not being in the same place as another
 
-#### Of biology
-
+#### Of Biology
 
 Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
 - TC found operable at room temperature
@@ -244,6 +279,7 @@ What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neura
 - https://en.wikipedia.org/wiki/Central_pattern_generator
 
 
+
 If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
 To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivalent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
@@ -265,7 +301,7 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
 It is therefore analogous to state that the brain itself is can complex time crystal that can rearranged 
 https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-memory-loss/
 
-#### Of relevant mass
+#### Of Relevant Mass
 
 Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits.
 
@@ -362,6 +398,7 @@ https://www.youtube.com/watch?v=VMm-U2pHrXE
 So a big bang could be the collision of galaxy from one perspective or the spinning of multiple black holes. There are lots bangs in space and you expect me to know what bangs mean what!?
 
 Neutron Stars 
+Neutron Stars do spin much faster the in Starsector and our sun where I discovered the existence in my personal life https://en.wikipedia.org/wiki/Stellar_rotation
 - Weird mass of one Neutron Stars 
 	- What happens if that collapses?
 	- 
@@ -502,7 +539,18 @@ Not, but similar to the Briggs rauscher reaction https://youtube.com/shorts/F0kS
 
 https://www.youtube.com/watch?v=8JuWdXrCmWg Astonishing discovery by computer scientist: how to squeeze space into time:
 Simulating Time in Square-Root Space , Ryan Williams — https://eccc.weizmann.ac.il/report/2025/017/research paper) Tree Evaluation is in Space O(log n * log log n), James Cook and Ian Mertz — https://dl.acm.org/doi/10.1145/3618260.3649664(research paper) Pebbles and Branching Programs for Tree Evaluation, Stephen Cook, Pierre McKenzie, Dustin Wehr, Mark Braverman, Rahul Santhanam — https://arxiv.org/abs/1005.2642 (research paper) You Need Much Less Memory than Time, Lance Fortnow — https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html (blog, with quote about "... an earthquake of a result") Introduction to the Theory of Computation, Michael Sipser (textbook, table of contents is shown) Reusing Space: Techniques and Open Problems, Ian Mertz — https://iuuk.mff.cuni.cz/~iwmertz/papers/m23.reusing_space.pdf (survey article / notes)
+#### Of the Unreal
 
+[[Old-OPs/Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
+Disprove Simulation with Biological imperative and Life algorithm with time travel
+https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
+- Size of the Universe
+- Fundamental model of Universe would require a computer infinitely big and Black hole are just wholes in the Dark matter of the Universe 
+- To leave a matrix reality must be stabilised via whatever action possible, so if you reality is that you are trapped in a computer or any reality you are utterly fucked may have to die over and over till.
+
+Simulation stuff
+https://www.youtube.com/watch?v=8-B6ryuBkCM
+https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 
 #### Big Picture Notes 
@@ -536,7 +584,7 @@ Entanglement and Complexity: Gravity and Quantum Mechanics
 https://www.youtube.com/watch?v=9crggox5rbc
 
 
-Schodingers Equation
+
 
 Quantum Hacking
 https://www.youtube.com/watch?v=Sc_cJiLFQZ0
@@ -545,9 +593,6 @@ https://www.youtube.com/watch?v=ToOLbdrWst4
 
 https://www.youtube.com/watch?v=fzlflyw7X2I
 
-Simulation stuff
-https://www.youtube.com/watch?v=8-B6ryuBkCM
-https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 
 https://www.newscientist.com/article/2479093-nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
@@ -562,16 +607,14 @@ https://www.earth.com/news/dark-photon-theory-casts-doubt-on-double-slit-experim
 
 https://www.livescience.com/technology/computing/quantum-miracle-material-can-store-information-in-a-single-dimension-thanks-to-newly-discovered-magnetic-switching
 
-TT equation, 3 lines? Also for the joke about it.
-- Washing machine, Dishwasher, TV + Understanding
 
 
-Spinning Quantum soap
+Spinning Quantum soap or soup or souffle. 
 
 https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
 New observations of microscopic vortices, known as quantum tornadoes, confirm the existence of a paradoxical phase of matter that may also arise inside neutron stars. 
 https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
-- PHIND two-dimensional crystalline order is just a 2d geometric patterns and fractural structure at atomic level and at a 20 micrometers thick microscopic level as well
+- [PHIND request , date:]() two-dimensional crystalline order is just a 2d geometric patterns and fractural structure at atomic level and at a 20 micrometers thick microscopic level as well
 	- https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals/
 		1. **Environmental Conditions**
 		    - Temperature (typically around 20°C)
@@ -601,7 +644,7 @@ https://pubmed.ncbi.nlm.nih.gov/36506337/
 
 Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
 
-- Neutron Stars do spin much fast the in Starsector https://en.wikipedia.org/wiki/Stellar_rotation
+
 
 
 
@@ -626,12 +669,6 @@ https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-da
 https://www.nature.com/articles/s41550-024-02465-8
 
 
-[[Old-OPs/Operation-Repair-Vortex/Ideas-OP-SNE/No-Simulation-Proof]]
-Disprove Simulation with Biological imperative and Life algorithm with time travel
-https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
-- Size of the Universe
-- Fundamental model of Universe would require a computer infinitely big and Black hole are just wholes in the Dark matter of the Universe 
-- To leave a matrix reality must be stabilised via whatever action possible, so if you reality is that you are trapped in a computer or any reality you are utterly fucked may have to die over and over till.
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
@@ -666,33 +703,6 @@ https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html
 
 
 
-
-
-
-
-
-
-Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy 
-- https://en.wikipedia.org/wiki/Metabolism
-- Photosynthesis and others
-- https://en.wikipedia.org/wiki/Mitochondrion - powerhouse of cell
-	- https://www.youtube.com/watch?v=W4tXqcXeHHM
-		- Methylene Blue Research [https://www.academia.edu/101664825/Ne...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM) [https://www.mdpi.com/2075-4418/10/4/2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ0Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM) [https://pubmed.ncbi.nlm.nih.gov/8971139](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuUWdkWDdUVkhHR3hTeDlxLWRiRUN3ZzJfUXxBQ3Jtc0tscHFMR0pmRXRjc3NHSHJ4cDFTZ2I5RS1URU0xYTM0SGIyb1FJZnFKZFh5MEEzR0tvMHN6UG1IMG80dngxczc4UTk5Mm1xeHJFS0pmMzJQZ296MTRnTUhSdEpCRXhoZlBPUUhZTDNPdm1WN3pGWFNXZw&q=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F8971139&v=W4tXqcXeHHM) [https://dx.doi.org/10.1115/1.1498850](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVsSUxreWdfM0dDUFg2YWYyZ3A3WURwa0NMUXxBQ3Jtc0ttZEZaQUktVTlXWkE5bWJiamJ0T3R1ekJISlhUQWhHYVRoWi1wbExlQWNZVHEyQ3gteUtzT2VFWkNidXhwUWk4ODhHdE9BZnhmcUxPd2UzemxuTU5MU05SUW5tMWZWWUpHSkk3X21WeERYM1RFd3JRMA&q=https%3A%2F%2Fdx.doi.org%2F10.1115%2F1.1498850&v=W4tXqcXeHHM)
-
-Dark energy 
-Unlike ordinary matter and dark matter, dark energy doesn’t clump into galaxies or structures—it acts more like a uniform energy field spread throughout space. - makes up about 68% of the universe. 
-- theoretically perceived universe
-
-Supernova don't speed up when expanding it is just the observable data, not gravity or speed just observable speed of less and less
-
-Quantum True `x`D array
-
-WTF is colours in physics Colour confinement?... two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark
-- [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
-
-- [Colour](https://en.wikipedia.org/wiki/Color): is the [visual perception](https://en.wikipedia.org/wiki/Visual_perception "Visual perception") based on the [electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum "Electromagnetic spectrum"). -> Visual perception as a neural control flow? As information what is the self image recognition
-
-
 Marya Viazovska 8D and 24D sphere stacking in higher dimensions
 
 Quark stars?
@@ -709,17 +719,13 @@ https://en.wikipedia.org/wiki/Quantum_dot
 
 Gravity reconsideration
 
-Standard model of particle physics table with spin, examples of sub types that have been verified found 
+
 
 https://en.wikipedia.org/wiki/Electron_capture
 
 
-PHIND:
-Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
-- Electromagnetic Spectrum
-- Heat transfer occurs through electromagnetic radiation
 
-Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language
+
 
 
 
@@ -769,20 +775,13 @@ https://www.youtube.com/watch?v=YdOXS_9_P4U
 
 
 
-
-
-
-
-
-
-
 Atomic level phases emerge
 https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
 
 #### The Big Picture Problem
 
 
-Temperature = absolute zero, 1-41 degrees, absolute very hot
+
 Visible and dark Energy and Matter
 Polarisation of + and - 
 - https://scitechdaily.com/the-strange-secret-behind-these-semiconductors-that-seemingly-defy-physics/ - redo drunk
