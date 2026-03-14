@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=6t8GgTXQyFA
 
 No holes, just like a dream - not star trek nightmare beaming to being your self anymore and a copy. Happened a lot 2005-2006, 2011-15?
 
+I lost possibly a entire 1 week and 3 days at university without explanation 
 
 Field
 Superconductive but for protons

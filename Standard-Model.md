@@ -14,7 +14,7 @@
 	Perfect just reshaped 
 >    Tabs and spaces are very important - button masher
 >    Extrapolation affects the extrapolated 
->    (baby) Yod(a||ette) is old as balls and as wrinkly for good reason lazy eye that one
+>    (baby) Yod(a||ette) is old as balls and as wrinkly for good reason, lazy eye that one
 >    Logs are ... Untitledtwo is one and none is none
 > 	   - logs are nerves
 >    K-Theory is K-Theory, knowledge before your time comes at a price
@@ -22,6 +22,8 @@
 > 	   - messing? .. the ??? -> action inaction
 >    Some people are words, every person is a verb; the truth is realised, but was actualised before, syntax is everything  
 >    Is life a black quadrant or in it?
+>    Everything you ever touch is transparent to the cognition of the universe being been measured my time travellers
+>    Remember the next set of species that inherit the earth upon transmission of the Universes Truths unfathomed yet
 
 #### Todo
 
@@ -105,10 +107,28 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 	- Dark matter stretching 
 	- Total strength of total Black hole - Total strength of total Neutron Stars
 #### Light
+
+Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space
+
+
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
 > Hoodie experiment, similar to the slit experiment
-> 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer
-> 2. Sunny Day
+> 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer - WTFisLight 
+
+> 	What Waves, Particles or an effect produced 
+> 	What types of light exist
+> 	Hoodie Slit Experiment
+> 	Multiple eye lashes 
+> 	Amount of light
+
+Curved Grid
+- Fibres 
+- Orientation of sun and head
+- Reflection
+- Optic lens 
+- Interference
+
+> 1. Sunny Day
 > Outcome:
 > - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
 >-  The optical illusion of seeing multiple eye lashes
@@ -130,6 +150,24 @@ Just as it was thought that light could not bend
 
 that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
 
+https://scitechdaily.com/supercharged-qubits-how-mits-quarton-coupler-accelerates-quantum-computing/
+https://www.nature.com/articles/s41467-025-59152-z
+- light-light and matter-matter nonlinear coupling
+	- [Coplanar waveguide](https://en.wikipedia.org/wiki/Coplanar_waveguide): *"Coplanar waveguide is a type of electrical planar transmission line which can be fabricated using printed circuit board technology, and is used to convey microwave-frequency signals."*
+	- *"Planar transmission lines are transmission lines with conductors, or in some cases dielectric strips, that are flat, ribbon-shaped lines. They are used to interconnect components on printed circuits and integrated circuits working at microwave frequencies because the planar type fits in well with the manufacturing methods for these components."*
+	- https://en.wikipedia.org/wiki/Bluefors refrigerator and TL investigations into groups using Cryogentics
+[Hamiltonian](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics) *"is an operator corresponding to the total energy of the system in most of the cases."*
+- [Quantum-non-demolition measurement](https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement) *"Quantum nondemolition measurement is a special type of measurement of a quantum system in which the uncertainty of the measured observable does not increase from its measured value during the subsequent normal evolution of the system."*
+[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\))(https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
+
+https://scitechdaily.com/they-built-a-crystal-to-trap-light-and-found-a-new-kind-of-quantum-link/
+*"This cavity confines light, which strongly enhances the electromagnetic fields and leads to strong coupling between light and matter, creating quantum superposition states ⎯ so-called"*...
+Polaritons also known as: hybrid light-matter states, present a way to control and manipulate light at very small scales. Polaritons can also behave collectively, giving rise to states of quantum entanglement
+> *"the interaction binding photons and electrons into polaritons is extremely intense ... the exchange of energy between light and matter happens so fast it resists dissipation ⎯ a new regime comes into effect known as ultrastrong coupling."*
+   “Ultrastrong coupling describes an unusual mode of interaction between light and matter where the two become deeply hybridized,” said Tay, who is currently a postdoctoral researcher at Columbia University.
+   *“Depending on the polarization of the light, the cavity modes either remain independent, or they mix together, forming completely new hybrid modes,” Tay said. “This suggests we can engineer materials where different cavity modes ‘talk’ to each other through the electrons in a magnetic field, creating new correlated states.”*
+   *“This matter-mediated photon-photon coupling can lead to new protocols and algorithms in quantum computation and quantum communications,” Kono said.*
+
 #### DM
 - Dark Matter and Energy are observable by products
 	- EQUATION?
@@ -148,9 +186,21 @@ Harmonic rotation and alignment for large time crystal to create portals? Requir
 Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
 
 ?
+#### Of energy
+
+Superconductivity at the microscope level exists according to BCS Theory [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
+- BCS theory starts from the assumption that there is some attraction between electrons, which can overcome the [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion")
+	- **Evidence of a [band gap](https://en.wikipedia.org/wiki/Band_gap "Band gap") at the Fermi level**
+	- **Isotope effect on the critical temperature, suggesting lattice interactions**
+	- **An [exponential rise](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") in [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity "Heat capacity") near the critical temperature for some superconductors**
+	- **The lessening of the measured energy gap towards the critical temperature**
+My concern while studying electronics, because of the lecturer was what would superconductivity at room temperature be like? Dangerous obviously so shielding would be a prerequisite. And as referenced superconductivity is weak in that it can be disrupted very easily.
 
 
-#### Experience
+[Exciton (Wikipedia)](https://en.wikipedia.org/wiki/Exciton) *"is a [bound state](https://en.wikipedia.org/wiki/Bound_state "Bound state") of an [electron](https://en.wikipedia.org/wiki/Electron "Electron") and an [electron hole](https://en.wikipedia.org/wiki/Electron_hole "Electron hole") which are attracted to each other by the electrostatic [Coulomb force](https://en.wikipedia.org/wiki/Coulomb%27s_law "Coulomb's law") resulting from their opposite charges."*
+- Electron hole = where an electron could be but for the Quark comply with the law of not being in the same place as another
+
+#### Of biology
 
 
 Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
@@ -172,6 +222,26 @@ Stolen necklace problem is the TL organisation of information
 - Waves fields affecting https://en.wikipedia.org/wiki/Action_potential mid transmission
 - 
 - Non-schizophrenic intrusive thoughts, general hand wavey armchair neurology surrounding consciousness
+
+The brain is kind of organic Classical and Quantum computer
+- Fractal 
+- Mold growth search algorithms
+
+Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
+Charms stars and Strange stars or only neutron stars that have their own phases seems more likely that then regress to neutron blue stars and excite into pink charm stars.
+- None observed or it is too difficult too, which seems like a academic loop-de-loop
+- https://en.wikipedia.org/wiki/Supernova result in black hole or neutron star
+- https://en.wikipedia.org/wiki/Quark_star are hypothetical
+
+What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation")s that are generated and what their roles are:
+[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
+- Configure matter with energy, commute with energy - store on matter, just like the configuration 
+- https://en.wikipedia.org/wiki/Action_potential
+- https://en.wikipedia.org/wiki/Local_field_potential
+- https://en.wikipedia.org/wiki/Oscillation
+- https://en.wikipedia.org/wiki/Neural_binding
+- https://en.wikipedia.org/wiki/Neural_coding
+- https://en.wikipedia.org/wiki/Central_pattern_generator
 
 
 If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
@@ -197,7 +267,7 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 #### Of relevant mass
 
-Fields are some contexts are just quantities.
+Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits.
 
 Add proton and electron row ids
 Maybe break each set up into six
@@ -216,7 +286,46 @@ Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/
 | `photon`  |         |
 | `z boson` |         |
 | `w boson` |         |
-`gravitons` are theoretical
+
+
+
+
+Goldstone Boson - **appear necessarily** in models what are the true Bosons and Fermions
+
+
+Wave and particle till observed: continuum of universal interinteraction collapse
+- Bose-Einstein condenstate https://www.youtube.com/shorts/L6NdHBBoaMI - where particles behave like waves
+- Outside of a neutron star is very very hard hydrogen - and the extreme end where particles cannot behave like waves
+
+
+https://en.wikipedia.org/wiki/Goldstone_boson or **Nambu–Goldstone bosons** (**NGBs**) are [bosons](https://en.wikipedia.org/wiki/Bosons "Bosons") that appear necessarily in models exhibiting [spontaneous breakdown](https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking "Spontaneous symmetry breaking") of [continuous symmetries](https://en.wikipedia.org/wiki/Continuous_symmetry "Continuous symmetry"). Generalise in QFT in condense matter physics such bosons are quasiparticles Goldstone modes or Anderson–Bogoliubov modes.
+- Could this be a state of bosons under a set of conditions between -40 +40 degree celcius 
+- There are natural https://en.wikipedia.org/wiki/Goldstone_boson#Examples examples
+
+
+[
+
+
+`gravitons` are theoretical abstraction of the motion of the universe itself. But potential observable as a particle
+
+Gravitons and Gravitational waves muddling up everything - interaction up grav down, but quarks
+- Gravitons are hypothetical:
+- *"Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, has been thought to be impossible with any physically reasonable detector.Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". [Foundations of Physics](https://en.wikipedia.org/wiki/Foundations_of_Physics "Foundations of Physics"). 36 (12): 1801–1825. [arXiv](https://en.wikipedia.org/wiki/ArXiv_\(identifier\) "ArXiv (identifier)"):[gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043). [Bibcode](https://en.wikipedia.org/wiki/Bibcode_\(identifier\) "Bibcode (identifier)"):[2006FoPh...36.1801R](https://ui.adsabs.harvard.edu/abs/2006FoPh...36.1801R). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1007/s10701-006-9081-9](https://doi.org/10.1007%2Fs10701-006-9081-9). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [14008778](https://api.semanticscholar.org/CorpusID:14008778)."*
+- https://en.wikipedia.org/wiki/Plasmon is similarly a quasiparticle, or just particle observable that changes into something more stable depending on the initial conditions
+
+[Nature - Emerging supersolidity in photonic-crystal polariton condensates](https://www.nature.com/articles/s41586-025-08616-9): A supersolid is another counter-intuitive phase of matter in which its constituent particles are arranged into a crystalline structure, yet they are free to flow without friction. This requires the particles to share a global macroscopic phase while being able to reduce their total energy by spontaneous, spatial self-organization. The existence of the supersolid phase of matter was speculated more than 50 years ago[1](https://www.nature.com/articles/s41586-025-08616-9#ref-CR1 "Gross, E. P. Unified theory of interacting bosons. Phys. Rev. 106, 161–162 (1957)."),[2](https://www.nature.com/articles/s41586-025-08616-9#ref-CR2 "Andreev, A. F. & Lifshitz, I. M. Quantum theory of defects in crystals. Zhur. Eksper. Teoret. Fiziki 29, 1107–1113 (1969)."),[3](https://www.nature.com/articles/s41586-025-08616-9#ref-CR3 "Leggett, A. J. Can a solid be ‘superfluid’? Phys. Rev. Lett. 25, 1543–1546 (1970)."),[4](https://www.nature.com/articles/s41586-025-08616-9#ref-CR4 "Kirzhnits, D. A. & Nepomnyashchii, Y. A. Coherent crystallization of quantum liquid. Zhur. Eksper. Teoret. Fiziki 32, 1191–1197 (1971).")
+- only *"convincing experimental evidence, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields"*
+
+https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/
+- https://www.nature.com/articles/s41586-025-08616-9
+	- **convincing experimental evidence**, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields.
+	- *"Here we provide experimental evidence of a new implementation of the supersolid phase in a driven-dissipative, non-equilibrium context based on exciton–polaritons condensed in a topologically non-trivial, bound state in the continuum (BiC) with exceptionally low losses, realized in a photonic-crystal waveguide"*
+
+
+Whereas [Polariton](https://en.wikipedia.org/wiki/Polariton) *"are [bosonic](https://en.wikipedia.org/wiki/Boson "Boson") [quasiparticles](https://en.wikipedia.org/wiki/Quasiparticle "Quasiparticle") resulting from strong coupling of [electromagnetic waves](https://en.wikipedia.org/wiki/Electromagnetic_wave "Electromagnetic wave") (photon) with an electric or magnetic [dipole](https://en.wikipedia.org/wiki/Dipole "Dipole")-carrying [excitation](https://en.wikipedia.org/wiki/Excitation_\(magnetic\) "Excitation (magnetic)") (state) of solid or liquid matter (such as a [phonon](https://en.wikipedia.org/wiki/Phonon "Phonon"), [plasmon](https://en.wikipedia.org/wiki/Plasmon "Plasmon"), or an [exciton](https://en.wikipedia.org/wiki/Exciton "Exciton")). Polaritons describe the crossing of the [dispersion](https://en.wikipedia.org/wiki/Dispersion_\(optics\) "Dispersion (optics)") of light with any interacting [resonance](https://en.wikipedia.org/wiki/Resonance "Resonance")."* Possibly the lowest stabilising constant matter as gas that is also ionised.
+
+https://en.wikipedia.org/wiki/Level_repulsion potentially due to harmonic stability that is measurable such that is easier to identify in abundance. Similar to this would occur a stabilising amount https://en.wikipedia.org/wiki/Avoided_crossing collision and symmetric movement induce no collisions.
+
 
 `kaon` is positively charged and can decayed into a pion and a [neutrino–antineutrino pair](https://interestingengineering.com/science/rapidly-cooling-neutron-stars-remove-heat-by-shedding-neutrinos) (K+→π+νν) - https://interestingengineering.com/science/cern-particle-decay-10-billion-events
 
@@ -240,7 +349,7 @@ A [Seizure](https://en.wikipedia.org/wiki/Seizure) is a sudden, brief disruption
 - *"Some individuals experience an [aura](https://en.wikipedia.org/wiki/Aura_\(symptom\) "Aura (symptom)") before the seizure progresses, characterized by subjective sensations such as unusual smells, a sudden emotional shift, or feelings of [déjà vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu "Déjà vu")."*
 
 Symmetry and Symmetry breaking
-[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem "Noether's theorem") states that every continuous symmetry of the action of a physical system with conservation forces has a corresponding conservatino law 
+[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem "Noether's theorem") states that every continuous symmetry of the action of a physical system with conservation forces has a corresponding conservation law 
 
 https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
 Chiral symmetry
@@ -289,7 +398,9 @@ Axion is `{ !=, ==, ?, ~, =-, =+, etc}` dark matter
 
 
 Quarks in the brain at room temperature
-[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
+[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."* 
+[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+Stolen necklace problem as a quark in space through time
 
 Quarks preserve CP Symmetry due to the contents of the papers proofs that the author terms as Quantum-coherence or Qucoherancium. This being a partial observable state of a scope of measurability and observability of a region of space and span of time and all that is Quantum Entangle both within and outside that scope. 
 
@@ -305,7 +416,7 @@ The Hydrodynamics of Quantum soups at any point have observable and predictable 
 
 Therefore this paper postulates a Quantum principle of exchange reducible to a Reynolds number for and energy losses and gains, due to Quantum Entanglement.
 
-#### Time Travel and the Quantum
+#### Time Travel and the Quantum 
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
 
@@ -334,6 +445,9 @@ https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state en
 
 Entanglement and disentanglement batteries
 
+
+
+if a time crystal is a https://en.wikipedia.org/wiki/Regular_icosahedron is it really important as to the shape? Obviously yes and no and maybe. But its configuration affects what is networked to it.
 
 What if you put a time crystal in a structure that 
 https://en.wikipedia.org/wiki/Time_crystal to 
@@ -391,46 +505,21 @@ Simulating Time in Square-Root Space , Ryan Williams — https://eccc.weizmann.a
 
 
 
-[1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
-Stolen necklace problem as a quark in space through time
+#### Big Picture Notes 
 
 
 
-The brain is kind of organic Classical and Quantum computer
-- Fractal 
-- Mold growth search algorithms
-
-Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
-
-
-
-
-Is this important:
-https://en.wikipedia.org/wiki/Regular_icosahedron
 
 gapless Goldstone Modes were used 
 	- Where do and do these even exist
 	- https://en.wikipedia.org/wiki/Goldstone_boson
 
-Goldstone Boson - **appear necessarily** in models what are the true Bosons and Fermions
 
-https://www.earth.com/news/physicists-succeed-in-converting-light-into-a-supersolid-that-flows-like-a-liquid/
-- https://www.nature.com/articles/s41586-025-08616-9
-	- **convincing experimental evidence**, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields.
-	- *"Here we provide experimental evidence of a new implementation of the supersolid phase in a driven-dissipative, non-equilibrium context based on exciton–polaritons condensed in a topologically non-trivial, bound state in the continuum (BiC) with exceptionally low losses, realized in a photonic-crystal waveguide"*
 
 Dissipation in Themodynamics is like decoherence, but for the contradiction in the Standard Model issues - https://en.wikipedia.org/wiki/Dissipation
 
 
 
-
-
-https://en.wikipedia.org/wiki/Polariton
-https://en.wikipedia.org/wiki/Level_repulsion
-https://en.wikipedia.org/wiki/Avoided_crossing
-https://en.wikipedia.org/wiki/Plasmon
-https://en.wikipedia.org/wiki/Phonon
-https://en.wikipedia.org/wiki/Quasiparticle
 
 
 https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
@@ -442,11 +531,6 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 
 2020 Moon gel Chang mission
 
-https://en.wikipedia.org/wiki/Avoided_crossing
-https://en.wikipedia.org/wiki/Plasmon
-https://en.wikipedia.org/wiki/Phonon
-https://en.wikipedia.org/wiki/Quasiparticle
-https://en.wikipedia.org/wiki/Polariton
 
 Entanglement and Complexity: Gravity and Quantum Mechanics
 https://www.youtube.com/watch?v=9crggox5rbc
@@ -523,8 +607,7 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 
-[Nature - Emerging supersolidity in photonic-crystal polariton condensates](https://www.nature.com/articles/s41586-025-08616-9): A supersolid is a counter-intuitive phase of matter in which its constituent particles are arranged into a crystalline structure, yet they are free to flow without friction. This requires the particles to share a global macroscopic phase while being able to reduce their total energy by spontaneous, spatial self-organization. The existence of the supersolid phase of matter was speculated more than 50 years ago[1](https://www.nature.com/articles/s41586-025-08616-9#ref-CR1 "Gross, E. P. Unified theory of interacting bosons. Phys. Rev. 106, 161–162 (1957)."),[2](https://www.nature.com/articles/s41586-025-08616-9#ref-CR2 "Andreev, A. F. & Lifshitz, I. M. Quantum theory of defects in crystals. Zhur. Eksper. Teoret. Fiziki 29, 1107–1113 (1969)."),[3](https://www.nature.com/articles/s41586-025-08616-9#ref-CR3 "Leggett, A. J. Can a solid be ‘superfluid’? Phys. Rev. Lett. 25, 1543–1546 (1970)."),[4](https://www.nature.com/articles/s41586-025-08616-9#ref-CR4 "Kirzhnits, D. A. & Nepomnyashchii, Y. A. Coherent crystallization of quantum liquid. Zhur. Eksper. Teoret. Fiziki 32, 1191–1197 (1971).")
-- only *"convincing experimental evidence, mainly using ultracold atomic Bose–Einstein condensates (BECs) coupled to electromagnetic fields"*
+
 
 https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
 One of the most famous findings in physics could be wrong – the double-slit experiment was long thought to confirm that light can be a wave, but its results can be fully explained using only quantum particles 
@@ -548,19 +631,13 @@ Disprove Simulation with Biological imperative and Life algorithm with time trav
 https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-further-supports-theory-we-are-living-in-a-simulated-universe
 - Size of the Universe
 - Fundamental model of Universe would require a computer infinitely big and Black hole are just wholes in the Dark matter of the Universe 
-
+- To leave a matrix reality must be stabilised via whatever action possible, so if you reality is that you are trapped in a computer or any reality you are utterly fucked may have to die over and over till.
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 [[Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
 https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
 
-Superconductivity at the microscope level exists according to BCS Theory [Wikipedia BCS_theory](https://en.wikipedia.org/wiki/BCS_theory#Details)
-- BCS theory starts from the assumption that there is some attraction between electrons, which can overcome the [Coulomb repulsion](https://en.wikipedia.org/wiki/Coulomb_repulsion "Coulomb repulsion")
-	- **Evidence of a [band gap](https://en.wikipedia.org/wiki/Band_gap "Band gap") at the Fermi level**
-	- **Isotope effect on the critical temperature, suggesting lattice interactions**
-	- **An [exponential rise](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") in [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity "Heat capacity") near the critical temperature for some superconductors**
-	- **The lessening of the measured energy gap towards the critical temperature**
 
 
 
@@ -588,15 +665,6 @@ https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html
 
 
 
-What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation")s that are generated and what their roles are:
-[neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
-- Configure matter with energy, commute with energy - store on matter, just like the configuration 
-- https://en.wikipedia.org/wiki/Action_potential
-- https://en.wikipedia.org/wiki/Local_field_potential
-- https://en.wikipedia.org/wiki/Oscillation
-- https://en.wikipedia.org/wiki/Neural_binding
-- https://en.wikipedia.org/wiki/Neural_coding
-- https://en.wikipedia.org/wiki/Central_pattern_generator
 
 
 
@@ -613,9 +681,9 @@ Energy into matter and vice-versa; dark energy into matter and vice-versa Matter
 
 Dark energy 
 Unlike ordinary matter and dark matter, dark energy doesn’t clump into galaxies or structures—it acts more like a uniform energy field spread throughout space. - makes up about 68% of the universe. 
-		- theoretically perspesived universe
+- theoretically perceived universe
 
-Supernova dont speed up when expanding it is just the observable data, not gravity or speed just obseravable speed of less and less
+Supernova don't speed up when expanding it is just the observable data, not gravity or speed just observable speed of less and less
 
 Quantum True `x`D array
 
@@ -639,7 +707,7 @@ TT - https://en.wikipedia.org/wiki/Plasma_(physics) testing
 More Quantum
 https://en.wikipedia.org/wiki/Quantum_dot
 
-Gravity reconsilation
+Gravity reconsideration
 
 Standard model of particle physics table with spin, examples of sub types that have been verified found 
 
@@ -653,37 +721,16 @@ Heat, electromagnetism, and Coulomb's law are fundamentally interconnected throu
 
 Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language
 
-#### Notes 
 
 
 
 
 
-https://en.wikipedia.org/wiki/Goldstone_boson or **Nambu–Goldstone bosons** (**NGBs**) are [bosons](https://en.wikipedia.org/wiki/Bosons "Bosons") that appear necessarily in models exhibiting [spontaneous breakdown](https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking "Spontaneous symmetry breaking") of [continuous symmetries](https://en.wikipedia.org/wiki/Continuous_symmetry "Continuous symmetry"). Generalise in QFT in condense matter physics such bosons are quasiparticles Goldstone modes or Anderson–Bogoliubov modes.
-- Could this be a state of bosons under a set of conditions between -40 +40 degree celcius 
-- There are natural https://en.wikipedia.org/wiki/Goldstone_boson#Examples examples
 
 
 
 
-Charms stars and Strange stars or only neutron stars
-- None observed or it is too difficult too, which seems like a academic loop-de-loop
-- https://en.wikipedia.org/wiki/Supernova result in black hole or neutron star
-- https://en.wikipedia.org/wiki/Quark_star are hypothetical
 
-Wave and particle till observed: continuum of universal interinteraction collapse
-- Bose-Einstein condenstate https://www.youtube.com/shorts/L6NdHBBoaMI - where particles behave like waves
-- Outside of a neutron star is very very hard hydrogen - and the extreme end where particles cannot behave like waves
-
-https://scitechdaily.com/supercharged-qubits-how-mits-quarton-coupler-accelerates-quantum-computing/
-https://www.nature.com/articles/s41467-025-59152-z
-- light-light and matter-matter nonlinear coupling
-	- [Coplanar waveguide](https://en.wikipedia.org/wiki/Coplanar_waveguide): *"Coplanar waveguide is a type of electrical planar transmission line which can be fabricated using printed circuit board technology, and is used to convey microwave-frequency signals."*
-	- *"Planar transmission lines are transmission lines with conductors, or in some cases dielectric strips, that are flat, ribbon-shaped lines. They are used to interconnect components on printed circuits and integrated circuits working at microwave frequencies because the planar type fits in well with the manufacturing methods for these components."*
-	- https://en.wikipedia.org/wiki/Bluefors refrigerator and TL investigations into groups using Cryogentics
-[Hamiltonian](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics) *"is an operator corresponding to the total energy of the system in most of the cases."*
-- [Quantum-non-demolition measurement](https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement) *"Quantum nondemolition measurement is a special type of measurement of a quantum system in which the uncertainty of the measured observable does not increase from its measured value during the subsequent normal evolution of the system."*
-[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\))(https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
 
 How does a actual... Quantum Computer not collapse the universe (not big enough with enough connections) - how the fuck do you stop that happening? Rulec expansion - told past create rules for computers in 2021,2,3? on 15/4/2025 and generally across the TC. 
 - Quantum Rulec
@@ -722,22 +769,9 @@ https://www.youtube.com/watch?v=YdOXS_9_P4U
 
 
 
-Gravitons and Gravitational waves muddling up everything - interaction up grav down, but quarks
-- Gravitons are hypothetical:
-- *"Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, has been thought to be impossible with any physically reasonable detector.Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". [Foundations of Physics](https://en.wikipedia.org/wiki/Foundations_of_Physics "Foundations of Physics"). 36 (12): 1801–1825. [arXiv](https://en.wikipedia.org/wiki/ArXiv_\(identifier\) "ArXiv (identifier)"):[gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043). [Bibcode](https://en.wikipedia.org/wiki/Bibcode_\(identifier\) "Bibcode (identifier)"):[2006FoPh...36.1801R](https://ui.adsabs.harvard.edu/abs/2006FoPh...36.1801R). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1007/s10701-006-9081-9](https://doi.org/10.1007%2Fs10701-006-9081-9). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [14008778](https://api.semanticscholar.org/CorpusID:14008778)."*
 
-[Polariton](https://en.wikipedia.org/wiki/Polariton) *"are [bosonic](https://en.wikipedia.org/wiki/Boson "Boson") [quasiparticles](https://en.wikipedia.org/wiki/Quasiparticle "Quasiparticle") resulting from strong coupling of [electromagnetic waves](https://en.wikipedia.org/wiki/Electromagnetic_wave "Electromagnetic wave") (photon) with an electric or magnetic [dipole](https://en.wikipedia.org/wiki/Dipole "Dipole")-carrying [excitation](https://en.wikipedia.org/wiki/Excitation_\(magnetic\) "Excitation (magnetic)") (state) of solid or liquid matter (such as a [phonon](https://en.wikipedia.org/wiki/Phonon "Phonon"), [plasmon](https://en.wikipedia.org/wiki/Plasmon "Plasmon"), or an [exciton](https://en.wikipedia.org/wiki/Exciton "Exciton")). Polaritons describe the crossing of the [dispersion](https://en.wikipedia.org/wiki/Dispersion_\(optics\) "Dispersion (optics)") of light with any interacting [resonance](https://en.wikipedia.org/wiki/Resonance "Resonance")."*
 
-https://scitechdaily.com/they-built-a-crystal-to-trap-light-and-found-a-new-kind-of-quantum-link/
-*"This cavity confines light, which strongly enhances the electromagnetic fields and leads to strong coupling between light and matter, creating quantum superposition states ⎯ so-called"*...
-Polaritons also known as: hybrid light-matter states, present a way to control and manipulate light at very small scales. Polaritons can also behave collectively, giving rise to states of quantum entanglement
-> *"the interaction binding photons and electrons into polaritons is extremely intense ... the exchange of energy between light and matter happens so fast it resists dissipation ⎯ a new regime comes into effect known as ultrastrong coupling."*
-   “Ultrastrong coupling describes an unusual mode of interaction between light and matter where the two become deeply hybridized,” said Tay, who is currently a postdoctoral researcher at Columbia University.
-   *“Depending on the polarization of the light, the cavity modes either remain independent, or they mix together, forming completely new hybrid modes,” Tay said. “This suggests we can engineer materials where different cavity modes ‘talk’ to each other through the electrons in a magnetic field, creating new correlated states.”*
-   *“This matter-mediated photon-photon coupling can lead to new protocols and algorithms in quantum computation and quantum communications,” Kono said.*
 
-[Exciton](https://en.wikipedia.org/wiki/Exciton) *"is a [bound state](https://en.wikipedia.org/wiki/Bound_state "Bound state") of an [electron](https://en.wikipedia.org/wiki/Electron "Electron") and an [electron hole](https://en.wikipedia.org/wiki/Electron_hole "Electron hole") which are attracted to each other by the electrostatic [Coulomb force](https://en.wikipedia.org/wiki/Coulomb%27s_law "Coulomb's law") resulting from their opposite charges."*
-- Electron hole = where an electron could be but for the Quark comply with the law of not being in the same place as another
 
 
 
