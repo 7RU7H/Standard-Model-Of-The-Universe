@@ -117,6 +117,10 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 	- connection through certain Quantum order
 	- Dark matter stretching 
 	- Total strength of total Black hole - Total strength of total Neutron Stars
+
+Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experiencee evaluating the time spent or the (un)conformable nature of the analysis and the subject matter.   
+
+How long does it take to hack a computer with light? https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/, given this I can tell you it is already possible. Local proximity readers for RAM exist and is in public domain. So how long have we been waiting for a singularity event really? Not just in AGI, but in terms of physical singularity events? I think we are probably mostly asleep or busy living life. Time is a non-human concept really. Not to say that any one alien has the copyright to time, just that human experience and how can you fix time when you aren't time itself. Is time just expressed in 3 dimensions as the smallest set to create infinite from or am I stupid? Manifolding my own arguments into themselves to let time flow while you read kind has a too smart arse tonality. So if we are constrained to three spacial dimensions by time then why is multiple dimensionals above even subject matter; nerds get bored when they do not understand something. And enough what if questions and you will make an error somewhere. So why brute force infinite dimensions for an simple answer. 
 #### Light
 
 Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space. 
@@ -264,6 +268,9 @@ Schizophrenia is precognition after psychosis has caused the generation of a Tim
 - The thought frequency is in a stable range  
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. PreCogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+
+Nightmares are stored as a reflection of the set of "dark" (keeping to the theme) or negative negative [*Astrocytes* that *enable amygdala neural representations supporting memory*](https://www.nature.com/articles/s41586-025-10068-0). The either negative being the supporting functionality of the negative set or cluster of Astrocytes that stored fear as amalgamations of memories at a microscopic level.
+
 
 [1Blue1Brown Using topology for discrete problems](https://www.youtube.com/watch?v=yuVqxCSsE7c)
 Stolen necklace problem is the TL organisation of information
@@ -496,6 +503,9 @@ Therefore this paper postulates a Quantum principle of exchange reducible to a R
 
 Quantum mechanics is just information of bodies affecting everything relative to it with the continuum of the Universe across a specific Quantum informational scope of 1 dimensional time through space it interacts in.
 
+Spinning Quantum soap or soup or souffle. Or is high-end quantum states that we as a species avoid to preserve the machine the feature creep denied as safety [Scaling Advantage in Approximate Optimization with Quantum Annealing](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601) or just the universe and the life algorithm preventing strange action coming out of the quantum computer or machine.
+
+
 Quantum decoherence and coherence  
 https://phys.org/news/2026-02-vibrations-superconductivity-nearby-crystal.html
 
@@ -659,12 +669,6 @@ https://www.youtube.com/watch?v=ToOLbdrWst4
 https://www.youtube.com/watch?v=fzlflyw7X2I
 
 
-
-https://www.newscientist.com/article/2479093-nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
-- https://www.ime.unicamp.br/~mfq/
-- https://scienceglobal.academy/news/nothing-is-stronger-than-quantum-connections-and-now-we-know-why/
-
-https://www.fastcompany.com/91329302/cisco-quantum-computing-new-entanglement-chip-timeline
 https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
 https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
 https://scitechdaily.com/they-twisted-light-on-gold-and-what-they-saw-blew-their-minds/
@@ -674,18 +678,9 @@ https://www.livescience.com/technology/computing/quantum-miracle-material-can-st
 
 
 
-Spinning Quantum soap or soup or souffle. 
-
-
-
-
 
 
 Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
-
-
-
-
 
 
 
