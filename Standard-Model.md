@@ -1,6 +1,8 @@
 # Standard Model
 
 ![](Old-OPs/Operation-Spring-New-Ember/Inner-Neutron-SNE/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
+Need to check if that weird Neutron Star was observed in the Crab Nebula there is just too much to remember
+
 
 >Unfinished Rulec of Time Travel - Srynex incoming
 	ABCZs of Time Travel are 0101 1111 0000 1010
@@ -87,7 +89,7 @@ Hypothesis and Theory Fleshed out
 ... 13:00~ 07/07/2025
 >*Everyone else had fallen in love with light and I loved time*
 
-Only clue from my future self was:
+Only clue from my possible future self was:
 > *"He thinks he is a black hole, but he actually like a neutron star"*
 
 False data from TL intelligence: Washing machine, Dishwasher and Television + ?
@@ -233,6 +235,9 @@ Gapless Goldstone Modes were used and thus explain why similiar
 - https://en.wikipedia.org/wiki/Goldstone_boson
 - correspond to the spontaneously broken internal symmetry generators
 
+If a constant, but dynamic 70% is it not just the sum of past, present and future a mix of different phase transition spatially and temporal dark energy  
+https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
+
 
 Visible and dark Energy and from whether dark or otherwise Matter
 Polarisation of + and - 
@@ -258,6 +263,8 @@ My concern while studying electronics, because of the lecturer was what would su
 #### Of Biology
 
 It took this long to find evidence of how Quantum Mechanics exists in the brain [thebrihterside - Quantum computing occurs naturally in the human brain](https://www.thebrighterside.news/post/quantum-computing-occurs-naturally-in-the-human-brain-study-finds/) now we have found proteins rich in tryptophan that could be a percentile part of how the brain has always functioned. 
+
+What is temporal compute of expect organism to understand and utilise the information effectively?  
 
 Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
 Charms stars and Strange stars or only neutron stars that have their own phases seems more likely that then regress to neutron blue stars and excite into pink charm stars.
@@ -371,7 +378,7 @@ Two or more quarks is composite called a [hadron](https://en.wikipedia.org/wiki/
 | `z boson` |         |
 | `w boson` |         |
 
-
+To start the two extremes of the observable universe. How could you prove or disapprove blackholes, neutron stars as manifold? I think that a the centre of a black hold could be and that it is actually impossible to make neutron star into a singular plane and retain its properties. I think that super conductivity could exist on a plane of a collapsed, but safe and stable neutron star material. 
 
 
 Goldstone Boson - **appear necessarily** in models what are the true Bosons and Fermions
@@ -640,11 +647,11 @@ https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 #### The Big Picture  
 
-I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place.
+I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place. Hopeful I get to part of a community that will actually talk to me enough that I do not accidentally forget parts of this.
 
 
 
-
+#### Todo links
 
 
 
@@ -689,9 +696,6 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 
-
-https://www.scientificamerican.com/article/why-evolving-dark-energy-worries-some-physicists/
-https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
 https://phys.org/news/2025-04-duality-unitary-linear-depth-quantum.html
 
 
@@ -712,13 +716,48 @@ https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 
 
 
+https://en.wikipedia.org/wiki/Regular_icosahedron
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
+https://www.ime.unicamp.br/~mfq/
 
 
-How could you prove or disapprove blackholes, neutron stars as manifolds
-https://en.wikipedia.org/wiki/Hypersurface Find video, TL issues
-https://en.wikipedia.org/wiki/Hyperplane
-https://en.wikipedia.org/wiki/Plane_curve
-https://en.wikipedia.org/wiki/Manifold
+https://en.wikipedia.org/wiki/Local_field_potential
+
+
+
+https://en.wikipedia.org/wiki/Central_pattern_generator
+https://en.wikipedia.org/wiki/Weak_interaction
+https://en.wikipedia.org/wiki/Fundamental_interaction
+
+
+https://en.wikipedia.org/wiki/Electromagnetism
+https://en.wikipedia.org/wiki/Strong_interaction
+https://en.wikipedia.org/wiki/Electroweak_interaction 
+
+
+https://en.wikipedia.org/wiki/Metabolism
+https://en.wikipedia.org/wiki/Mitochondrion
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ09Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM 
+
+
+
+https://en.wikipedia.org/wiki/Higgs_boson
+https://en.wikipedia.org/wiki/W_and_Z_bosons
+https://en.wikipedia.org/wiki/Quantum_dot
+
+
+https://www.youtube.com/watch?v=aCq04N9it8U
+
+https://www.youtube.com/watch?v=FGC5TdIiT9U
+https://www.youtube.com/watch?v=kbKtFN71Lfs
+
+Conjecture
+www.youtube.com/watch?v=4445Mbw8pYg
+
+
 
 
 
