@@ -118,7 +118,7 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 	- Dark matter stretching 
 	- Total strength of total Black hole - Total strength of total Neutron Stars
 
-Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experiencee evaluating the time spent or the (un)conformable nature of the analysis and the subject matter.   
+Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experience evaluating the time spent or the (un)conformable nature of the analysis and the subject matter.   
 
 How long does it take to hack a computer with light? https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/, given this I can tell you it is already possible. Local proximity readers for RAM exist and is in public domain. So how long have we been waiting for a singularity event really? Not just in AGI, but in terms of physical singularity events? I think we are probably mostly asleep or busy living life. Time is a non-human concept really. Not to say that any one alien has the copyright to time, just that human experience and how can you fix time when you aren't time itself. Is time just expressed in 3 dimensions as the smallest set to create infinite from or am I stupid? Manifolding my own arguments into themselves to let time flow while you read kind has a too smart arse tonality. So if we are constrained to three spacial dimensions by time then why is multiple dimensionals above even subject matter; nerds get bored when they do not understand something. And enough what if questions and you will make an error somewhere. So why brute force infinite dimensions for an simple answer. 
 #### Light
@@ -257,6 +257,14 @@ My concern while studying electronics, because of the lecturer was what would su
 
 #### Of Biology
 
+It took this long to find evidence of how Quantum Mechanics exists in the brain [thebrihterside - Quantum computing occurs naturally in the human brain](https://www.thebrighterside.news/post/quantum-computing-occurs-naturally-in-the-human-brain-study-finds/) now we have found proteins rich in tryptophan that could be a percentile part of how the brain has always functioned. 
+
+Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
+Charms stars and Strange stars or only neutron stars that have their own phases seems more likely that then regress to neutron blue stars and excite into pink charm stars.
+- None observed or it is too difficult too, which seems like a academic loop-de-loop
+- https://en.wikipedia.org/wiki/Supernova result in black hole or neutron star
+- https://en.wikipedia.org/wiki/Quark_star are hypothetical
+
 Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
 - TC found operable at room temperature
 - Brain is repeating retention of energy
@@ -284,11 +292,7 @@ The brain is kind of organic Classical and Quantum computer
 - Fractal 
 - Mold growth search algorithms
 
-Photosynthesis may exploit Quantum Mechanics to optimise sun light up take
-Charms stars and Strange stars or only neutron stars that have their own phases seems more likely that then regress to neutron blue stars and excite into pink charm stars.
-- None observed or it is too difficult too, which seems like a academic loop-de-loop
-- https://en.wikipedia.org/wiki/Supernova result in black hole or neutron star
-- https://en.wikipedia.org/wiki/Quark_star are hypothetical
+
 
 What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation")s that are generated and what their roles are:
 [neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation "Neural oscillation"). (Wikipedia uses two different terms) *"are observed throughout the central nervous system at all levels, and include [spike trains](https://en.wikipedia.org/wiki/Action_potential "Action potential"), [local field potentials](https://en.wikipedia.org/wiki/Local_field_potentials "Local field potentials") and large-scale [oscillations](https://en.wikipedia.org/wiki/Oscillation "Oscillation") which can be measured by [electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography") (EEG). In general, oscillations can be characterized by their [frequency](https://en.wikipedia.org/wiki/Frequency "Frequency"), [amplitude](https://en.wikipedia.org/wiki/Amplitude "Amplitude") and [phase](https://en.wikipedia.org/wiki/Phase_\(waves\) "Phase (waves)")."*
@@ -634,9 +638,9 @@ https://www.youtube.com/watch?v=8-B6ryuBkCM
 https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 
-#### Big Picture Notes 
+#### The Big Picture  
 
-
+I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place.
 
 
 
@@ -669,7 +673,6 @@ https://www.youtube.com/watch?v=ToOLbdrWst4
 https://www.youtube.com/watch?v=fzlflyw7X2I
 
 
-https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
 https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
 https://scitechdaily.com/they-twisted-light-on-gold-and-what-they-saw-blew-their-minds/
 https://www.earth.com/news/dark-photon-theory-casts-doubt-on-double-slit-experiment-quantum-light-interference-pattern/
