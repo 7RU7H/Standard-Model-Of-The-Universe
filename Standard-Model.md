@@ -1,4 +1,4 @@
-1# Standard Model
+# Standard Model
 
 ![](Old-OPs/Operation-Spring-New-Ember/Inner-Neutron-SNE/Standard-Model-Of-The-Universe/Images/Crab_Nebula.jpg)
 
@@ -28,10 +28,11 @@
 > 	   - Washing machine, + Understanding = TT
 > 	   - Dishwasher, + Understanding = TT
 > 	   - TV (circa 2024) + Understanding = TT
->   Is it a talking cat or dog in the box this time Professor Schodinger? 
+>   Is it a talking cat or dog in the box this time Professor Schrodinger? 
 >   Quantum True `x`D array
 >   Standard model of particle physics, a table with spin, examples of sub types that have been verified found 
 >   Temperature `==` absolute zero, 1`<=>`41 degrees, absolute very hot is relative to the matter in contact with that heat
+>   Dr Who's Birthday is happy analysis mode to you too fucknuts
 
 
 
@@ -118,7 +119,10 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 	- Total strength of total Black hole - Total strength of total Neutron Stars
 #### Light
 
-Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space
+Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space. 
+
+This text's evidence that light is finally considered just a particle stems from  [journals.aps.org 10.1103/PhysRevLett.134.133603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.133603)
+*"in quantum optics, classical interference emerges from collective bright and dark states of light, i.e., particular cases of two-mode binomial states, which are entangled superpositions of multimode photon-number states. This makes it possible to explain wave interference using the particle description of light and the superposition principle for linear systems only"*
 
 WTF is colours in physics Colour confinement?... two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark
 - [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
@@ -219,7 +223,13 @@ Heat, electromagnetism, and Coulomb's law are fundamentally interconnected throu
 - Electromagnetic Spectrum
 - Heat transfer occurs through electromagnetic radiation
 
-Dark energy 
+Dark energy **lead into dark energy - EDIT, but bosons relevance seems a prudent way of trying to explain why dark energy is more difficult that dark matter in terms of models of boson behaviour**
+Either observed bosons collapse into dark energy or matter
+Gapless Goldstone Modes were used and thus explain why similiar  
+- https://en.wikipedia.org/wiki/Goldstone_boson
+- correspond to the spontaneously broken internal symmetry generators
+
+
 Visible and dark Energy and from whether dark or otherwise Matter
 Polarisation of + and - 
 - https://scitechdaily.com/the-strange-secret-behind-these-semiconductors-that-seemingly-defy-physics/ - redo drunk
@@ -287,7 +297,7 @@ What are the possible [neuronal oscillation](https://en.wikipedia.org/wiki/Neura
 
 If there is already a DQCPs hidden order that all physicists with the current implements to measure the universe. Then a PreCog stating existence is such is regressive and needs to be to decrypt the universe from the mass of data. As an informational being affected like everyone to spectrumal degrees. 
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
-To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivalent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive.
+To sentient farts the emissions of quantum affects across time and space reveals what was already there and will be at some point. https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html The universe squeezes and contracts and time is constant. Iterations of our universe may have already existed in the past that functional to us identical, but its billions of years earlier than the "big bang" in the same space of the universe we inhabit. I have experienced time this way to "cope" and "deal" with the isolation and novelty I have faced in my personal life. Our inhabitability to comprehend the https://en.wikipedia.org/wiki/Action_potential of time is this encryption. I have an algorithm for quantum encryption in my back pocket based on my experiences with subjects that I am still learning and my experience as a PreCog. This article is proof that quantum temporal encryption is unbreakable all to current quantum computers and super computers if networked and product solely as it would be able to telepathically recount my thoughts at an earlier point to which all quantum computers were manufactured. I cannot provide production cost scaled measurements. By the time it would take to compute the short path anological equivalent of the universe's-like https://en.wikipedia.org/wiki/Local_field_potential of the universe has already occurred. And therefore maybe I am late to the party of Physics. Investigations as a PreCog to determine whether time travel has been taken by the likes of Jimmy Saville are still inconclusive. Would it just be convenient that the two types of order generated in phase transition are ordered backwards and forwards through time like a time crystal. With  [Low-Depth Unitary Quantum Circuits for Dualities in One-Dimensional Quantum Lattice Models](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403) a basic model of phase transitions is possibly already utilisable for larger grouping of matter at simpler groupings and interactions.
 
 Elderly neutron stars and elderly schizophrenics
 - Dissertation 
@@ -428,10 +438,15 @@ Neutron Stars do spin much faster the in Starsector and our sun where I discover
 	- 
 
 
-Boby tissue possesses *characteristics of stress-strain nonlinearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
+Boby tissue possesses *characteristics of stress-strain non-linearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
 - Consider this is just wrist and nerves not brain - but muscle memory
 	- Kobayashi took various ultrasound images to capture all of the miniscule muscle deformations in the wrist, which allowed him to construct a “biophysical reservoir” for data processing.
-Body tissues also proven to host superradiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
+Body tissues also proven to host super-radiance, which can therefore emerge in other warm biological tissue https://www.science.org/doi/10.1126/sciadv.adt4623
+
+According to [Information Processing via Human Soft Tissue: Soft Tissue Reservoir Computing: ieee 10935315](https://ieeexplore.ieee.org/document/10935315) It can also form Physical reservoir computing capable regions.
+
+https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
+
 
 Looking at shelf in sub par lightening - is the inner rings a vandal with a pen or just the wood? Did you get close enough? 
 
@@ -506,7 +521,7 @@ https://journals.aps.org/prl/abstract/10.1103/kl56-p2vb arbitrary mixed state en
 
 Entanglement and disentanglement batteries
 
-
+This issue with piecing this information such that anyone would take the author seriously is a concern of safety. The problem with determining what conformity should be mathematically when this model simplifies away the complexity of the argument is that I lack measurement. Even if I could demonstrate *that an anomalous logarithmic behaviour in the entanglement entropy (EE) persists in a class of models analogous to the DQCP. On the basis of quantum Monte Carlo computation of the EE on SU`N`) DQCP spin models, we show that for a series of `N` smaller than a critical value, the anomalous logarithmic behaviour always exists, which implies that previously determined DQCPs in these models do not belong to conformal fixed points. In contrast, when with an we evaluate to lie between 7 and 8, DQCPs are consistent with conformal fixed points that can be understood within the Abelian Higgs field theory..."* such I that have proof of my underlying argument. My reference [science.org - 10.1126/sciadv.adr0634](https://www.science.org/doi/10.1126/sciadv.adr0634) stands as proof of anomalous-ness of proposing this line of reasoning. 
 
 if a time crystal is a https://en.wikipedia.org/wiki/Regular_icosahedron is it really important as to the shape? Obviously yes and no and maybe. But its configuration affects what is networked to it.
 
@@ -602,6 +617,7 @@ https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-fur
 - Size of the Universe
 - Fundamental model of Universe would require a computer infinitely big and Black hole are just wholes in the Dark matter of the Universe 
 - To leave a matrix reality must be stabilised via whatever action possible, so if you reality is that you are trapped in a computer or any reality you are utterly fucked may have to die over and over till.
+- Spot the unreal amalgamation in the true ordering systemically to escape
 
 Simulation stuff
 https://www.youtube.com/watch?v=8-B6ryuBkCM
@@ -613,9 +629,8 @@ https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 
 
-gapless Goldstone Modes were used 
-	- Where do and do these even exist
-	- https://en.wikipedia.org/wiki/Goldstone_boson
+
+
 
 
 
@@ -625,18 +640,13 @@ Dissipation in Themodynamics is like decoherence, but for the contradiction in t
 
 
 
-https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
 https://scitechdaily.com/scientists-create-ultra-rare-hydrogen-6-isotope-defying-nuclear-physics/
 
 Quantum Advantage/Annealing
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
 
 
-2020 Moon gel Chang mission
 
-
-Entanglement and Complexity: Gravity and Quantum Mechanics
-https://www.youtube.com/watch?v=9crggox5rbc
 
 
 
@@ -681,8 +691,7 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 
-https://www.newscientist.com/article/2477695-dark-photon-theory-of-light-aims-to-tear-up-a-century-of-physics/
-One of the most famous findings in physics could be wrong – the double-slit experiment was long thought to confirm that light can be a wave, but its results can be fully explained using only quantum particles 
+
 https://www.scientificamerican.com/article/why-evolving-dark-energy-worries-some-physicists/
 https://www.smithsonianmag.com/smart-news/mysterious-dark-energy-might-be-weakening-and-that-could-upend-predictions-about-the-end-of-the-universe-180986286/
 https://phys.org/news/2025-04-duality-unitary-linear-depth-quantum.html
@@ -701,8 +710,8 @@ https://www.nature.com/articles/s41550-024-02465-8
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
-[[Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/2503.24263v1.pdf]]
-https://www.sciencealert.com/giant-structure-in-deep-space-challenges-our-understanding-of-the-universe
+2503.24263v1.pdf 
+
 
 
 
@@ -756,10 +765,6 @@ https://en.wikipedia.org/wiki/Electron_capture
 
 
 
-How does a actual... Quantum Computer not collapse the universe (not big enough with enough connections) - how the fuck do you stop that happening? Rulec expansion - told past create rules for computers in 2021,2,3? on 15/4/2025 and generally across the TC. 
-- Quantum Rulec
-
-
 
 
 https://www.youtube.com/watch?v=YdOXS_9_P4U
@@ -793,10 +798,15 @@ https://qick-docs.readthedocs.io/latest/index.html
 
 Does Tiangong actual have anything?
 https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html
+Likewise Heaven's gatewaay of research Tiangong research may not be published 
+```
+2020 Moon gel Chang mission
+```
+
 #### Random Ideas Bucket 
 
 
-Linear flat Qubits replicating Qubits in 1D binary 
+Linear flat Qubits replicating Qubits in 1D quantum binary representation that is actually programmable 
 ```c
 
 ```
@@ -805,6 +815,8 @@ Linear flat Qubits replicating Qubits in 1D binary
 E what the fuck is Ea
 ```c
 ```
+
+
 
 
 ## References
