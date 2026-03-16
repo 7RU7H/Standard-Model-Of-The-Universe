@@ -98,11 +98,7 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 
 
-? Naming conventions
 
-Quantum Crystals -> Syrstal
-
-decision: force -> interaction, Force interacts ?!? 
 
 #### Time 
 - Time is one dimensional and deterministic
@@ -112,6 +108,7 @@ decision: force -> interaction, Force interacts ?!?
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 > `E=CM^2`
 
+All Energy and Matter is a 3 dimensional matrix multiplication of all action one universal increment at a time. Its just that there is still confusion about dark and light Energy supposedly. Not in this text.
 
 What is the Delta of infinitely regressive delta of the Universe precisely at this moment?
 - rate of time? measure twice
@@ -187,7 +184,7 @@ https://www.nature.com/articles/s41467-025-59152-z
 [Hamiltonian](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics) *"is an operator corresponding to the total energy of the system in most of the cases."*
 - [Quantum-non-demolition measurement](https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement) *"Quantum nondemolition measurement is a special type of measurement of a quantum system in which the uncertainty of the measured observable does not increase from its measured value during the subsequent normal evolution of the system."*
 -
-[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\))(https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
+[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\)) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
 
 https://scitechdaily.com/they-built-a-crystal-to-trap-light-and-found-a-new-kind-of-quantum-link/
 *"This cavity confines light, which strongly enhances the electromagnetic fields and leads to strong coupling between light and matter, creating quantum superposition states ⎯ so-called"*...
@@ -218,7 +215,28 @@ Harmonic rotation and alignment for large time crystal to create portals? Requir
 
 Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
 
-?
+Ubiquitous unnamed properties akin to specifically [Antiferromagnetism](https://en.wikipedia.org/wiki/Antiferromagnetism), the opposite is deducable; for all the following:
+- Antiferromagnetic-like states that disentangle or decouple energy from origin mass 
+- Antiferromagnetic-like states that disentangle or decouple energy from origin mass through time
+- Antiferromagnetic-like states that disentangle or decouple energy from origin mass that are locked in parabola harmony 
+- Antiferromagnetic-like states that disentangle or decouple energy from origin mass that are locked in parabola disharmony 
+- All of the above separately as expressed as also a Néel state is an antiferromagnetic order where adjacent spins are aligned oppositely as a quantum mechanically affector
+- All of the above separately as expressed as also a VBS state is characterized by pairs of spins that are entangled, forming a solid-like structure as a quantum mechanically affector
+- All of the above except neither Néel nor VBS state is the quantum affector
+- Where the affected metastate is a lattice
+- Where affected metastates and inner states causes Magnon Excited State in one or more Neutron
+- Where affected metastates and inner states or partial Spin Glass State in one or more sections of the metastate's spins becomes frozen
+- Where affected metastates and inner states or partial Helical Magnetic State in one or more sections of the metastate's spins becomes a Helical Magnetic State that is
+	- not a sustained quantum vortex
+	- sustained localised quantum vortex
+- Where affected metastates and inner states or partial Skyrmion Lattice State in one or more sections of the metastate's spins becomes a Skyrmion Lattice State
+- Where affected metastates and inner states or partial highly entangled spin state become more so material dependent
+
+
+Paramagnetic States are random and therefore discreditable with enough evidence
+
+
+
 #### Of Energy
 
 Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy 
@@ -232,7 +250,7 @@ So why does Methylene Blue Research show an improvement in Epileptics, could tha
 - [https://pubmed.ncbi.nlm.nih.gov/8971139](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuUWdkWDdUVkhHR3hTeDlxLWRiRUN3ZzJfUXxBQ3Jtc0tscHFMR0pmRXRjc3NHSHJ4cDFTZ2I5RS1URU0xYTM0SGIyb1FJZnFKZFh5MEEzR0tvMHN6UG1IMG80dngxczc4UTk5Mm1xeHJFS0pmMzJQZ296MTRnTUhSdEpCRXhoZlBPUUhZTDNPdm1WN3pGWFNXZw&q=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F8971139&v=W4tXqcXeHHM) 
 - [https://dx.doi.org/10.1115/1.1498850](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVsSUxreWdfM0dDUFg2YWYyZ3A3WURwa0NMUXxBQ3Jtc0ttZEZaQUktVTlXWkE5bWJiamJ0T3R1ekJISlhUQWhHYVRoWi1wbExlQWNZVHEyQ3gteUtzT2VFWkNidXhwUWk4ODhHdE9BZnhmcUxPd2UzemxuTU5MU05SUW5tMWZWWUpHSkk3X21WeERYM1RFd3JRMA&q=https%3A%2F%2Fdx.doi.org%2F10.1115%2F1.1498850&v=W4tXqcXeHHM)
 
-
+Show password
 
 PHIND:
 Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
@@ -664,7 +682,11 @@ https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place. Hopeful I get to part of a community that will actually talk to me enough that I do not accidentally forget parts of this. 
 
+One aspect that made writing this harder was the various sometimes conflicting to me and the naming conventions and numerousness of names. I do not think word reuse is the answer to making it easier to actually discuss this topic. I theorise that this is the primary reason as to why it has taken so long. Therefore I think humanity is inventive and curious enough to discover the mysteries of the universe.
 
+Quantum Crystals -> Syrstal
+
+decision: force -> interaction, Force interacts ?!? 
 
 #### Todo links
 
@@ -672,6 +694,13 @@ I think personally that to understand these concepts one needs to write their ow
 
 Dissipation in Themodynamics is like decoherence, but for the contradiction in the Standard Model issues - https://en.wikipedia.org/wiki/Dissipation
 
+
+https://scipost.org/SciPostPhys.10.2.033/pdf
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085117
+https://arxiv.org/html/2407.07334v1
+
+https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
+https://arxiv.org/abs/2504.10027
 
 
 
@@ -734,10 +763,7 @@ www.youtube.com/watch?v=4445Mbw8pYg
 
 
 
-
-
-https://thedebrief.org/defying-physics-new-study-reveals-the-secrets-of-quantum-phase-transitions/
-Matrix multiplication 
+ 
 https://en.wikipedia.org/wiki/Quantum_critical_point
 https://arxiv.org/abs/2504.10027
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
