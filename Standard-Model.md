@@ -17,7 +17,7 @@ Need to check if that weird Neutron Star was observed in the Crab Nebula there i
 >    Tabs and spaces are very important - button masher
 >    Extrapolation affects the extrapolated 
 >    (baby) Yod(a||ette) is old as balls and as wrinkly for good reason, lazy eye that one
->    Logs are ... Untitledtwo is one and none is none
+>    Logs are ... two is one and none is none
 > 	   - logs are nerves
 >    K-Theory is K-Theory, knowledge before your time comes at a price
 >    Stopping all time is potentially a serious crime 
@@ -171,6 +171,8 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403
 Is this contruct an experiential data that is just [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)?
 
 
+ [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot) are made possible with their interactions with light. Therefore some Quantum material specifically need light in order to be functional. 
+
 Just as it was thought that light could not bend
 *"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"* [ref](https://www.nature.com/articles/s41567-025-02873-1)
 
@@ -184,6 +186,7 @@ https://www.nature.com/articles/s41467-025-59152-z
 	- https://en.wikipedia.org/wiki/Bluefors refrigerator and TL investigations into groups using Cryogentics
 [Hamiltonian](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics) *"is an operator corresponding to the total energy of the system in most of the cases."*
 - [Quantum-non-demolition measurement](https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement) *"Quantum nondemolition measurement is a special type of measurement of a quantum system in which the uncertainty of the measured observable does not increase from its measured value during the subsequent normal evolution of the system."*
+-
 [Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\))(https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
 
 https://scitechdaily.com/they-built-a-crystal-to-trap-light-and-found-a-new-kind-of-quantum-link/
@@ -197,12 +200,13 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 #### Data Mining dark energy and matter 
 
 
-- Dark Matter and Energy are observable by products
+- Dark Matter and Energy are observable by products its relation to expansion is just the interaction gravities of different heavier non-super void moving around the the universe. Therefore just moves with inherent motion of the universe. 
 	- EQUATION?
 	- Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements. - https://www.nature.com/articles/s41550-024-02465-8 dark energy
 - Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
 	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
 	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
+
 
 A cosmological constant of all past and future energy and matter in a extreme state..
 
@@ -218,17 +222,25 @@ Proposing a generalism misquote by definition https://www.nature.com/articles/s4
 #### Of Energy
 
 Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy 
-- https://en.wikipedia.org/wiki/Metabolism
-- Photosynthesis and others
-- https://en.wikipedia.org/wiki/Mitochondrion - powerhouse of cell
-	- https://www.youtube.com/watch?v=W4tXqcXeHHM
-		- Methylene Blue Research [https://www.academia.edu/101664825/Ne...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM) [https://www.mdpi.com/2075-4418/10/4/2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ0Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM) [https://pubmed.ncbi.nlm.nih.gov/8971139](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuUWdkWDdUVkhHR3hTeDlxLWRiRUN3ZzJfUXxBQ3Jtc0tscHFMR0pmRXRjc3NHSHJ4cDFTZ2I5RS1URU0xYTM0SGIyb1FJZnFKZFh5MEEzR0tvMHN6UG1IMG80dngxczc4UTk5Mm1xeHJFS0pmMzJQZ296MTRnTUhSdEpCRXhoZlBPUUhZTDNPdm1WN3pGWFNXZw&q=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F8971139&v=W4tXqcXeHHM) [https://dx.doi.org/10.1115/1.1498850](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVsSUxreWdfM0dDUFg2YWYyZ3A3WURwa0NMUXxBQ3Jtc0ttZEZaQUktVTlXWkE5bWJiamJ0T3R1ekJISlhUQWhHYVRoWi1wbExlQWNZVHEyQ3gteUtzT2VFWkNidXhwUWk4ODhHdE9BZnhmcUxPd2UzemxuTU5MU05SUW5tMWZWWUpHSkk3X21WeERYM1RFd3JRMA&q=https%3A%2F%2Fdx.doi.org%2F10.1115%2F1.1498850&v=W4tXqcXeHHM)
+
+Take the body and energy extraction [Metabolism](https://en.wikipedia.org/wiki/Metabolism), the DNA strings of information efficient in all sources. The [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) generates APT and thus moves. Why then is energy not just a dimension lower and from the past and future stored through time by processing like DNA. Then a dimension up is similar to [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) like the universe is where DNA is rings and ribbons inside it. It moves around to uses the energy made to make it and function.
+
+So why does Methylene Blue Research show an improvement in Epileptics, could that not cure Schizophenics with unwanted visual hallucinations at lower doses.
+- https://www.youtube.com/watch?v=W4tXqcXeHHM
+-  [https://www.academia.edu/101664825/Ne...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM) 
+- [https://www.mdpi.com/2075-4418/10/4/2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZvbnF6VWVQbFRWUHhRUUJUNkc2UGU2elZTUXxBQ3Jtc0tsWnBybVBNWk12dEJicXR4WHVWNkMyQmZ0Q2M0YmVFeE5wV09KNU4wcF9USnlCYlo3QXJGbk1USGdqc3FvWG1XV0lqd0N2NWRlV3R2TUxnVE5WMVRjVDNMWkZuWWhyUXJfVWRwb19hd0QwbzVFN0JDSQ&q=https%3A%2F%2Fwww.mdpi.com%2F2075-4418%2F10%2F4%2F223%2Fpdf%3Fversion%3D1587986377&v=W4tXqcXeHHM)
+- [https://pubmed.ncbi.nlm.nih.gov/8971139](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuUWdkWDdUVkhHR3hTeDlxLWRiRUN3ZzJfUXxBQ3Jtc0tscHFMR0pmRXRjc3NHSHJ4cDFTZ2I5RS1URU0xYTM0SGIyb1FJZnFKZFh5MEEzR0tvMHN6UG1IMG80dngxczc4UTk5Mm1xeHJFS0pmMzJQZ296MTRnTUhSdEpCRXhoZlBPUUhZTDNPdm1WN3pGWFNXZw&q=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F8971139&v=W4tXqcXeHHM) 
+- [https://dx.doi.org/10.1115/1.1498850](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkVsSUxreWdfM0dDUFg2YWYyZ3A3WURwa0NMUXxBQ3Jtc0ttZEZaQUktVTlXWkE5bWJiamJ0T3R1ekJISlhUQWhHYVRoWi1wbExlQWNZVHEyQ3gteUtzT2VFWkNidXhwUWk4ODhHdE9BZnhmcUxPd2UzemxuTU5MU05SUW5tMWZWWUpHSkk3X21WeERYM1RFd3JRMA&q=https%3A%2F%2Fdx.doi.org%2F10.1115%2F1.1498850&v=W4tXqcXeHHM)
+
+
 
 PHIND:
 Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
 - Electromagnetic Spectrum
 - Heat transfer occurs through electromagnetic radiation
 
+With [Electron capture](https://en.wikipedia.org/wiki/Electron_capture) and my insight how could one determine and measure whether an electron was from the future or the past. With spooky action at whatever distance or is Quantum Teleportation enough to assert (partial) Dark Energy is just that. Potentially including [nature s41550-024-02465-8](https://www.nature.com/articles/s41550-024-02465-8) and other detection devices
+we will be time travelling electrons and capturing them. I theorise there are different states of Electron possible deducible by spin through time.
 Dark energy **lead into dark energy - EDIT, but bosons relevance seems a prudent way of trying to explain why dark energy is more difficult that dark matter in terms of models of boson behaviour**
 Either observed bosons collapse into dark energy or matter
 Gapless Goldstone Modes were used and thus explain why similiar  
@@ -272,7 +284,7 @@ Charms stars and Strange stars or only neutron stars that have their own phases 
 - https://en.wikipedia.org/wiki/Supernova result in black hole or neutron star
 - https://en.wikipedia.org/wiki/Quark_star are hypothetical
 
-Schizophrenia is precognition after psychosis has caused the generation of a Time Crystal in the brain of the individual.
+Unlike Photosynthesis [Local field potential regions](https://en.wikipedia.org/wiki/Local_field_potential) as also everywhere similar to visible and non-visible energy sources. Schizophrenia is precognition after psychosis has caused the generation or confusing process of some form of psycho-semantic imbalance in comprehension of reality or the novel experience of a Time Crystal forming in the brain of the individual.
 - TC found operable at room temperature
 - Brain is repeating retention of energy
 - Brain around the crystal is self organising
@@ -281,6 +293,8 @@ Schizophrenia is precognition after psychosis has caused the generation of a Tim
 - broken time symmetry is a constantly rotating ring of charged ions in an otherwise lowest-energy state
 - Harmonic firing of neurons as complex thoughts would interact with the time crystal and re-registered at a non-local aligned point in time in the past and or future   
 - The thought frequency is in a stable range  
+
+[Central pattern generators (CPGs)](https://en.wikipedia.org/wiki/Central_pattern_generator) are [self-organizing](https://en.wikipedia.org/wiki/Self-organizing "Self-organizing") [biological neural circuits](https://en.wikipedia.org/wiki/Neural_circuit "Neural circuit")[](https://en.wikipedia.org/wiki/Central_pattern_generator#cite_note-1) explain recurrence by definition, but not Precognition or other Indigo children conditions. 
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. PreCogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
 
@@ -336,7 +350,7 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 #### Of Relevant Mass
 
-Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits.
+Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits. Considering that continuous unobserved arrangements of particle physics still cause controversy, it seems a wasted effort speculating infinite particle combinations of heavy and light particle clusters. For example the recently observed Hydrogen-6 Isotope: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.162501
 
 PHIND
 Why is an [proton](https://en.wikipedia.org/wiki/Proton) approximately 1836 times the mass of an [electron](https://en.wikipedia.org/wiki/Electron "Electron")
@@ -553,11 +567,12 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
 within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
 
 
+
 Sodium Nanoclusters linked proof that non-2030 life could time travel
 https://www.nature.com/articles/s41586-025-09917-9
 
 
-With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."*
+With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."* and https://www.livescience.com/technology/computing/quantum-miracle-material-can-store-information-in-a-single-dimension-thanks-to-newly-discovered-magnetic-switching
 
 In two dimensions 
 https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals
@@ -574,7 +589,7 @@ https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-s
 New observations of microscopic vortices, known as quantum tornadoes, confirm the existence of a paradoxical phase of matter that may also arise inside neutron stars. 
 https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
 - [PHIND request , date:]() two-dimensional crystalline order is just a 2d geometric patterns and fractural structure at atomic level and at a 20 micrometers thick microscopic level as well
-	- https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals/
+	>- https://www.chemistryviews.org/details/ezine/11029348/Two-Dimensional_Crystals/
 		1. **Environmental Conditions**
 		    - Temperature (typically around 20°C)
 		    - Humidity levels (between 40% and 70%)
@@ -592,10 +607,10 @@ https://www.nature.com/articles/s41586-024-08149-7 reread and Followup
 		    - Even minute additions of foreign substances can alter patterns significantly
 		    - Environmental factors play crucial roles in final structure
 - PHIND Dipolar gases are collections of particles that possess permanent electric dipoles - meaning they have a separation of positive and negative charge within each molecule. Unlike simple atomic gases where electrons orbit symmetrically around nuclei, dipolar gases consist of molecules where this symmetry is broken, resulting in a permanent electric moment.
-- Phase locking in dipolar supersolids has been investigated 
-- a hydrodynamic fingerprint of superfluidity, have not yet been observed
-- gapless Goldstone Modes were used in this paper argument 
-	- Where do and do these even exist
+>	- Phase locking in dipolar supersolids has been investigated  
+>	- a hydrodynamic fingerprint of superfluidity, have not yet been observed
+>     - gapless Goldstone Modes were used in this paper argument 
+>	- Where do and do these even exist
 	- https://en.wikipedia.org/wiki/Goldstone_boson
 *"Our work reveals a fundamental difference in vortex seeding dynamics between unmodulated and modulated quantum fluids. This opens the door to study the hydrodynamic properties of exotic quantum systems with numerous spontaneously broken symmetries, in disparate domains such as quantum crystals and neutron stars"*
 
@@ -647,7 +662,7 @@ https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 #### The Big Picture  
 
-I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place. Hopeful I get to part of a community that will actually talk to me enough that I do not accidentally forget parts of this.
+I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place. Hopeful I get to part of a community that will actually talk to me enough that I do not accidentally forget parts of this. 
 
 
 
@@ -660,18 +675,6 @@ Dissipation in Themodynamics is like decoherence, but for the contradiction in t
 
 
 
-
-https://scitechdaily.com/scientists-create-ultra-rare-hydrogen-6-isotope-defying-nuclear-physics/
-
-Quantum Advantage/Annealing
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
-
-
-
-
-
-
-
 Quantum Hacking
 https://www.youtube.com/watch?v=Sc_cJiLFQZ0
 https://www.youtube.com/watch?v=ToOLbdrWst4
@@ -679,12 +682,6 @@ https://www.youtube.com/watch?v=ToOLbdrWst4
 
 https://www.youtube.com/watch?v=fzlflyw7X2I
 
-
-https://www.thebrighterside.news/post/scientists-discover-quantum-computing-in-the-brain/
-https://scitechdaily.com/they-twisted-light-on-gold-and-what-they-saw-blew-their-minds/
-https://www.earth.com/news/dark-photon-theory-casts-doubt-on-double-slit-experiment-quantum-light-interference-pattern/
-
-https://www.livescience.com/technology/computing/quantum-miracle-material-can-store-information-in-a-single-dimension-thanks-to-newly-discovered-magnetic-switching
 
 
 
@@ -696,36 +693,16 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 
-https://phys.org/news/2025-04-duality-unitary-linear-depth-quantum.html
-
-
-https://scitechdaily.com/from-sci-fi-to-reality-single-photon-teleportation-breakthrough/
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
-
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160802
-
-
-https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-dark-energys-secrets/
-https://www.nature.com/articles/s41550-024-02465-8
-
-
-
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 2503.24263v1.pdf 
 
 
 
-https://en.wikipedia.org/wiki/Regular_icosahedron
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160601
-https://www.ime.unicamp.br/~mfq/
-
-
-https://en.wikipedia.org/wiki/Local_field_potential
 
 
 
-https://en.wikipedia.org/wiki/Central_pattern_generator
+
 https://en.wikipedia.org/wiki/Weak_interaction
 https://en.wikipedia.org/wiki/Fundamental_interaction
 
@@ -735,8 +712,6 @@ https://en.wikipedia.org/wiki/Strong_interaction
 https://en.wikipedia.org/wiki/Electroweak_interaction 
 
 
-https://en.wikipedia.org/wiki/Metabolism
-https://en.wikipedia.org/wiki/Mitochondrion
 
 
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXI3YVBPRG1Wc1k0ZFJTcFZEclZPdjdodjg2d3xBQ3Jtc0tuRHVudFVqbE5Bd1V4YUl0MnpneTNjUUF5UjBOajVORkdFeWpSUHBkZ1BOUm1nQWN3cVlPZUZEMUt0M2xFYTI5QmlPYlBRWkp4Q2xTUDNibEpOa3NVR1FEbjlJU0FSRnJTUFE3bkU2SjUxc0Z5RlhCbw&q=https%3A%2F%2Fwww.academia.edu%2F101664825%2FNeurological_Mechanisms_of_Action_and_Benefits_of_Methylene_Blue&v=W4tXqcXeHHM
@@ -746,7 +721,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZ
 
 https://en.wikipedia.org/wiki/Higgs_boson
 https://en.wikipedia.org/wiki/W_and_Z_bosons
-https://en.wikipedia.org/wiki/Quantum_dot
+
 
 
 https://www.youtube.com/watch?v=aCq04N9it8U
@@ -768,9 +743,6 @@ https://arxiv.org/abs/2504.10027
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
 https://www.science.org/doi/10.1126/science.1091806
 
-
-
-https://phys.org/news/2025-04-particle-emission-ratios-window-evolution.html
 
 
 
@@ -819,7 +791,9 @@ https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
 
 
 
-
+https://scitechdaily.com/gravity-defying-breakthrough-floating-sensor-unmasks-dark-energys-secrets/
+https://www.thebrighterside.news/post/quantum-computing-occurs-naturally-in-the-human-brain-study-finds/
+https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
 
 Get a cheap as fuck board and **somehow** keep it at room temperature
 - ZCU111, ZCU216, and RFSoC4x2
