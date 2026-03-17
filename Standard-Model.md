@@ -51,9 +51,6 @@ Equations plus simpletons explanations, potential sry in excalidraw
 Oscillator bell peppers to get quantum interaction that proves temporal memory 
 
 
-
-
-
 Triangles importance of triangles; quantum statistical zoning?
 https://www.youtube.com/watch?v=kbKtFN71Lfs
 
@@ -80,7 +77,7 @@ List what I am missing
 ...
 Hypothesis and Theory Fleshed out
 
-
+Quality check every single reference manually, because fuck whoever ask me to do this. Have you read everything in this repo yet...
 
 
 
@@ -232,6 +229,7 @@ Ubiquitous unnamed properties akin to specifically [Antiferromagnetism](https://
 - Where affected metastates and inner states or partial Skyrmion Lattice State in one or more sections of the metastate's spins becomes a Skyrmion Lattice State
 - Where affected metastates and inner states or partial highly entangled spin state become more so material dependent
 
+This work https://scipost.org/SciPostPhys.10.2.033/pdf reflect the 1d and 2 dimensional strangeness such the rules of the universe regarding QCP are strict down to the lowest material in three dimensions
 
 Paramagnetic States are random and therefore discreditable with enough evidence
 
@@ -695,7 +693,7 @@ decision: force -> interaction, Force interacts ?!?
 Dissipation in Themodynamics is like decoherence, but for the contradiction in the Standard Model issues - https://en.wikipedia.org/wiki/Dissipation
 
 
-https://scipost.org/SciPostPhys.10.2.033/pdf
+
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085117
 https://arxiv.org/html/2407.07334v1
 
@@ -714,6 +712,8 @@ https://www.youtube.com/watch?v=fzlflyw7X2I
 
 
 
+https://scholar.google.com/citations?user=LhKM_nIAAAAJ&hl=en found nanoparticle + map to look into above
+https://www.nature.com/articles/s41586-025-09917-9
 
 
 Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BACKUPS/Operation-KarlachBackShadowheartTrack/Inner-Neutron/krauss_Lectures_IntroToParticlePhysics_2010_Lecture9.pdf), dorking gets https://en.wikipedia.org/wiki/Gauge_theory
@@ -873,7 +873,5 @@ E what the fuck is Ea
 [nqcc](https://www.nqcc.ac.uk/resources/articles/)
 [technologyreview](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing)
 [microsoft](https://learn.microsoft.com/en-us/azure/quantum/overview-understanding-quantum-computing)
-
-
 
 https://www.thebrighterside.news/post/quantum-computing-occurs-naturally-in-the-human-brain-study-finds/

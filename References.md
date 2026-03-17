@@ -221,3 +221,5 @@ https://www.port.ac.uk/news-events-and-blogs/news/scientist-suggests-gravity-fur
 Sim stuff not checked
 https://www.youtube.com/watch?v=8-B6ryuBkCM
 https://www.youtube.com/watch?v=_YbGWoUaZg0
+
+https://scipost.org/SciPostPhys.10.2.033/pdf
