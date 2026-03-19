@@ -203,7 +203,9 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
 
 
-A cosmological constant of all past and future energy and matter in a extreme state..
+A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the 
+
+
 
 Supernovas don't speed up when expanding. it is just the observable data, not gravity or speed just observable speed of less and less, but just historiography of collapsing star.
 
@@ -212,6 +214,8 @@ Returning to subject of time
 Harmonic rotation and alignment for large time crystal to create portals? Requires a keystone indicator for a part of space and time that is to map to and from? Stargate-like? Best experiment on a satellite.
 
 Proposing a generalism misquote by definition https://www.nature.com/articles/s41586-025-09917-9 where all questions *"can be realized by matter-wave interferometry, in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself"*
+
+https://arxiv.org/abs/2504.10027 *The magnetic frustration inherent to this model drives phase transitions between two distinct symmetry-breaking states: a valence bond solid (VBS) phase and a Néel antiferromagnetic phase.*..*SrCu2(BO3)2 has provided the first experimental evidence of a proximate DQCP through a field-induced Bose-Einstein condensation, transitioning from the VBS state to the Néel state.* . Importantly the first to transition between the two so that is possible too. Entanglement entropy is decoherence between the environment and the lattice and therefore between how both are coherent enough to contained and observed transitioning. 
 
 Ubiquitous unnamed properties akin to specifically [Antiferromagnetism](https://en.wikipedia.org/wiki/Antiferromagnetism), the opposite is deducable; for all the following:
 - Antiferromagnetic-like states that disentangle or decouple energy from origin mass 
@@ -240,6 +244,8 @@ Paramagnetic States are random and therefore discreditable with enough evidence
 
 Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy.
 Superconductivity can only occur in very specific material [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism),
+
+A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the 
 
 therefore Dark Energy must have its own entropy to some diminishing returns breaks down waves a singular particle that must either bind to other matter in the future, present or the past.  
 
@@ -700,7 +706,6 @@ decision: force -> interaction, Force interacts ?!?
 
 
 
-Dissipation in Themodynamics is like decoherence, but for the contradiction in the Standard Model issues - https://en.wikipedia.org/wiki/Dissipation
 
 
 
