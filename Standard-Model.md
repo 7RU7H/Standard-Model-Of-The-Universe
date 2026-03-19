@@ -37,7 +37,8 @@ Need to check if that weird Neutron Star was observed in the Crab Nebula there i
 >   Dr Who's Birthday is happy analysis mode to you too fucknuts
 
 
-
+DQCP in 4 dimensions - not sure how much a dipole affect where in time past, present or future some matter or energy will go
+![](DQCP-in4d.excalidraw)
 #### Todo
 
 https://www.nature.com/articles/s41550-024-02465-8
@@ -237,7 +238,10 @@ Paramagnetic States are random and therefore discreditable with enough evidence
 
 #### Of Energy
 
-Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy 
+Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy.
+Superconductivity can only occur in very specific material [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism),
+
+therefore Dark Energy must have its own entropy to some diminishing returns breaks down waves a singular particle that must either bind to other matter in the future, present or the past.  
 
 Take the body and energy extraction [Metabolism](https://en.wikipedia.org/wiki/Metabolism), the DNA strings of information efficient in all sources. The [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) generates APT and thus moves. Why then is energy not just a dimension lower and from the past and future stored through time by processing like DNA. Then a dimension up is similar to [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) like the universe is where DNA is rings and ribbons inside it. It moves around to uses the energy made to make it and function.
 
@@ -368,6 +372,10 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits. Considering that continuous unobserved arrangements of particle physics still cause controversy, it seems a wasted effort speculating infinite particle combinations of heavy and light particle clusters. For example the recently observed Hydrogen-6 Isotope: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.162501
 
+https://www.nature.com/articles/s41586-025-09917-9 
+in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself[5](https://www.nature.com/articles/s41586-025-09917-9#ref-CR5 "Kovachy, T. et al. Quantum superposition at the half-metre scale. Nature 528, 530–533 (2015).")
+Similarly *Superposition of de Broglie matter waves has been observed for massive particles such as electrons, atoms and dimers, small van der Waals clusters, and neutrons.* https://ui.adsabs.harvard.edu/abs/1999Natur.401..680A/abstract
+
 PHIND
 Why is an [proton](https://en.wikipedia.org/wiki/Proton) approximately 1836 times the mass of an [electron](https://en.wikipedia.org/wiki/Electron "Electron")
 > **Quark Rest Mass**: Only about 1% of the proton's mass comes directly from its constituent quarks[](https://en.wikipedia.org/wiki/Proton)- [en.wikipedia.org](https://en.wikipedia.org/wiki/Proton)
@@ -483,7 +491,7 @@ Neutron Stars
 Neutron Stars do spin much faster the in Starsector and our sun where I discovered the existence in my personal life https://en.wikipedia.org/wiki/Stellar_rotation
 - Weird mass of one Neutron Stars 
 	- What happens if that collapses?
-	- 
+	- Cumulonimbus in nuclear pasta, what phase of Neutron star is that?
 
 
 Boby tissue possesses *characteristics of stress-strain non-linearity and viscoelasticity*" https://ieeexplore.ieee.org/document/10935315 reservoir computing - “Common reservoirs include nonlinear dynamical systems like electrical circuits or tanks of fluid,” Kobayashi [said in a press statement](https://techxplore.com/news/2025-03-humans-hardware-biological-tissue.html). - https://www.popularmechanics.com/technology/a64717910/human-tissue-computing/
@@ -583,9 +591,11 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.2199
 within the silica glass that had been created by "micro-explosions" from the femtosecond lasers.
 
 
-
 Sodium Nanoclusters linked proof that non-2030 life could time travel
-https://www.nature.com/articles/s41586-025-09917-9
+https://www.nature.com/articles/s41586-025-09917-9 
+referencings https://ui.adsabs.harvard.edu/abs/1999Natur.401..680A/abstract
+*sodium nanoparticles, which can each contain more than 7,000 atoms at masses greater than 170,000 Da. They propagate in a Schrödinger cat state with a macroscopicity[10](https://www.nature.com/articles/s41586-025-09917-9#ref-CR10 "Nimmrichter, S. & Hornberger, K. Macroscopicity of mechanical quantum superposition states. Phys. Rev. Lett. 110, 160403 (2013).") of _μ_ = 15.5, surpassing previous experiments[5](https://www.nature.com/articles/s41586-025-09917-9#ref-CR5 "Kovachy, T. et al. Quantum superposition at the half-metre scale. Nature 528, 530–533 (2015)."),[9](https://www.nature.com/articles/s41586-025-09917-9#ref-CR9 "Fein, Y. Y. et al. Quantum superposition of molecules beyond 25 kDa. Nat. Phys. 15, 1242–1245 (2019)."),[11](https://www.nature.com/articles/s41586-025-09917-9#ref-CR11 "Schrinski, B. et al. Macroscopic quantum test with bulk acoustic wave resonators. Phys. Rev. Lett. 130, 133604 (2023).") by an order of magnitude.*
+
 
 
 With https://www.impactlab.com/2025/03/03/chromium-sulfide-bromide-a-quantum-miracle-material-for-magnetic-switching-and-information-processing/ *"Chromium sulfide bromide is capable of magnetic switching...* it *"has unique properties that allow it to encode quantum information in excitons. An exciton forms when an electron is excited into a higher energy state, leaving behind a hole."* and https://www.livescience.com/technology/computing/quantum-miracle-material-can-store-information-in-a-single-dimension-thanks-to-newly-discovered-magnetic-switching
@@ -697,6 +707,9 @@ Dissipation in Themodynamics is like decoherence, but for the contradiction in t
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085117
 https://arxiv.org/html/2407.07334v1
 
+
+
+
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
 https://arxiv.org/abs/2504.10027
 
@@ -712,7 +725,12 @@ https://www.youtube.com/watch?v=fzlflyw7X2I
 
 
 
-https://scholar.google.com/citations?user=LhKM_nIAAAAJ&hl=en found nanoparticle + map to look into above
+https://scholar.google.com/citations?user=LhKM_nIAAAAJ&hl=en found nanoparticle 
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LhKM_nIAAAAJ&citation_for_view=LhKM_nIAAAAJ:ZeXyd9-uunAC
+in macromolecule interferometry can be combined with the state of the art in cluster physics to push the mass record for matter-wave interference with wide state separation by 3 to 4 orders of magnitude. We show how near-field interferometers in different configurations can achieve this goal for a wide range of particle materials with strongly varying properties.
+
+In which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itsel
+
 https://www.nature.com/articles/s41586-025-09917-9
 
 
@@ -736,7 +754,7 @@ https://en.wikipedia.org/wiki/Weak_interaction
 https://en.wikipedia.org/wiki/Fundamental_interaction
 
 
-https://en.wikipedia.org/wiki/Electromagnetism
+
 https://en.wikipedia.org/wiki/Strong_interaction
 https://en.wikipedia.org/wiki/Electroweak_interaction 
 
