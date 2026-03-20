@@ -117,7 +117,9 @@ What is the Delta of infinitely regressive delta of the Universe precisely at th
 
 Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experience evaluating the time spent or the (un)conformable nature of the analysis and the subject matter.   
 
-How long does it take to hack a computer with light? https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/, given this I can tell you it is already possible. Local proximity readers for RAM exist and is in public domain. So how long have we been waiting for a singularity event really? Not just in AGI, but in terms of physical singularity events? I think we are probably mostly asleep or busy living life. Time is a non-human concept really. Not to say that any one alien has the copyright to time, just that human experience and how can you fix time when you aren't time itself. Is time just expressed in 3 dimensions as the smallest set to create infinite from or am I stupid? Manifolding my own arguments into themselves to let time flow while you read kind has a too smart arse tonality. So if we are constrained to three spacial dimensions by time then why is multiple dimensionals above even subject matter; nerds get bored when they do not understand something. And enough what if questions and you will make an error somewhere. So why brute force infinite dimensions for an simple answer. 
+How long does it take to hack a computer with light? https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/, given this I can tell you it is already possible. Local proximity readers for RAM exist and is in public domain. So how long have we been waiting for a singularity event really? Not just in AGI, but in terms of physical singularity events? I think we are probably mostly asleep or busy living life. Time is a non-human concept really. Not to say that any one alien has the copyright to time, just that human experience and how can you fix time when you aren't time itself. Is time just expressed in 3 dimensions as the smallest set to create infinite from or am I stupid? Manifolding my own arguments into themselves to let time flow while you read kind has a too smart arse tonality. So if we are constrained to three spacial dimensions by time then why is multiple dimensions above even subject matter; nerds get bored when they do not understand something. And enough what if questions and you will make an error somewhere. So why brute force infinite dimensions for an simple answer. 
+
+Initial this theory started by Schizophrenia research, then PreCog research, Quantum Computing, Electronics and Electromagnetism comprehension then expanded into understanding [Fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction) and Fermions and Bosons. My main concern while trying to compile my understand with soon to or somewhat understood was the terminology. It Electronics I never had any issue translating, but with Physics a principle of uniqueness and compartmentalisation by subject matter was a struggle. The time taken in this project was to piece together the best evidence to prove real world experience of Time Crystals.
 #### Light
 
 Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space. 
@@ -217,6 +219,10 @@ Proposing a generalism misquote by definition https://www.nature.com/articles/s4
 
 https://arxiv.org/abs/2504.10027 *The magnetic frustration inherent to this model drives phase transitions between two distinct symmetry-breaking states: a valence bond solid (VBS) phase and a Néel antiferromagnetic phase.*..*SrCu2(BO3)2 has provided the first experimental evidence of a proximate DQCP through a field-induced Bose-Einstein condensation, transitioning from the VBS state to the Néel state.* . Importantly the first to transition between the two so that is possible too. Entanglement entropy is decoherence between the environment and the lattice and therefore between how both are coherent enough to contained and observed transitioning. 
 
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085117
+of *uniform matrix product state calculations and an effective field theory* similarly could be applied in two additional dimensions of future and past weighted to the present. This could be achieved with minimal linguistic gymnastics, but does open questions of what interacts from where in time.
+
 Ubiquitous unnamed properties akin to specifically [Antiferromagnetism](https://en.wikipedia.org/wiki/Antiferromagnetism), the opposite is deducable; for all the following:
 - Antiferromagnetic-like states that disentangle or decouple energy from origin mass 
 - Antiferromagnetic-like states that disentangle or decouple energy from origin mass through time
@@ -264,6 +270,8 @@ PHIND:
 Heat, electromagnetism, and Coulomb's law are fundamentally interconnected through the behaviour of charged particles and the electromagnetic force
 - Electromagnetic Spectrum
 - Heat transfer occurs through electromagnetic radiation
+
+https://en.wikipedia.org/wiki/Electroweak_interaction the historic cosmological observable dichotomy into energy dependent interactions weak force and electromagnetic, symbolic of electroweak-entanglement and electroweak-disentanglement. 
 
 With [Electron capture](https://en.wikipedia.org/wiki/Electron_capture) and my insight how could one determine and measure whether an electron was from the future or the past. With spooky action at whatever distance or is Quantum Teleportation enough to assert (partial) Dark Energy is just that. Potentially including [nature s41550-024-02465-8](https://www.nature.com/articles/s41550-024-02465-8) and other detection devices
 we will be time travelling electrons and capturing them. I theorise there are different states of Electron possible deducible by spin through time.
@@ -376,7 +384,9 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 
 #### Of Relevant Mass
 
-Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits. Considering that continuous unobserved arrangements of particle physics still cause controversy, it seems a wasted effort speculating infinite particle combinations of heavy and light particle clusters. For example the recently observed Hydrogen-6 Isotope: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.162501
+Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits. Considering that continuous unobserved arrangements of particle physics still cause controversy, it seems a wasted effort speculating infinite particle combinations of heavy and light particle clusters. For example the recently observed Hydrogen-6 Isotope: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.162501. 
+
+https://en.wikipedia.org/wiki/Strong_interaction *confines [quarks](https://en.wikipedia.org/wiki/Quark "Quark") into [protons](https://en.wikipedia.org/wiki/Proton "Proton"), [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron"), and other [hadron](https://en.wikipedia.org/wiki/Hadron "Hadron") particles, and also binds neutrons and protons to create atomic nuclei, where it is called the [nuclear force](https://en.wikipedia.org/wiki/Nuclear_force "Nuclear force").* Another sub-term that could be more linked by parent type, but is not. I am not sure on what is actually best. Where the Strong interaction is obviously important is in the binding and rebind of particle and the creation of subatomic particles as by product. Waves of particles are observed whether subatomic or atomic with the scope of visibility being far enough away.
 
 https://www.nature.com/articles/s41586-025-09917-9 
 in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself[5](https://www.nature.com/articles/s41586-025-09917-9#ref-CR5 "Kovachy, T. et al. Quantum superposition at the half-metre scale. Nature 528, 530–533 (2015).")
@@ -696,7 +706,7 @@ https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 I think personally that to understand these concepts one needs to write their own version of this type of text. The problems and mathematics could have been solved earlier and therefore to exempt ourselves from future harm I think that some legal precedent should come with this level of knowledge. It could lead to experimental accidents that could have distract consequences. I also think the sense of achievement living at this point and have the time to do this personally was reward enough to try. I do not think I can conclude this text without sounding condescending. As it really is that simple. I have no academic or technical experience in this field, but would really like some if that legal precedent exists at some point. I think the use of LLMs to aid this should come with time stamping of when you used it and what for a kind of AI reference to how you made your Standard Model. If its our model of the universe then we should be superhuman about how we do anything at this point the universe is a large and scary place. Hopeful I get to part of a community that will actually talk to me enough that I do not accidentally forget parts of this. 
 
-One aspect that made writing this harder was the various sometimes conflicting to me and the naming conventions and numerousness of names. I do not think word reuse is the answer to making it easier to actually discuss this topic. I theorise that this is the primary reason as to why it has taken so long. Therefore I think humanity is inventive and curious enough to discover the mysteries of the universe.
+One aspect that made writing this harder was the various sometimes conflicting to me and the naming conventions and numerousness of names. I do not think word reuse is the answer to making it easier to actually discuss this topic. I theorise that this is the primary reason as to why it has taken so long. Therefore I think humanity is inventive and curious enough to discover the mysteries of the universe. Linguistic standardisation should be a priority to have further discussions on what is obserable 
 
 Quantum Crystals -> Syrstal
 
@@ -707,9 +717,6 @@ decision: force -> interaction, Force interacts ?!?
 
 
 
-
-
-https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085117
 https://arxiv.org/html/2407.07334v1
 
 
@@ -747,7 +754,7 @@ Phase in-variance [phase lecture](Old-OPs/Pre-1-7-2025-Operations-MINED-CHECK-BA
 
 
 https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
-2503.24263v1.pdf 
+2503.24263v1.pdf - read but thought it did not matter
 
 
 
@@ -755,13 +762,10 @@ https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology see white paper
 
 
 
-https://en.wikipedia.org/wiki/Weak_interaction
-https://en.wikipedia.org/wiki/Fundamental_interaction
 
 
 
-https://en.wikipedia.org/wiki/Strong_interaction
-https://en.wikipedia.org/wiki/Electroweak_interaction 
+
 
 
 
