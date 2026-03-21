@@ -99,10 +99,36 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 
 #### Time 
-- Time is one dimensional and deterministic
+
+
+ Louis de Broglie a century ago proposal of *the wave nature of matter is a key ingredient of quantum physics and yet it defies our classical intuition.* https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LhKM_nIAAAAJ&citation_for_view=LhKM_nIAAAAJ:7PzlFSSx8tAC  It is demonstrative the serious lack of information about each layer of matter and observational perspective. While research has defined types and interaction it has still not succeeded in explaining the universe.
+ To start simply time is one dimensional and deterministic. But
 	- Predetermination
 	- Post-determination
-	- 
+	- Pre-present predetirmined (it has to remain in the present for it is constrain to be in this temporal point)
+
+Synchronicity Determination Weighting by Temporal Region - used GEMINI with UltraPrompts on 21/3/2026 to help generate this mathematical expressions
+
+$P(A∩B)=P(A)×P(B∣A)$
+$S=log(P)$ -> Past affects Future Present
+$S=log(P)$ -> Past affects Future Future
+$S=log(P)$ -> Present affects Past
+$S=log(P)$ -> Present affects Present
+$S=log(P)$ -> Present affect Future
+$S=log(P)$ -> Future affects Past Past
+$S=log(P)$ -> Future affects Past Present
+
+| **Influence Direction** | **Mathematical Expression**                               | **Logic Layer**                                                     |
+| ----------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Past → Present**      | $P(T_1 \cap T_0) = P(T_0) \times P(T_1 \mid T_0)$         | **Causality:** The foundation of the current moment.                |
+| **Past → Future**       | $P(T_2 \cap T_0) = P(T_0) \times P(T_2 \mid T_0)$         | **Trajectory:** The long-term echo of an initial action.            |
+| **Present → Past**      | $P(T_0 \cap T_1) = P(T_1) \times P(T_0 \mid T_1)$         | **Retro-Consistency:** The present "locks in" the past's necessity. |
+| **Present → Present**   | $P(A \cap B)_{T_1} = P(A)_{T_1} \times P(B \mid A)_{T_1}$ | **Coincidence:** Local synchronicity (Square the Circle).           |
+| **Present → Future**    | $P(T_2 \cap T_1) = P(T_1) \times P(T_2 \mid T_1)$         | **Manifestation:** Current intent shaping the outcome.              |
+| **Future → Past**       | $P(T_0 \cap T_2) = P(T_2) \times P(T_0 \mid T_2)$         | **Retrocausality:** The future "pulling" the past toward it.        |
+
+
+
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 > `E=CM^2`
 
@@ -719,9 +745,6 @@ decision: force -> interaction, Force interacts ?!?
 
 https://arxiv.org/html/2407.07334v1
 
-
-
-
 https://phys.org/news/2025-04-physicists-uncover-hidden-quantum-world.html
 https://arxiv.org/abs/2504.10027
 
@@ -736,12 +759,14 @@ https://www.youtube.com/watch?v=fzlflyw7X2I
 
 
 
+interferometry over lapping and multiple 
 
+  
 https://scholar.google.com/citations?user=LhKM_nIAAAAJ&hl=en found nanoparticle 
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LhKM_nIAAAAJ&citation_for_view=LhKM_nIAAAAJ:ZeXyd9-uunAC
 in macromolecule interferometry can be combined with the state of the art in cluster physics to push the mass record for matter-wave interference with wide state separation by 3 to 4 orders of magnitude. We show how near-field interferometers in different configurations can achieve this goal for a wide range of particle materials with strongly varying properties.
 
-In which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itsel
+In which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself
 
 https://www.nature.com/articles/s41586-025-09917-9
 
@@ -821,10 +846,6 @@ Gravity reconsideration
 
 
 
-https://en.wikipedia.org/wiki/Electron_capture
-
-
-
 
 
 
@@ -835,10 +856,6 @@ https://www.youtube.com/watch?v=YdOXS_9_P4U
 
 
 
-
-
-Atomic level phases emerge
-https://phys.org/news/2026-03-superradiant-clock-phase-emerges-rydberg.html
 
 #### The Big Picture Problem
 
