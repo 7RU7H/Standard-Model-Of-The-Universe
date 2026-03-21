@@ -107,6 +107,8 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 	- Post-determination
 	- Pre-present predetirmined (it has to remain in the present for it is constrain to be in this temporal point)
 
+[Wheeler's delayed-choice experiment (Wikipedia)](https://en.wikipedia.org/wiki/Wheeler%27s_delayed-choice_experiment) *"'It is wrong to attribute a tangibility to the photon in all its travel from the point of entry to its last instant of flight'"*, this paper suggests that entry point of any matter and energy light or dark could actually be from another point in time.
+
 Synchronicity Determination Weighting by Temporal Region - used GEMINI with UltraPrompts on 21/3/2026 to help generate this mathematical expressions
 
 $P(A∩B)=P(A)×P(B∣A)$
@@ -127,7 +129,13 @@ $S=log(P)$ -> Future affects Past Present
 | **Present → Future**    | $P(T_2 \cap T_1) = P(T_1) \times P(T_2 \mid T_1)$         | **Manifestation:** Current intent shaping the outcome.              |
 | **Future → Past**       | $P(T_0 \cap T_2) = P(T_2) \times P(T_0 \mid T_2)$         | **Retrocausality:** The future "pulling" the past toward it.        |
 
+It is worth noting that time is 0-1th dimension continuum so chaining these expressions is inherent to how `a -> b -> c`, the question is then significance and relevance in how much affect something from one temporal region can chain-affect another region. 
 
+More Diane 
+>Forward Causality: Past→Future (The classic "don't drink the glowing fluid" rule).- Retrocausality: Future→Past (The "I'm sending this back so you don't die" rule).
+Circular Consistency: The Novikov Self-Consistency Principle. This states that the probability of an event that would cause a paradox (like killing your own grandfather) is zero. 
+
+Although Circular consistency keeps the Universe stable enough to house life after billions of Years, but Quantum Teleportation is real. I think the issue is that most paradoxes of the 20th Century just do not have a creative solution to bypass the need to call it a paradox. 
 
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 > `E=CM^2`
