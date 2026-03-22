@@ -1,6 +1,8 @@
  https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/
 [journals.aps.org 10.1103/PhysRevLett.134.133603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.133603)
 [Wheeler's delayed-choice experiment (Wikipedia)](https://en.wikipedia.org/wiki/Wheeler%27s_delayed-choice_experiment) 
+https://scitechdaily.com/scientists-discover-hidden-topological-universe-inside-entangled-light/
+https://www.nature.com/articles/s41467-025-66066-3
  [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge)
  [quarks](https://en.wikipedia.org/wiki/Quark "Quark") 
  [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") 
@@ -211,7 +213,8 @@ https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-
 https://en.wikipedia.org/wiki/Time_crystal
 https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction
 https://youtube.com/shorts/F0kSJv1KBVg?si=IrUWq4vPvOlRieFt:
-
+https://elifesciences.org/reviewed-preprints/105081v1
+https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world
 
 https://www.youtube.com/watch?v=8JuWdXrCmWg 
 Simulating Time in Square-Root Space , Ryan Williams — https://eccc.weizmann.ac.il/report/2025/017/research paper) Tree Evaluation is in Space O(log n * log log n), James Cook and Ian Mertz — https://dl.acm.org/doi/10.1145/3618260.3649664(research paper) Pebbles and Branching Programs for Tree Evaluation, Stephen Cook, Pierre McKenzie, Dustin Wehr, Mark Braverman, Rahul Santhanam — https://arxiv.org/abs/1005.2642 (research paper) You Need Much Less Memory than Time, Lance Fortnow — https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html (blog, with quote about "... an earthquake of a result") Introduction to the Theory of Computation, Michael Sipser (textbook, table of contents is shown) Reusing Space: Techniques and Open Problems, Ian Mertz — https://iuuk.mff.cuni.cz/~iwmertz/papers/m23.reusing_space.pdf (survey article / notes)

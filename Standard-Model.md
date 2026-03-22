@@ -161,6 +161,13 @@ Light is really a particle in 2 dimensions that can be observed as waves in 3 di
 This text's evidence that light is finally considered just a particle stems from  [journals.aps.org 10.1103/PhysRevLett.134.133603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.133603)
 *"in quantum optics, classical interference emerges from collective bright and dark states of light, i.e., particular cases of two-mode binomial states, which are entangled superpositions of multimode photon-number states. This makes it possible to explain wave interference using the particle description of light and the superposition principle for linear systems only"*
 
+
+REFRAME ARGUMENT ABSTRACT HAS LOT https://www.nature.com/articles/s41467-025-66066-3 
+*For two-dimensional systems, we demonstrate multiple skyrmion topologies and their equivalence to ’t Hooft-Polyakov magnetic monopoles, experimentally connecting them to the Higgs field. In higher dimensions, we use non-Abelian gauge fields of SU(d) Yang-Mills theory to predict a rich tapestry of topological maps and their invariants, which we confirm experimentally for dimensionality up to seven, showing an underlying topology of 48 dimensions and a topological spectrum spanning over 17000 invariants. In addition to inducing robustness to perturbation, the topological spectrum enables probing them, by observing their emergent signatures in its non-topological spaces. The only degree of freedom we use to construct the topology is OAM, breaking away from the optical paradigm of polarisation-based spin-textured fields and forgoing the need for quantum state engineering. Our theoretical framework can be extrapolated to any dimension and degree of freedom, opening a distinct path for finding topologies in light.*
+
+https://scitechdaily.com/scientists-discover-hidden-topological-universe-inside-entangled-light/: 
+*measuring the orbital angular momentum of two entangled photons reveals a topological structure embedded within the entanglement itself. Because OAM can assume an unlimited range of values, the possible topological configurations are also effectively limitless*. Firstly the limitlessness should be concerning for all physicists that seek to disprove this text's theory. Secondly orbital angular momentum of two entangled photons reveals a topological structure embedded within the entanglement could be one the measurements to, which future hypothesises about where and which temporal region a particles is temporal entangled or disentangled from.  Most problematic potentially is various *we only need one property of light (orbital angular momentum of light) to make a topology* as to which property is observably chosen could have some affect on when and where that particle of light has arrived, in most cases the calculus of choosing in the Schrodinger's paradox will not matter. The problem being whether it mattered after the fact of measurement. Finally finding the highest topologies observable may provide use with insight as to the light that travelled furthest through time.
+
 WTF is colours in physics Colour confinement?... two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark
 - [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
 - Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language.
@@ -365,6 +372,8 @@ Unlike Photosynthesis [Local field potential regions](https://en.wikipedia.org/w
 [Central pattern generators (CPGs)](https://en.wikipedia.org/wiki/Central_pattern_generator) are [self-organizing](https://en.wikipedia.org/wiki/Self-organizing "Self-organizing") [biological neural circuits](https://en.wikipedia.org/wiki/Neural_circuit "Neural circuit")[](https://en.wikipedia.org/wiki/Central_pattern_generator#cite_note-1) explain recurrence by definition, but not Precognition or other Indigo children conditions. 
 
 Schizophrenia is informational communication through time in one body just as all physical body are affected by everything else that is relative in affecting that body. PreCogs exist as network of themselves through time. Although all information a body experiences is represented (Dreams, Nightmares, Truth, Falsities, non-frontal cortex interpretation from a different set(s) of experiences as a present cognition).
+
+https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world, because of re-experiencing the of memories and as (un)interactable memories, dreams, handling of important information between temporal different selves, similiarly to the experiment this natural occurrences of experiencing the properties of the Time Crystal central to Schizophrenia help focus perception, informational transfer and improving balancing of reality and not living in a bath. Self reflection on a meta level as humanity and world keeps spinning that is induced organically by having to deal with it.
 
 Nightmares are stored as a reflection of the set of "dark" (keeping to the theme) or negative negative [*Astrocytes* that *enable amygdala neural representations supporting memory*](https://www.nature.com/articles/s41586-025-10068-0). The either negative being the supporting functionality of the negative set or cluster of Astrocytes that stored fear as amalgamations of memories at a microscopic level.
 
@@ -744,10 +753,20 @@ One aspect that made writing this harder was the various sometimes conflicting t
 
 Quantum Crystals -> Syrstal
 
+Specificity on what type of dimensions
+
 decision: force -> interaction, Force interacts ?!? 
 
 #### Todo links
 
+https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world
+https://phys.org/news/2026-03-stacked-quantum-materials-enable-precise.html
+https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/
+https://phys.org/news/2026-03-simulations-breakthrough-turbulence.html
+https://phys.org/news/2026-03-asymmetric-torque-deterministic-antiferromagnetic-memory.html
+https://phys.org/news/2026-03-nanoengineered-spintronic-device-ways.html
+https://www.scientificamerican.com/article/physicists-discover-a-charmed-new-particle/
+https://phys.org/news/2026-03-blur-reverse-quantum.html
 
 
 
