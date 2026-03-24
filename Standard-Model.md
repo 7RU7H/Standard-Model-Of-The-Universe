@@ -44,26 +44,16 @@ DQCP in 4 dimensions - not sure how much a dipole affect where in time past, pre
 https://www.nature.com/articles/s41550-024-02465-8
 
 
-Split neural and universal sections
 
 Equations plus simpletons explanations, potential sry in excalidraw
 
 
-Oscillator bell peppers to get quantum interaction that proves temporal memory 
 
-
-Triangles importance of triangles; quantum statistical zoning?
-https://www.youtube.com/watch?v=kbKtFN71Lfs
 
 Binary state intuition
 https://www.youtube.com/watch?v=J_vXK9uvRf4
 
-Graph out connections of concepts by dependency
 
-Move everything speculatory to a community speculation section
-
-TL alignment structure in 1d sequence (not multiple participant) 
-https://www.youtube.com/watch?v=FGC5TdIiT9U
 
 Questions Section done
 Naming Conventions - yikes
@@ -95,21 +85,32 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 
 
-
-
-
 #### Time 
 
+To begin this text a discussion of the fundamental concept of time is requirement to lay out and link arguments from other sections to inform the reader. Time is one dimensional and has one direction. 
 
- Louis de Broglie a century ago proposal of *the wave nature of matter is a key ingredient of quantum physics and yet it defies our classical intuition.* https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LhKM_nIAAAAJ&citation_for_view=LhKM_nIAAAAJ:7PzlFSSx8tAC  It is demonstrative the serious lack of information about each layer of matter and observational perspective. While research has defined types and interaction it has still not succeeded in explaining the universe.
+Einstein proposing determinism 
+
+Quantum mechanic proposed 
+
+This led to Einstein's statements about spooky action at a distance affect provable through space. This text marries puts forward the argument that time and the universe is deterministic even at the quantum level. Due to the observation of Dark matter and energy and revelations regarding Schizophrenia, various concepts about the non-standard model of time are also expressed in this section to further explain the ramifications of Dark energy and matter mean at a conceptual level. This text claims that the with evidence of other phenomena that most simple and likeliest is that spooky action can occur through time. [Wheeler's delayed-choice experiment (Wikipedia)](https://en.wikipedia.org/wiki/Wheeler%27s_delayed-choice_experiment) *"'It is wrong to attribute a tangibility to the photon in all its travel from the point of entry to its last instant of flight'"*, this paper suggests that entry point of any matter and energy light or dark could actually be from another point in time.
+
+ Before Einstein, Louis de Broglie a century ago proposal of *the wave nature of matter is a key ingredient of quantum physics and yet it defies our classical intuition.* https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LhKM_nIAAAAJ&citation_for_view=LhKM_nIAAAAJ:7PzlFSSx8tAC  It is demonstrative of the severe lack of information about each layer of matter and observational perspective at the time. While research has defined types and interaction it has still not succeeded in explaining the universe.
  To start simply time is one dimensional and deterministic. But
-	- Predetermination
-	- Post-determination
-	- Pre-present predetirmined (it has to remain in the present for it is constrain to be in this temporal point)
+- Predetermination when information from the future is leaked to the past
+- Post-Detirmination when stored information from the past is entangling the future to determine the outcome
+- Pre-present predetirmined (it has to remain in the present for it is constrain to be in this temporal point) a stablising constant of the universe that is only bypassed under specific circumstances
 
-[Wheeler's delayed-choice experiment (Wikipedia)](https://en.wikipedia.org/wiki/Wheeler%27s_delayed-choice_experiment) *"'It is wrong to attribute a tangibility to the photon in all its travel from the point of entry to its last instant of flight'"*, this paper suggests that entry point of any matter and energy light or dark could actually be from another point in time.
+Forward Causality and Retrocausality being a common place part of the Universe with Dark Energy and Matter will be discussed in greater depth in the Of Energy and Of Mass sections. Although Circular consistency keeps the Universe stable enough to house life after billions of Years, but Quantum Teleportation is real. I think the issue is that most paradoxes of the 20th Century just do not have a creative solution to bypass the need to call it a paradox. Regarding the The Novikov Self-Consistency  can be bypassed in a number of ways, you could kill your own Grandfather, but would end up having to:
+- provide the sperm sample from your Grandfather
+- deep fake pictures and print them in the format found later
+- convince your Grandmother that this was a good idea 
 
-Synchronicity Determination Weighting by Temporal Region - used GEMINI with UltraPrompts on 21/3/2026 to help generate this mathematical expressions
+Although stability in the universe is a constant so degrees of Circular Consistency are being maintained by said constant, of we would live in a temporal period of the universe that was more volatile such that life may not be possible. Effectively by violating the organic ordering of events the work to stabilise the context to ensure the return would be forced to or allow stabilisation to occur via circumstance. No fading into oblivion for you, you just commit a potential crime against all Time Travellers.
+
+This paper remains true to the description of the universe being three spacial and one temporal and uses the term dimension only to refer to the dimensions this way where not possible elucidation as to the sources terminology usage will be provided. Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experience evaluating the time spent or the (un)conformable nature of the analysis and the subject matter. It is the complexity of observing time being subverted by Time Crystals, Dark Energy and Matter and other exotic forms that detracks from the simple intuition of Time having one direction. As Dimension time can can only represented as a map and not actuated into existence.
+
+Synchronicity in this text will refer to when interaction between time regions and zones affect one another provably. Synchronicity Determination Weighting by Temporal Region - used GEMINI with UltraPrompts on 21/3/2026 to help generate these expressions
 
 $P(A∩B)=P(A)×P(B∣A)$
 $S=log(P)$ -> Past affects Future Present
@@ -131,29 +132,24 @@ $S=log(P)$ -> Future affects Past Present
 
 It is worth noting that time is 0-1th dimension continuum so chaining these expressions is inherent to how `a -> b -> c`, the question is then significance and relevance in how much affect something from one temporal region can chain-affect another region. 
 
-More Diane 
->Forward Causality: Past→Future (The classic "don't drink the glowing fluid" rule).- Retrocausality: Future→Past (The "I'm sending this back so you don't die" rule).
-Circular Consistency: The Novikov Self-Consistency Principle. This states that the probability of an event that would cause a paradox (like killing your own grandfather) is zero. 
-
-Although Circular consistency keeps the Universe stable enough to house life after billions of Years, but Quantum Teleportation is real. I think the issue is that most paradoxes of the 20th Century just do not have a creative solution to bypass the need to call it a paradox. 
-
 Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe observable as wave or particles depending on interactions made through time
 > `E=CM^2`
 
 All Energy and Matter is a 3 dimensional matrix multiplication of all action one universal increment at a time. Its just that there is still confusion about dark and light Energy supposedly. Not in this text.
 
-What is the Delta of infinitely regressive delta of the Universe precisely at this moment?
+A more important is the Delta of infinitely regressive delta of the Universe precisely at this moment when their is a constant that stabilises the Universe?
 - rate of time? measure twice
 	- rate of gravitational waves?
 	- connection through certain Quantum order
 	- Dark matter stretching 
 	- Total strength of total Black hole - Total strength of total Neutron Stars
 
-Time may seem non-linear when it is a fractal set of all currently stored memories while feelings about time set the biological-hardware-level measurement for what the experience from going between A to B. A and B being a subjective set of sets that is dynamically formed by the arbitrary nature of the experience evaluating the time spent or the (un)conformable nature of the analysis and the subject matter.   
+My prediction is the Universe is infinite in space and time is merely whether the condition of the Universe is liveable to observe that it is. 
+
 
 How long does it take to hack a computer with light? https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/, given this I can tell you it is already possible. Local proximity readers for RAM exist and is in public domain. So how long have we been waiting for a singularity event really? Not just in AGI, but in terms of physical singularity events? I think we are probably mostly asleep or busy living life. Time is a non-human concept really. Not to say that any one alien has the copyright to time, just that human experience and how can you fix time when you aren't time itself. Is time just expressed in 3 dimensions as the smallest set to create infinite from or am I stupid? Manifolding my own arguments into themselves to let time flow while you read kind has a too smart arse tonality. So if we are constrained to three spacial dimensions by time then why is multiple dimensions above even subject matter; nerds get bored when they do not understand something. And enough what if questions and you will make an error somewhere. So why brute force infinite dimensions for an simple answer. 
 
-Initial this theory started by Schizophrenia research, then PreCog research, Quantum Computing, Electronics and Electromagnetism comprehension then expanded into understanding [Fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction) and Fermions and Bosons. My main concern while trying to compile my understand with soon to or somewhat understood was the terminology. It Electronics I never had any issue translating, but with Physics a principle of uniqueness and compartmentalisation by subject matter was a struggle. The time taken in this project was to piece together the best evidence to prove real world experience of Time Crystals.
+To return this text to origins while referencing a later section, the initially theory started by Schizophrenia research, then PreCog research, Quantum Computing, Electronics and Electromagnetism comprehension then expanded into understanding [Fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction) and Fermions and Bosons. My main concern while trying to compile my understand with soon to or somewhat understood was the terminology. It Electronics I never had any issue translating, but with Physics a principle of uniqueness and compartmentalisation by subject matter was a struggle. The time taken in this project was to piece together the best evidence to prove real world experience of Time Crystals.
 #### Light
 
 Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space. 
@@ -759,13 +755,18 @@ decision: force -> interaction, Force interacts ?!?
 
 #### Todo links
 
-https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world
+
 https://phys.org/news/2026-03-stacked-quantum-materials-enable-precise.html
-https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/
-https://phys.org/news/2026-03-simulations-breakthrough-turbulence.html
+https://phys.org/news/2023-08-quantum-materials-room-temperature.html
+https://www.nature.com/articles/s41467-025-64109-3
+
+
 https://phys.org/news/2026-03-asymmetric-torque-deterministic-antiferromagnetic-memory.html
 https://phys.org/news/2026-03-nanoengineered-spintronic-device-ways.html
+
 https://www.scientificamerican.com/article/physicists-discover-a-charmed-new-particle/
+
+
 https://phys.org/news/2026-03-blur-reverse-quantum.html
 
 
