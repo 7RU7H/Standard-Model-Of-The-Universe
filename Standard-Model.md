@@ -87,9 +87,11 @@ False data from TL intelligence: Washing machine, Dishwasher and Television + ?
 
 #### Time 
 
-To begin this text a discussion of the fundamental concept of time is requirement to lay out and link arguments from other sections to inform the reader. Time is one dimensional and has one direction. 
+To begin this text a discussion of the fundamental concept of time is requirement to lay out and link arguments from other sections to inform the reader. Time is one dimensional and has one direction. The challenge for the last Century of Physics is how to measure and how to measure when everything could affect anything experimental and the universe is moving constantly.
+
 
 Einstein proposing determinism 
+
 
 Quantum mechanic proposed 
 
@@ -268,6 +270,10 @@ that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-netw
 
 This paper seeks to continue the logical imperative Dark Matter and Energy are observable by products its relation to expansion is just the interaction gravities of different heavier non-super void moving around the the universe. Therefore just moves with inherent motion of the universe. A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the... 
 
+A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the 
+
+therefore Dark Energy must have its own entropy to some diminishing returns breaks down waves a singular particle that must either bind to other matter in the future, present or the past. Or are Super-voids just filled with mostly nothing including Dark Energy or entropifying Dark energy. 
+
 Given how young are stage of the Universe is the approximate percentages according to Gemini 25/3/2026
 
 | **Component**     | **Percentage** |
@@ -284,19 +290,32 @@ References
 - https://www.researchgate.net/figure/Elements-of-the-standard-LCDM-cosmological-model-Illustrated-by-the-pie-is-the-fraction_fig1_1765880
 
 
+What is yet to proven in a lab is how to make Dark Energy or Matter. Althought there have been steps to do so as in  the built extremely sensitive detectors deep underground (e.g. XENON1T, LUX-ZEPLIN). Also attempts to smash particles at the CERN using the Large Hadron Collider to _try_ to produce dark matter candidates. The most extreme places in the Universe may hold answers Black holes are holes in the Universe. Awhile this text hold that Black Holes are holes in the Universe to either outside the Universe or other to Blackholes that are connected within our Universe. Given the gravity and energy surrounding a Black Hole Dark matter or Energy could be found near by. It could be a extreme concentration of Dark Matter and Energy.
+
+Super Voids are another strange rabbit hole example were innert Black Hole may harmonically exist, but not expanding
+
+Additionally Neutron Stars or Charmed Stars if they found to exist or a phase of Neutron Stars not observable due to speed of transformation could also provide evidence that Dark Matter or Energy 
+
+Black holes ... because the Weight limits contradict limitations on the Universe
+
+Neutron Stars. are fixed Quantum Temporal positions of mass that counter the universe imploding
+
 
 	- EQUATION?
-	- Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements. - https://www.nature.com/articles/s41550-024-02465-8 dark energy
+	-
 - Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
-	- Black holes are holes in the Universe because the Weight limits contradict limitations on the Universe
-	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
 
 
 
 
 
 
-Supernovas don't speed up when expanding. it is just the observable data, not gravity or speed just observable speed of less and less, but just historiography of collapsing star.
+
+
+
+#### ARGH!
+
+
 
 Returning to subject of time
 
@@ -335,12 +354,12 @@ Paramagnetic States are random and therefore discreditable with enough evidence
 
 #### Of Energy
 
-Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy.
-Superconductivity can only occur in very specific material [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism),
+Energy into matter and vice-versa; dark energy into matter and vice-versa Matter into energy. The lengths to which can be coupled is yet to be understood or verified.
 
-A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the 
 
-therefore Dark Energy must have its own entropy to some diminishing returns breaks down waves a singular particle that must either bind to other matter in the future, present or the past.  
+What is known is Superconductivity can only occur in very specific material compositions and circumstances.
+
+
 
 Take the body and energy extraction [Metabolism](https://en.wikipedia.org/wiki/Metabolism), the DNA strings of information efficient in all sources. The [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) generates APT and thus moves. Why then is energy not just a dimension lower and from the past and future stored through time by processing like DNA. Then a dimension up is similar to [Mitochondrion]( https://en.wikipedia.org/wiki/Mitochondrion) like the universe is where DNA is rings and ribbons inside it. It moves around to uses the energy made to make it and function.
 
@@ -478,6 +497,13 @@ Fields are some contexts are just quantities. An the categorises of matter are n
 Spectrums of matter exist 
 
 https://en.wikipedia.org/wiki/Strong_interaction *confines [quarks](https://en.wikipedia.org/wiki/Quark "Quark") into [protons](https://en.wikipedia.org/wiki/Proton "Proton"), [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron"), and other [hadron](https://en.wikipedia.org/wiki/Hadron "Hadron") particles, and also binds neutrons and protons to create atomic nuclei, where it is called the [nuclear force](https://en.wikipedia.org/wiki/Nuclear_force "Nuclear force").* Another sub-term that could be more linked by parent type, but is not. I am not sure on what is actually best. Where the Strong interaction is obviously important is in the binding and rebind of particle and the creation of subatomic particles as by product. Waves of particles are observed whether subatomic or atomic with the scope of visibility being far enough away.
+
+Coupled with Super void and the squishing and expanding of the Universe... a counter to the long thought big bang and continuous expansion of the Universe is the Supernovas do not speed up when expanding
+From ChatGPT 25/3/2026
+From https://academic.oup.com/mnras/article/419/4/2783/2908026?login=false, not just gravity or speed of the explosion or the shifting of the universe just observable speed of less and less, but just historiography of collapsing star.
+- In Type II supernovae, measured expansion velocities **decline with time**
+> The photospheric velocity **“continuously declines with time”** as deeper, slower layers become visible.
+
 
 https://www.nature.com/articles/s41586-025-09917-9 
 in which the motion of individual massive particles becomes delocalized and needs to be described by a wave function that spans regions far larger than the particle itself[5](https://www.nature.com/articles/s41586-025-09917-9#ref-CR5 "Kovachy, T. et al. Quantum superposition at the half-metre scale. Nature 528, 530–533 (2015).")
