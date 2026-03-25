@@ -152,10 +152,21 @@ How long does it take to hack a computer with light? https://www.ecoportal.net/e
 To return this text to origins while referencing a later section, the initially theory started by Schizophrenia research, then PreCog research, Quantum Computing, Electronics and Electromagnetism comprehension then expanded into understanding [Fundamental interactions](https://en.wikipedia.org/wiki/Fundamental_interaction) and Fermions and Bosons. My main concern while trying to compile my understand with soon to or somewhat understood was the terminology. It Electronics I never had any issue translating, but with Physics a principle of uniqueness and compartmentalisation by subject matter was a struggle. The time taken in this project was to piece together the best evidence to prove real world experience of Time Crystals.
 #### Light
 
-Light is really a particle in 2 dimensions that can be observed as waves in 3 dimensional space. 
+Light is just particle that can be visible as waves. Until recently the Slit experiment and its interpretations have set physics back decades in creation of a Standard Model of the Universe. 
 
-This text's evidence that light is finally considered just a particle stems from  [journals.aps.org 10.1103/PhysRevLett.134.133603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.133603)
+Slit Experiement
+
+[Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot)s are made possible with their interactions with light. Therefore some Quantum material specifically need light in order to be functional. 
+
+Futhermore just as it was thought that light could not bend
+*"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"* [ref](https://www.nature.com/articles/s41567-025-02873-1)
+
+This suggests it is the trajectory that bends, 
+
+This text provides further evidence that light is finally considered just a particle stems from  [journals.aps.org 10.1103/PhysRevLett.134.133603](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.133603)
 *"in quantum optics, classical interference emerges from collective bright and dark states of light, i.e., particular cases of two-mode binomial states, which are entangled superpositions of multimode photon-number states. This makes it possible to explain wave interference using the particle description of light and the superposition principle for linear systems only"*
+
+Further examples in this section or later that directly or indirectly discuss light exemplifies the same principle that light is just particle that can appear to behaviour as a wave if observed at the range of which it appears to.
 
 
 REFRAME ARGUMENT ABSTRACT HAS LOT https://www.nature.com/articles/s41467-025-66066-3 
@@ -164,53 +175,21 @@ REFRAME ARGUMENT ABSTRACT HAS LOT https://www.nature.com/articles/s41467-025-660
 https://scitechdaily.com/scientists-discover-hidden-topological-universe-inside-entangled-light/: 
 *measuring the orbital angular momentum of two entangled photons reveals a topological structure embedded within the entanglement itself. Because OAM can assume an unlimited range of values, the possible topological configurations are also effectively limitless*. Firstly the limitlessness should be concerning for all physicists that seek to disprove this text's theory. Secondly orbital angular momentum of two entangled photons reveals a topological structure embedded within the entanglement could be one the measurements to, which future hypothesises about where and which temporal region a particles is temporal entangled or disentangled from.  Most problematic potentially is various *we only need one property of light (orbital angular momentum of light) to make a topology* as to which property is observably chosen could have some affect on when and where that particle of light has arrived, in most cases the calculus of choosing in the Schrodinger's paradox will not matter. The problem being whether it mattered after the fact of measurement. Finally finding the highest topologies observable may provide use with insight as to the light that travelled furthest through time.
 
-WTF is colours in physics Colour confinement?... two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark
-- [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
-- Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language.
+A more interest question for this century is what is colours in physics Colour confinement?. [Colour Change (Physics)](https://en.wikipedia.org/wiki/Color_charge) is a property of [quarks](https://en.wikipedia.org/wiki/Quark "Quark") and [gluons](https://en.wikipedia.org/wiki/Gluon "Gluon") that is related to the particles' [strong interactions](https://en.wikipedia.org/wiki/Strong_interaction "Strong interaction") in the theory of [quantum chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics "Quantum chromodynamics") (QCD).*"It determines how quarks and gluons interact through the strong interaction; being only positive and negative charges, there are three "charges", commonly called red, green, and blue. Additionally, there are three "anti-colours", commonly called anti-red, anti-green, and anti-blue."* **Unlike electric charge, colour charge is never observed in nature**
 
+REFERENCE
+Two colour charges remaining constant as they are separated, the energy grows until a quark-antiquark. 
+
+Does Colour change due to being transport through time to just to black or no colour or is it a background resonance of where energy should be at some point.
+
+Light can traverse time to unless forced to to observe what colour a quark or gluon is at a particular point in time.
+
+Is it just that light is transferred this way but dependent of device observing it and its physical context. Really need to map out forces in a way to simplify the abstractions through language.
 
 - [Colour](https://en.wikipedia.org/wiki/Color): is the [visual perception](https://en.wikipedia.org/wiki/Visual_perception "Visual perception") based on the [electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum "Electromagnetic spectrum"). -> Visual perception as a neural control flow? As information what is the self image recognition
 
-Light is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe. 
-> Hoodie experiment, similar to the slit experiment
-> 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer - WTFisLight 
 
-> 	What Waves, Particles or an effect produced 
-> 	What types of light exist
-> 	Hoodie Slit Experiment
-> 	Multiple eye lashes 
-> 	Amount of light
-
-Curved Grid
-- Fibres 
-- Orientation of sun and head
-- Reflection
-- Optic lens 
-- Interference
-
-> 1. Sunny Day
-> Outcome:
-> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
->-  The optical illusion of seeing multiple eye lashes
->- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain
->- Microodial structures 
-> Second time saw none of the above phenomena
-> Dualities non-trivialy intertwined closed boundary conditions and charge sectors ... can be as duality operators turned into unitary linear depth quantum circuits via the introduction of ancillary degrees of freedom that keep track of the various sectors. .. these dualities change the phase of the states on which they act
-https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403
-- dualities can be used to build circuits entailing order 
-- dualities can affect states
-- prepare short- and long-range entangled states 
-- map between different gapped boundaries of (2+1)⁢d topological models.
-
-Is this contruct an experiential data that is just [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)?
-
-
- [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot) are made possible with their interactions with light. Therefore some Quantum material specifically need light in order to be functional. 
-
-Just as it was thought that light could not bend
-*"measure the complex electric field distribution of the moiré skyrmion superlattice using time-resolved polarimetric photoemission electron microscopy"* [ref](https://www.nature.com/articles/s41567-025-02873-1)
-
-that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
+coupling
 
 https://scitechdaily.com/supercharged-qubits-how-mits-quarton-coupler-accelerates-quantum-computing/
 https://www.nature.com/articles/s41467-025-59152-z
@@ -220,21 +199,92 @@ https://www.nature.com/articles/s41467-025-59152-z
 	- https://en.wikipedia.org/wiki/Bluefors refrigerator and TL investigations into groups using Cryogentics
 [Hamiltonian](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics) *"is an operator corresponding to the total energy of the system in most of the cases."*
 - [Quantum-non-demolition measurement](https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement) *"Quantum nondemolition measurement is a special type of measurement of a quantum system in which the uncertainty of the measured observable does not increase from its measured value during the subsequent normal evolution of the system."*
--
-[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\)) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
+
+
+
+A beyond chicken and egg paradox is that Light itself is the resulting affect of Quantum and non-Quantum processes across all Time and Space in one universe, not just stars. 
+
+Light-matter hybrids exist 
+
 
 https://scitechdaily.com/they-built-a-crystal-to-trap-light-and-found-a-new-kind-of-quantum-link/
-*"This cavity confines light, which strongly enhances the electromagnetic fields and leads to strong coupling between light and matter, creating quantum superposition states ⎯ so-called"*...
-Polaritons also known as: hybrid light-matter states, present a way to control and manipulate light at very small scales. Polaritons can also behave collectively, giving rise to states of quantum entanglement
+*"This cavity confines light, which strongly enhances the electromagnetic fields and leads to strong coupling between light and matter, creating quantum superposition states ⎯ so-called"*... *Polaritons also known as: hybrid light-matter states, present a way to control and manipulate light at very small scales. Polaritons can also behave collectively, giving rise to states of quantum entanglement*
+
 > *"the interaction binding photons and electrons into polaritons is extremely intense ... the exchange of energy between light and matter happens so fast it resists dissipation ⎯ a new regime comes into effect known as ultrastrong coupling."*
    “Ultrastrong coupling describes an unusual mode of interaction between light and matter where the two become deeply hybridized,” said Tay, who is currently a postdoctoral researcher at Columbia University.
    *“Depending on the polarization of the light, the cavity modes either remain independent, or they mix together, forming completely new hybrid modes,” Tay said. “This suggests we can engineer materials where different cavity modes ‘talk’ to each other through the electrons in a magnetic field, creating new correlated states.”*
    *“This matter-mediated photon-photon coupling can lead to new protocols and algorithms in quantum computation and quantum communications,” Kono said.*
 
-#### Data Mining dark energy and matter 
 
 
-- Dark Matter and Energy are observable by products its relation to expansion is just the interaction gravities of different heavier non-super void moving around the the universe. Therefore just moves with inherent motion of the universe. 
+A simple experiment I tried with a Hoodie in the summer of 2025 was with a old Lidls Livergy IAN: 320555_1901 (Colour: Black)Hoodie with the hood up over my eyes (it has quiet a mesh like structure such that it lets light in) was to stare into the midday sun and perform an observation of a Double-Slit experiment.
+
+> Hoodie experiment, similar to the slit experiment
+> 1. Hoodie has mesh fibre structure (lots of squares) has two inner and outer layer - WTFisLight 
+
+> 	What Waves, Particles or an effect produced 
+> 	What types of light exist
+> 	Hoodie Slit Experiment
+> 	Multiple eye lashes 
+> 	Amount of light
+> 	Weird optics bacterial like a microscope
+> 	 Weird visions
+
+Curved Grid
+- Fibres 
+- Orientation of sun and head
+- Self Reflection and refraction
+- Reflection Optic lens 
+- Interference
+
+> 1. Sunny Day
+> Outcome:
+> - The light's permeability through these slits is always observed as circles over lapping one another. Light essential squares the circle as spiralic function to achieve optimal passage through at light speed.
+>-  The optical illusion of seeing multiple eye lashes
+>- I have also see weird microbe like shapes and other places (potential quantum interaction with the nerves connecting back into the brain
+>- Microodial structures 
+> Second time saw none of the above phenomena
+> Dualities non-trivially intertwined closed boundary conditions and charge sectors ... can be as duality operators turned into unitary linear depth quantum circuits via the introduction of ancillary degrees of freedom that keep track of the various sectors. .. these dualities change the phase of the states on which they act
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130403
+- dualities can be used to build circuits entailing order 
+- dualities can affect states
+- prepare short- and long-range entangled states 
+- map between different gapped boundaries of (2+1)⁢d topological models.
+
+Perform with a telescope and recording equipment
+
+Is this contruct an experiential data that is just [Neuromorphic Computing](https://www.ibm.com/think/topics/neuromorphic-computing)?
+
+
+
+that [identical photons](https://phys.org/news/2025-07-multisynapse-optical-network-outperforms-digital.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) propagating within optical circuits spontaneously behave like a Hopfield Network - https://phys.org/news/2026-02-brain-photons-artificial-memory.html
+
+
+-
+[Perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory_\(quantum_mechanics\)) *"In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one."*
+
+#### Of Dark energy and matter 
+
+
+This paper seeks to continue the logical imperative Dark Matter and Energy are observable by products its relation to expansion is just the interaction gravities of different heavier non-super void moving around the the universe. Therefore just moves with inherent motion of the universe. A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the... 
+
+Given how young are stage of the Universe is the approximate percentages according to Gemini 25/3/2026
+
+| **Component**     | **Percentage** |
+| ----------------- | -------------- |
+| **Dark Energy**   | **68%**        |
+| **Dark Matter**   | **27%**        |
+| **Normal Matter** | **5%**         |
+References
+- https://authors.library.caltech.edu/records/74pef-jas67#:~:text=Abstract,maps%20and%20the%20lensing%20reconstruction
+- https://www.researchgate.net/publication/336229506_Planck_2018_results_VI_Cosmological_parameters
+- https://authors.library.caltech.edu/records/74pef-jas67#:~:text=Abstract,maps%20and%20the%20lensing%20reconstruction
+- https://www.researchgate.net/figure/Elements-of-the-standard-LCDM-cosmological-model-Illustrated-by-the-pie-is-the-fraction_fig1_1765880
+- https://astrobites.org/2025/01/06/lambda_cdm/#:~:text=%CE%9BCDM%20has%20a%20lot%20to,which%20stands%20for%20dark%20energy
+- https://www.researchgate.net/figure/Elements-of-the-standard-LCDM-cosmological-model-Illustrated-by-the-pie-is-the-fraction_fig1_1765880
+
+
+
 	- EQUATION?
 	- Dark Energy and Matter is phase of energy and matter possible in the extremes of space in temporal spectrum of possible states OR it is just the universe is just much bigger than current measurements. - https://www.nature.com/articles/s41550-024-02465-8 dark energy
 - Limitation of weight in the universe is expressed as Neutron Stars and Black Holes
@@ -242,7 +292,7 @@ Polaritons also known as: hybrid light-matter states, present a way to control a
 	- Neutron Stars are fixed Quantum Temporal positions of mass that counter the universe imploding
 
 
-A cosmological constant of all past and future energy and matter in a extreme state.. dark energy as product of classical and quantum [dissipation](https://en.wikipedia.org/wiki/Dissipation). Dissipation of matter or energy in Themodynamics is like decoherence, but for the contradiction in the 
+
 
 
 
@@ -424,6 +474,8 @@ https://www.popularmechanics.com/science/health/a70463896/gene-therapy-reverses-
 #### Of Relevant Mass
 
 Fields are some contexts are just quantities. An the categorises of matter are numerous as really it just different sizes of bits. Considering that continuous unobserved arrangements of particle physics still cause controversy, it seems a wasted effort speculating infinite particle combinations of heavy and light particle clusters. For example the recently observed Hydrogen-6 Isotope: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.162501. 
+
+Spectrums of matter exist 
 
 https://en.wikipedia.org/wiki/Strong_interaction *confines [quarks](https://en.wikipedia.org/wiki/Quark "Quark") into [protons](https://en.wikipedia.org/wiki/Proton "Proton"), [neutrons](https://en.wikipedia.org/wiki/Neutron "Neutron"), and other [hadron](https://en.wikipedia.org/wiki/Hadron "Hadron") particles, and also binds neutrons and protons to create atomic nuclei, where it is called the [nuclear force](https://en.wikipedia.org/wiki/Nuclear_force "Nuclear force").* Another sub-term that could be more linked by parent type, but is not. I am not sure on what is actually best. Where the Strong interaction is obviously important is in the binding and rebind of particle and the creation of subatomic particles as by product. Waves of particles are observed whether subatomic or atomic with the scope of visibility being far enough away.
 

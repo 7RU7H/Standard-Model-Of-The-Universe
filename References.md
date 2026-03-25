@@ -226,3 +226,12 @@ https://www.youtube.com/watch?v=8-B6ryuBkCM
 https://www.youtube.com/watch?v=_YbGWoUaZg0
 
 https://scipost.org/SciPostPhys.10.2.033/pdf
+
+
+Dark Matter and Energy References
+- https://authors.library.caltech.edu/records/74pef-jas67#:~:text=Abstract,maps%20and%20the%20lensing%20reconstruction
+- https://www.researchgate.net/publication/336229506_Planck_2018_results_VI_Cosmological_parameters
+- https://authors.library.caltech.edu/records/74pef-jas67#:~:text=Abstract,maps%20and%20the%20lensing%20reconstruction
+- https://www.researchgate.net/figure/Elements-of-the-standard-LCDM-cosmological-model-Illustrated-by-the-pie-is-the-fraction_fig1_1765880
+- https://astrobites.org/2025/01/06/lambda_cdm/#:~:text=%CE%9BCDM%20has%20a%20lot%20to,which%20stands%20for%20dark%20energy
+- https://www.researchgate.net/figure/Elements-of-the-standard-LCDM-cosmological-model-Illustrated-by-the-pie-is-the-fraction_fig1_1765880
